@@ -228,7 +228,7 @@ full_path = r'C:\combined_test'
 # list_path = r'C:\Users\met28\OneDrive - Northern Arizona University\list'
 # path to gazetteer
 # gaz_path = r'C:\Users\met28\OneDrive - Northern Arizona University\Shared with Everyone\cp_place_names\gazetteer.txt'
-gaz_path = r'C:\Users\met28\OneDrive - Northern Arizona University\Shared with Everyone\combined_gazetteer\gazetteer.txt'
+gaz_path = 'gazetteer.txt'
 #####################################################################################################################
 
 resolved = {}
@@ -241,11 +241,14 @@ for filename in os.listdir(full_path):
         # locate each tagged toponym (tag = <toponym, ()>) and place in list
         topo_list = re.findall(r'<(.*?),', s)
         for topo in topo_list:
+            # one sense per document heuristic
             if topo in resolved.keys() and resolved[topo]:
                 s = replace_tag(topo, str(resolved[topo]), s)
                 continue
+            # use population heuristic to catch well-known toponyms
             else:
                 resolved[topo] = get_coords(topo)
+            # calculate weights to select a candidate
             if not resolved[topo]:
                 selected = wiki(topo, gaz_path)
                 location = selected.get()
