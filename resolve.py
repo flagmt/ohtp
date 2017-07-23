@@ -223,7 +223,7 @@ def wiki(topo, gaz_path):
 # path to directory of full text
 # full_path = r'C:\Users\met28\OneDrive - Northern Arizona University\full'
 # full_path = r'C:\corpus'
-full_path = r'C:\combined_test'
+full_path = 'corpus'
 # path to directory of toponym lists for each full text file - same names
 # list_path = r'C:\Users\met28\OneDrive - Northern Arizona University\list'
 # path to gazetteer
