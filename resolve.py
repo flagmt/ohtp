@@ -257,7 +257,7 @@ for filename in os.listdir(full_path):
     with open(full_path + '\\' + filename, 'w', encoding='latin-1') as output:
         output.write(s)
 # write each unique toponym and its 'found' coordinates to a file
-w = csv.writer(open("C:\corpus_test\output.csv", "w", encoding='latin-1'))
+w = csv.writer(open("output.csv", "w", encoding='latin-1'))
 for key, val in resolved.items():
     w.writerow([key, val])
 
