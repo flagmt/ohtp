@@ -1,0 +1,53 @@
+United States,USA
+LosAngeles,LA
+Arkansas,AR
+Washington D.C.,DC
+Delaware,DE
+Florida,FL
+Georgia,GA
+Kansas,KS
+Louisiana,LA
+Maryland,MD
+Missouri,MO
+Mississippi,MS
+North Carolina,NC
+Oklahoma,OK
+South Carolina,SC
+Tennessee,TN
+Texas,TX
+West Virginia,WV
+Alabama,AL
+Connecticut,CT
+Iowa,IA
+Illinois,IL
+Indiana,IN
+Maine,ME
+Michigan,MI
+Minnesota,MN
+Nebraska,NE
+New Hampshire,NH
+New Jersey,NJ
+New York,NY
+Ohio,OH
+Rhode Island,RI
+Vermont,VT
+Wisconsin,WI
+California,CA
+Colorado,CO
+New Mexico,NM
+Nevada,NV
+Utah,UT
+Arizona,AZ
+Idaho,ID
+Montana,MT
+North Dakota,ND
+Oregon,OR
+South Dakota,SD
+Washington,WA
+Wyoming,WY
+Hawaii,HI
+Alaska,AK
+Kentucky,KY
+Massachusetts,MA
+Pennsylvania,PA
+Virginia,VA

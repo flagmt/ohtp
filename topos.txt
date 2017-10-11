@@ -1,0 +1,1425 @@
+Panama,8.537981,-80.782127
+Ventura,34.2783,-119.2932
+Pipe Creek,40.277,-85.8419
+Gold Beach Oregon,42.4073,-124.4218
+Alaska,61.370716,-152.404419
+Brigham Utah,41.5102,-112.0155
+Naschitti,36.0650107,-108.6820295
+Mineral Bottom,38.5299813,-109.9934582
+Costa Mesa California,33.6411,-117.9187
+Thailand,15.870032,100.992541
+Vossberg Germany,0,0
+Redlands California,34.0556,-117.1825
+Whirlpool Canyon,40.509901,-109.120439
+Tumacacori,31.568702,-111.0523126
+Palm Springs,33.8303,-116.5453
+Echo Dam,40.9632801,-111.432421
+Chile,-35.675147,-71.542969
+Cathedral Canyon,37.0780495,-111.0087599
+Hyrum Utah,41.6341,-111.8522
+Keams Canyon,35.8236163,-110.3809642
+Beaverhead Station,34.707521,-111.8234862
+Bountiful,40.8894,-111.8808
+Fort Davis,30.5882,-103.8946
+McGuireville,34.6380783,-111.8170959
+New Hampshire,43.452492,-71.563896
+Canyon de Chelly,36.1552817,-109.5328846
+Guaymas,27.9193,-110.8975
+Sea of Cortez,40.668003,-111.8310448
+Chihuahua Mexico,28.6353,-106.0889
+Borrego Pass,35.5800246,-107.9995071
+Europe,50.2191,7.4268
+Ketchikan,55.3418,-131.6476
+Klamath,42.2249,-121.7817
+Riverside CA,33.9534,-117.3962
+Egypt,26.820553,30.802498
+Beclabito,36.8413878,-109.0195438
+Moab,38.5733,-109.5498
+Many Farms,36.3528,-109.6179
+Mohawk,41.0184,-74.6602
+Cumberland Maryland,39.6529,-78.7625
+Hawaii,21.094318,-157.498337
+Helvetia,38.5816,-121.4944
+Havasu Falls,36.2551476,-112.6979523
+Window Rock,35.6806,-109.0526
+Afghanistan,33.93911,67.709953
+Salina Springs,36.0275046,-109.87317
+Geronimo,36.4386,-105.5444
+Helena Arkansas,34.5291,-90.59
+Winnemucca,40.973,-117.7357
+Golt Ontario,0,0
+Washington DC,38.8951,-77.0364
+Sanostee,36.4247253,-108.8742586
+Cordes Junction,34.3322513,-112.1204362
+Japan,36.204824,138.252924
+Tucumcari New Mexico,35.1719,-103.7269
+Belgium,50.503887,4.469936
+Santa Rosa,38.4405,-122.7144
+Clear Lake Township,44.7458,-96.6826
+Niagara Falls,43.0945,-79.0567
+Brigham City,41.5102,-112.0155
+Coconino County,35.829692,-111.773728 
+Winfield,37.2398,-96.9956
+Roseburg Oregon,43.2165,-123.3417
+Pearce Ferry Rapid,36.131859,-113.988929
+Sun City Arizona,33.5975,-112.2718
+Separation Canyon,35.8230433,-113.5702177
+USA,37.09024,-95.712891
+Hallettsville Texas,29.4439,-96.9411
+Beirut,33.8889,35.4944
+Lupton Arizona,35.3539,-109.0537
+Vulcan,45.3833,23.2667
+Black Mesa,35.9278022,-106.1055795
+Phantom  Ranch,38.2536112,-106.2255796
+Red Rock Arizona,32.5762,-111.3257
+McMurdo Station,-77.846,166.676
+Zion,42.4461,-87.8328
+Pennsylvania,40.590752,-77.209755
+Pumpkin,40.6128,-89.4593
+Tonto Basin,33.8317,-111.2946
+Guatemala City,14.6407,-90.5133
+Klagetoh,35.501962,-109.5281609
+Cataract Canyon,40.8860571,-111.7235437
+San Juan,42.4477,-8.6859
+Tuckup Canyon,36.2797041,-112.8757531
+Walthenberg Rapid,36.2383651,-112.4068345
+Vaseys Paradise,36.4958195,-111.8607214
+Mapleton Utah,40.1302,-111.5785
+San Diego California,32.7153,-117.1573
+Surprise,33.6306,-112.3332
+Guthrie Oklahoma,35.8789,-97.4253
+Quartermaster Canyon,35.9672104,-113.7593922
+Massachusetts,42.230171,-71.530106
+Fort Grant,32.6228472,-109.9459112
+Costa Rica,9.748917,-83.753428
+Coal Mine Mesa,35.9597212,-110.9395844
+Muav Gorge,36.2747028,-112.3262882
+Duncan Arizona,32.7215,-109.1053
+Ethiopia,9.145,40.489673
+Kentfield,37.9522,-122.5572
+New Jersey,40.298904,-74.521011
+Nogales,32.3526,-90.8779
+Lava Falls,36.1974814,-113.0838154
+Oljato,37.2833303,-110.2915163
+Celeste Texas,33.2943,-96.1947
+Boulder,40.015,-105.2706
+Tusayan,36.0119303,-111.8593252
+Tahlequah,35.9154,-94.97
+Hualapai Reservation,36.0110977,-114.1285734
+Houck,35.2831,-109.207
+North America,54.7754, -105.6445
+Gold Hill,42.4318,-123.0506
+Sacramento,38.5816,-121.4944
+Jayapura,26.9196,75.7878
+Mexican Hat Utah,37.1519,-109.8671
+Brussels,50.8505,4.3488
+Salt Lake City,40.7608,-111.8911
+Carlsbad,50.2327,12.8712
+Germany,51.165691,10.451526
+Hattiesburg Mississippi,31.3271,-89.2903
+Saddle Mountain,33.591523,-111.786298
+Bisti,36.4377849,-108.1861835
+Las Cruces,32.3123,-106.7783
+San Bernardino,34.1083,-117.2898
+Fossil,38.8953,-98.861
+Chaco Canyon,36.0583486,-107.9589522
+Tahlequah Oklahoma,35.9154,-94.97
+Tsaile,36.3033,-109.2157
+Pakistan,30.375321,69.345116
+Jericho,36.0397,-114.9819
+Santa Fe New Mexico,35.687,-105.9378
+Dunnegan Missouri,37.7081,-93.5769
+Rochester Minnesota,44.0216,-92.4699
+Teec Nos Pos,36.9211097,-109.0856582
+Wisconsin,44.268543,-89.616508
+Sunrise Springs,35.603624,-109.7453893
+Hackberry,29.9961,-93.3421
+Madison,43.0731,-89.4012
+Tonalea,36.3224923,-110.9634781
+Larkspur,37.9341,-122.5353
+Beaver,39.7092,-84.0633
+Modesto,37.6391,-120.9969
+Hillsdale Wyoming,41.2128,-104.4775
+Greece,39.074208,21.824312
+Grand Junction Colorado,39.0639,-108.5507
+San Juan New Mexico,36.0519,-106.0683
+Lake Havasu City,34.4839,-114.3225
+Hance,36.0459215,-111.9203492
+Kenya,-0.023559,37.906193
+Texas,31.054487,-97.563461
+McNary Arizona,34.0737,-109.8571
+Fort Leonard Wood Missouri,37.7057,-92.1572
+Gila County,33.789618,-110.811870 
+Jacob Lake,36.6997121,-112.2137894
+Lakeside Arizona,34.1425,-109.9604
+Farmington,42.4853,-83.3772
+Clay Basin,40.9744038,-109.2320741
+Fredonia,36.9455,-112.5266
+Hague,52.0767,4.2986
+Mill Valley California,37.2266,-121.9747
+Townsville,-19.2664,146.8057
+Manhattan,40.7143,-74.006
+Tapeats Cave,36.3703992,-112.4699655
+Tanner Springs,35.2883528,-109.6856701
+Holbrook Arizona,34.9023,-110.1582
+Kingston,40.4259,-86.9081
+Alamogordo New Mexico,32.8995,-105.9603
+Indonesia,-0.789275,113.921327
+Penticton,49.4806,-119.5858
+Tyler Texas,32.3513,-95.3011
+China,35.86166,104.195397
+Chuar Butte,36.1938747,-111.8254377
+Toroweap,36.2283144,-113.0799267
+Winslow,47.6262,-122.5212
+Rio Grande,-22.8833,-43.1036
+Gates of Lodore,40.713296,-108.8928938
+House Rock,36.6735979,-111.741552
+Montgomery Alabama,32.3668,-86.3
+Toquerville,37.2533,-113.2847
+Kingman,35.1894,-114.053
+Thunder River,36.3919268,-112.4512936
+Lake Tahoe,38.9332,-119.9844
+Phoenix Arizona,33.4484,-112.074
+South Carolina,33.856892,-80.945007
+Honduras,15.199999,-86.241905
+Sanders Arizona,35.2164,-109.3337
+Crystal Rapid,36.1366442,-112.2464654
+Fort Myers Florida,26.6217,-81.8406
+San Augustine,27.5064,-99.5075
+Chandler,33.3062,-111.8413
+Mancos,37.345,-108.2892
+Laredo,27.5064,-99.5075
+Douglas Arizona,31.3446,-109.5453
+Catalina Mountains,32.2676967,-110.9212691
+Canyon Diablo,35.025016,-111.000696
+Grand Canyon Village,36.0464,-112.1541
+San Juan River,37.1797156,-110.900703
+Milwaukee,43.0389,-87.9065
+Globe,33.3942,-110.7865
+Okinawa,26.3358,127.8014
+Ticaboo,37.6749898,-110.6965342
+Desolation,39.4166324,-110.0109796
+Loyalton California,39.6763,-120.241
+Black Canyon,34.0709,-112.1507
+Pinedale Arizona,34.3075,-110.2515
+Fullerton,33.8703,-117.9253
+Vail,32.0479,-110.712
+Mormon Lake,34.9083543,-111.4632051
+Fort Benning,33.3417217,-111.0878969
+Yarnell Hill,34.1869711,-112.7271223
+Bisbee,31.4481,-109.9284
+Lake City,40.7608,-111.8911
+Edith Colorado,37.0056,-106.9103
+Fort Worth Texas,32.7254,-97.3208
+Vermilion Cliffs,36.790265,-111.6837737
+Hinton West Virginia,33.8678256,-110.8720614
+Kasaan,0,0
+Taos,36.4072,-105.5731
+Oklahoma,35.565342,-96.928917
+Salt Trail,36.1849873,-111.7084881
+Maricopa County,33.346541,-112.495534 
+Chama New Mexico,36.9031,-106.5795
+Aztec Creek,37.1166603,-110.9812603
+Baltimore,39.2904,-76.6122
+Charleston South Carolina,32.7766,-79.9309
+Hurricane Utah,37.1753,-113.29
+Redmond Utah,41.9227,-111.8136
+Deadmans Flats,38.5305418,-107.9695103
+Syracuse,37.0842,15.2763
+Houston Texas,29.7633,-95.3633
+Saint Johns,34.5059,-109.3609
+Blacktail,31.6320366,-110.3731345
+Concho,-11.725,-75.5709
+Nevills Rapid,36.0522331,-111.9027152
+Woodland,34.1683,-118.6059
+Tanner,40.4418,-74.1299
+Nankoweap,36.3048886,-111.8555457
+Ardmore Oklahoma,34.1743,-97.1436
+Lava,14.7981,100.654
+Tonto,33.8317,-111.2946
+Ruby,34.0128096,-112.4851719
+Binghamton,42.0987,-75.918
+San Francisco,37.3394,-121.895
+La Plata,-34.9215,-57.9545
+Pack Creek,38.5716489,-109.5540061
+Star Lake,35.8964082,-107.4564374
+Beaumont,30.0861,-94.1018
+Ouray,38.0228,-107.6714
+Carefree,33.8223,-111.9182
+James Canyon,39.6324634,-111.2318407
+Philadelphia,39.9523,-75.1638
+Duncan,34.5023,-97.9578
+Clearwater,27.9658,-82.8001
+Park City,38.9822,-94.6708
+Golden,25.9118,-80.2003
+Nankoweap Mesa,36.2758185,-111.8601626
+Montana,46.921925,-110.454353
+Hance Springs,36.0459215,-111.9203492
+Bloomington,44.8408,-93.2983
+Wichita Kansas,37.6922,-97.3375
+Wichita Falls,33.9137,-98.4934
+Bright Angel,36.0035943,-112.2112822
+Madagascar,-18.766947,46.869107
+Harts Prairie,39.0216594,-105.7958419
+Casa Grande,32.8795,-111.7574
+Catacamas,0,0
+Solomonville,0,0
+Wahweap Creek,37.0374864,-111.5715521
+Verde,32.2517,-110.7373
+San Augustine Texas,27.5064,-99.5075
+Bouse,33.9325235,-114.0057748
+Santo Domingo,35.5148,-106.3659
+New York,42.165726,-74.948051
+Antarctica,-78.1586,16.4063
+Mogollon Rim,34.613914,-111.1873598
+Somalia,5.152149,46.199616
+Comb Wash,37.2163906,-109.7053995
+Essex Connecticut,41.3554,-72.391
+Dinosaur,40.243578,-109.0145613
+Granite Park,35.9683189,-113.3143759
+Hopi Reservation,35.9121392,-110.6159286
+Memphis Tennessee,35.1495,-90.049
+Saddle Canyon,36.358935,-111.9336981
+Lamar Colorado,38.0872,-102.6208
+Ruby Rapid,36.1900196,-112.315916
+Kaibab,35.2604085,-112.1770665
+Johnstown,40.3267,-78.922
+Flagstaff Arizona,35.1981,-111.6513
+Aztec New Mexico,36.8222,-107.9929
+Cynthiana,38.3903,-84.2941
+Garnet,33.902,-116.5456
+Shiprock,36.7856,-108.687
+Flagstaff Airport,35.1378117,-111.6822978
+Hakatai,36.2442605,-112.3859676
+Tucson,32.2217,-110.9265
+Miami Arizona,33.3992,-110.8687
+Juneau,58.3019,-134.4197
+New Britain Connecticut,41.6612,-72.7795
+Lawton Oklahoma,34.6087,-98.3903
+Coal Creek,37.6775,-113.0619
+Manson Mesa,36.9105445,-111.4557122
+New London Connecticut,41.5243,-72.0759
+Durant,33.994,-96.3708
+Redding California,40.5865,-122.3917
+Arkansas,34.969704,-92.373123
+New Guinea,-6.0834,145.3873
+Sabino Canyon,32.3180556,-110.8161111
+Nankoweap Canyon,36.3047075,-111.8584963
+Sentinel Rock,36.9555435,-111.4851588
+Red Canyon,39.6660972,-106.6453121
+Charleston,32.7766,-79.9309
+Prospect Canyon,37.1666856,-104.5230413
+Ventura California,34.2783,-119.2932
+Batesville,35.7698,-91.641
+Tuna Rock,36.1427592,-112.2576734
+Springville Utah,40.1652,-111.6107
+Konigshofen Germany,49.5653,9.7082
+Canadian Texas,35.9128,-100.3821
+Myrtle Point,43.0648,-124.139
+Page Arizona,36.9147,-111.4558
+Korea,0,0
+Drake,31.3152,-85.8552
+Yuma County,32.773942,-113.910905
+Payson,40.0444,-111.7322
+Santa Barbara,34.953,-120.4357
+United States of America,37.09024,-95.712891
+Boundary Butte,37.038334,-109.4834461
+Bonampak,0,0
+Ann Arbor,42.2776,-83.7409
+Phoenix,33.4484,-112.074
+Princeton Arkansas,33.9818,-92.6246
+Whitmore Canyon,39.5557997,-110.3801549
+Gold Beach,-28.1169,153.4658
+Blanding,37.6243,-109.4797
+Kanab Utah,37.0475,-112.5263
+Gamerco,35.5722438,-108.7653629
+Oaxaca,17.0654,-96.7237
+McRoberts Kentucky,37.2076,-82.6718
+Maine,44.693947,-69.381927
+Aneth,37.216108,-109.187057
+Tepic Mexico,21.5095,-104.8957
+Makaha,21.4663,-158.2104
+Littleton,39.6133,-105.0166
+Coos Bay Oregon,43.3665,-124.2179
+Cumberland,41.9668,-71.4328
+Havasu,34.4839,-114.3225
+Niagara,43.0945,-79.0567
+New Britain,41.6612,-72.7795
+Tanzania,-6.369028,34.888822
+Fort Verde,34.5636,-111.8543
+House Rock Valley,36.6738757,-111.7418298
+Portland,45.5234,-122.6762
+Kansas,38.526600,-96.726486
+Medford Oregon,42.3265,-122.8756
+South Africa,-30.559482,22.937506
+Berlin,52.5244,13.4105
+Soap Creek,36.7372489,-111.6940459
+Deswood,36.5027038,-109.3723094
+Chitwood Missouri,37.0889,-94.5488
+Fraser River,40.1002636,-105.9741834
+Haiti,18.971187,-72.285215
+Chinle,36.1544,-109.5526
+Safford Arizona,32.834,-109.7076
+Fort Tuthill,35.1416792,-111.6943279
+Kirtland New Mexico,36.7342,-108.3598
+Salt River,33.4484,-112.074
+Santa Anita,20.5506,-103.44
+Coconino Plateau,35.8333209,-112.5021238
+Caineville,38.3330359,-111.0187738
+Navajo Reservation,35.9000121,-109.0339832
+Vernal Utah,40.4555,-109.5288
+Bluff,32.2988,-90.1848
+Kilbourn Wisconsin,43.6275,-89.771
+Cosnino,35.2072354,-111.5032135
+Naco,31.3354,-109.9481
+Bullfrog,37.5949901,-110.7834801
+Ohio,40.388783,-82.764915
+Seligman,35.3255608,-112.8774057
+Sand Island,37.261613,-109.61236
+Roseville,38.7521,-121.288
+Oak Creek,42.8858,-87.8631
+Lampasas Texas,31.0638,-98.1817
+Archie,38.4817,-94.3544
+Virgin River,36.1460934,-114.4163626
+Saigon,10.823,106.6296
+Kasaan Alaska,55.5395,-132.4041
+Blue Spring,37.3785,-79.807
+Badger Creek,-37.7,145.5167
+Cincinnati Ohio,39.1271,-84.5144
+Rattlesnake Tanks,33.1016561,-109.1701284
+Los Angeles California,34.0522,-118.2437
+Havasu Rapid,36.3072988,-112.7643937
+Tanner Wash,36.6985983,-111.7109956
+Mannheim Germany,49.4891,8.4669
+Brigham City Utah,41.5102,-112.0155
+Palo Alto,37.4419,-122.143
+Desolation Canyon,39.4166324,-110.0109796
+Upper Disaster Falls,40.6502408,-108.9334504
+Salt Lake,40.7608,-111.8911
+White Rock,35.8275,-106.2039
+Ingelsby Rapids,0,0
+Klamath Falls Oregon,42.2249,-121.7817
+Lodore,40.7274626,-108.8881715
+Carthage Mississippi,32.7326,-89.5362
+Carbonate Canyon,36.249982,-112.6676896
+Matkat,36.3440738,-112.6732124
+Fairfield Iowa,41.0086,-91.9627
+Vossberg,0,0
+Toyei,35.7025091,-109.9381725
+Moenave,36.1386029,-111.3373639
+Hotevilla,35.9277802,-110.6729158
+Hance Rapids,36.0459215,-111.9203492
+Yuma,32.7253,-114.6244
+Lock Haven Pennsylvania,41.137,-77.4469
+Brian Head,37.6927551,-112.8507766
+Iceberg,37.3299925,-110.7659769
+Dungeon Canyon,37.0691586,-111.1520954
+McNary,34.2961385,-112.4910039
+Betatakin,36.6816653,-110.5315274
+Keams,35.8236163,-110.3809642
+Madison Wisconsin,43.0731,-89.4012
+Edgewood,39.4187,-76.2944
+Pocatello,42.8713,-112.4455
+Hindman,37.3359,-82.9804
+Inglesby,40.4619071,-109.2379052
+La Paz,-16.5,-68.15
+Argentina,-38.416097,-63.616672
+Forbidding Canyon,37.114438,-110.9807046
+Canyonlands,38.1704542,-109.7402052
+Cairo Illinois,37.0053,-89.1765
+Rucker Canyon,31.7800951,-109.3106183
+Bedrock,38.3149897,-108.8909363
+South Cove,-33.8054,151.1664
+Low Mountain,36.8347018,-113.7274613
+Happy Jack,34.8111183,-114.1599519
+Bolton New York,43.5573,-73.6548
+Tuba,36.135,-111.2399
+Big Drop,38.0722085,-110.0462426
+Tegucigalpa,14.0818,-87.2068
+Denver,39.7392,-104.9847
+The Tabernacle,37.1816681,-109.8906787
+Fremont Indiana,41.7309,-84.9327
+Hong Kong,22.396428,114.109497
+Little Rock Arkansas,34.7465,-92.2896
+Norwood Colorado,38.1305,-108.2923
+Animas,37.1695,-104.5005
+Monticello Utah,37.8714,-109.3429
+Kansas City,39.0997,-94.5786
+Mississippi,32.741646,-89.678696
+Springfield Oregon,44.0462,-123.022
+New River,45.5234,-122.6762
+Great Thumb,36.3391485,-112.5165735
+Loretto Kentucky,37.6353,-85.4008
+Tsaya,36.1330677,-108.174237
+Longview,32.5007,-94.7405
+Ehrenberg,33.6042,-114.5252
+Wheatfields,36.1369499,-109.1912111
+Dilkon,35.3853,-110.3207
+Acapulco Mexico,16.8634,-99.8901
+Jackson,32.2988,-90.1848
+Congress Junction,34.1625,-112.8507
+Wheatridge,41.1643883,-112.0632759
+Stewart Nevada,39.1163,-119.7585
+Chicago,41.85,-87.65
+Green River,41.5286,-109.4663
+Hudson Bay,40.6687,-74.1143
+Canada,56.130366,-106.346771
+Fishtail,36.4001247,-112.5561588
+Sunshine,-37.7912,144.8164
+Monmouth Illinois,40.9114,-90.6474
+Horn Creek,38.0800002,-105.4622252
+Springdale Utah,37.1889,-112.9985
+Ogden Utah,41.223,-111.9738
+Glenwood Springs,39.5505,-107.3248
+Colorado River,33.9317167,-114.3886436
+Prescott,53.4295,-2.8003
+Georgia,33.040619,-83.643074
+Granite,38.7014,-90.1487
+Louisiana,31.169546,-91.867805
+Bryan,30.6744,-96.37
+Hat Rock,39.3308102,-109.1712265
+Patagonia,31.5395378,-110.7561963
+Cottonwood Arizona,34.7392,-112.0099
+Richfield,44.8833,-93.283
+Lake Montezuma,34.6322,-111.7779
+Diamond Creek Rapid,35.7649573,-113.3758449
+Lebanon,33.854721,35.862285
+California,36.116203,-119.681564
+Steamboat,40.485,-106.8317
+Tanner Trail,38.3652767,-105.2727699
+Temple Bar,36.0355407,-114.3219132
+Tuolome River,0,0
+Buck Farm Canyon,36.4049856,-111.8807209
+Atascadero California,35.4894,-120.6707
+Page,36.9147,-111.4558
+Bonham Texas,33.5773,-96.1783
+Many Farms Arizona,36.3528,-109.6179
+Reno Nevada,39.5296,-119.8138
+Parashont,36.9563735,-112.8610434
+Verde River,34.582802,-111.8709853
+Yaki Point,36.0585942,-112.0837789
+Muskogee Oklahoma,35.7479,-95.3697
+Jalisco Mexico,20.6668,-103.3918
+Paradise Valley,46.7324,-117.0002
+New Mexico,34.840515,-106.248482
+Mountain View California,37.386,-122.0838
+Needles,36.7856,-108.687
+Kirkland,47.6815,-122.2087
+Diamond Creek,-37.6667,145.15
+Yarnell,34.1869711,-112.7271223
+Vegas,36.175,-115.1372
+Vermillion Cliffs,38.8607982,-111.9652043
+Sweden,60.128161,18.643501
+Fort Collins,40.5853,-105.0844
+Paducah,37.0834,-88.6
+Boston Massachusetts,42.3584,-71.0598
+Whiteriver Arizona,33.837,-109.9643
+Grand Wash Cliffs,35.9833207,-113.9674565
+Cibecue Arizona,34.0448,-110.4854
+Garnet Canyon,36.2133142,-112.4229579
+New Zealand,-40.900557,174.885971
+Abilene,32.4487,-99.7331
+Smoke Signal Arizona,35.98,-110.0451
+Charlotte,35.2271,-80.8431
+Poland,51.919438,19.145136
+Chicago Illinois,41.85,-87.65
+Bass Trail,36.2805363,-112.331844
+Alva Oklahoma,36.805,-98.6672
+Iowa,42.011539,-93.210526
+Hilo,19.7299,-155.0907
+Benson,31.9679,-110.2945
+Portsmouth Virginia,36.821,-76.3688
+Normal Illinois,40.5142,-88.9906
+Big Sur,32.9150636,-109.8967487
+Moki Canyon,37.9180568,-109.9451221
+Columbus Ohio,39.9612,-82.9988
+Dakar,14.6937,-17.4441
+Brighton,50.8284,-0.1395
+Orange County,33.7878,-117.8531
+Dennehotso,36.8458351,-109.8465046
+Dolores,35.5939,-105.2239
+Hastings Nebraska,40.5861,-98.3884
+Istanbul,41.0138,28.9497
+Round Rock,30.5083,-97.6789
+Monroe,32.5093,-92.1193
+Alco,38.7054,-0.4743
+Palo Verde,33.329,-105.6044
+Ross California,37.9522,-122.5572
+Meadview,36.0022,-114.0683
+Natchez,31.5604,-91.4032
+Lampasas,31.0638,-98.1817
+Lupton,40.0847,-104.813
+Salt Creek,40.5247,-111.8638
+Grapevine,32.9343,-97.0781
+Tegucigalpa Honduras,14.0818,-87.2068
+Michigan,43.326618,-84.536095
+Duluth,46.7833,-92.1066
+Alamagordo,0,0
+Crown King,34.2055857,-112.3384991
+Breen Colorado,37.1925,-108.0778
+Oak Creek Canyon,38.5269218,-111.8526899
+Parker,39.5186,-104.7614
+Litchfield Park,33.4934,-112.3579
+Hanksville,38.3730379,-110.7140391
+Colorado,39.059811,-105.311104
+Upset,36.3552725,-112.6950973
+Miami,25.7743,-80.1937
+Piñon,10.4028,-74.8242
+Amarillo,35.222,-101.8313
+Spokane,47.6597,-117.4291
+Groton Connecticut,41.3501,-72.0784
+Las Cruces New Mexico,32.3123,-106.7783
+Lipan,39.2510907,-108.7198214
+Panguitch Utah,37.8228,-112.4358
+Virginia,37.769337,-78.169968
+Omaha,41.2563,-95.9404
+Hogback,36.792745,-108.594381
+Potsdam,52.3989,13.0657
+Lodore Canyon,40.7274626,-108.8881715
+Sweetwater,34.8095,-87.6495
+Fullerton California,33.8703,-117.9253
+Montezuma Creek,37.2686097,-109.3331718
+San Francisco California,37.3394,-121.895
+Eloy,32.7559,-111.5548
+Red Mesa,37.1666663,-108.1439644
+Houston,29.7633,-95.3633
+Asia,29.8406,89.2969
+Lukachukai,36.4169,-109.2287
+Cuba New Mexico,36.0222,-106.9584
+Unkar Creek,36.0783188,-111.8712712
+Arch Creek,37.6269221,-112.8538318
+Detroit,42.3314,-83.0457
+Cache Valley Utah,41.1518902,-111.1440756
+Heber,34.4141,-110.5696
+Greeley,40.4233,-104.7091
+Springs Creek,35.5843,-78.8
+Bellevue Colorado,40.6264,-105.1716
+Beaver Canyon,40.1271772,-110.9284955
+Fort Worth,32.7254,-97.3208
+Atlanta Georgia,33.749,-84.388
+Sockdolager,36.0464494,-111.9542978
+Paria Plateau,36.8155425,-111.941562
+Aztec,36.8222,-107.9929
+Bloomfield New Mexico,36.7111,-107.9845
+Kinnikinick Lake,34.8974797,-111.305474
+Shinumo,36.2377582,-112.3540667
+White Canyon,37.8099889,-110.4320856
+Harris Park,39.8366,-105.0372
+Eastland Texas,32.4015,-98.8176
+Bakersfield,35.3733,-119.0187
+Tubac,31.6126,-111.0459
+Columbus Kansas,37.1692,-94.8441
+Kanab,37.0475,-112.5263
+Santa Cruz County,31.525904,-110.845190 
+Montrose,34.2322,-118.2353
+Australia,-25.274398,133.775136
+Bayfield,37.2256,-107.5981
+Nevada,38.313515,-117.055374
+Driftwood,40.6363365,-111.8535452
+Fort Benning Georgia,32.3524,-84.9688
+Webb City,37.1465,-94.463
+Tocito,36.3994484,-108.7812005
+Sand Hill Mississippi,31.7335,-90.3059
+Wichita,37.6922,-97.3375
+Stamford Texas,32.9454,-99.8029
+Cincinnati,39.1271,-84.5144
+Meteor Crater,35.1100141,-111.0306971
+Joplin,37.0842,-94.5133
+Greasewood,37.8002885,-104.7480394
+Tehran,35.6944,51.4215
+Willies Necktie,36.1452438,-112.2647114
+Carthage Missouri,37.1765,-94.3102
+Peach Springs,35.5292,-113.4255
+Peach Springs Wash,35.7588774,-113.3610439
+Merced,37.3022,-120.483
+Wheat Ridge,39.7661,-105.0772
+San Jose Costa Rica,9.9333,-84.0833
+Rochester,51.3876,0.5055
+Wickenburg,33.9686,-112.7296
+Williams,41.2412,-77.0011
+Florida,27.766279,-81.686783
+San Francisco Peaks,35.3530637,-111.6943275
+Schnebly Hill,34.88974,-111.7032111
+Hermit,41.2507764,-111.8818842
+Scottsdale,33.5092,-111.899
+Silverton,37.8119,-107.6645
+Datil Mountains,34.2908909,-107.8397752
+Prewitt,35.362808,-108.0439519
+Morenci Arizona,33.0787,-109.3654
+Nogales Arizona,31.3404,-110.9343
+El Centro California,32.792,-115.5631
+Peach Springs Canyon,35.7588774,-113.3610439
+Virgin Canyon,35.7014148,-106.752814
+Lewiston,44.1003,-70.2148
+Blythe,55.1271,-1.5086
+Wilson Canyon,33.9002424,-108.7345748
+Jerusalem,43.5407,-116.5635
+Tohlakai,35.6583529,-108.7695301
+Shinumo Canyon,36.2377582,-112.3540667
+Ruston,32.5232,-92.6379
+Rimrock,38.9208253,-105.4294399
+Nashville Tennessee,36.1659,-86.7844
+Red House cliffs,33.0911543,-113.4779718
+Kayenta,36.7278,-110.2546
+Rock Creek,42.5084,-89.0318
+Dry Beaver,34.6328007,-111.8259849
+Salt River Valley,33.3811546,-112.3129333
+Anaheim,33.8353,-117.9145
+Chinle Arizona,36.1544,-109.5526
+Redmond,47.674,-122.1215
+Pearl Harbor,35.6480546,-111.8701582
+Kansas City Kansas,39.1142,-94.6275
+Newman Park,35.0216827,-111.6834916
+Belize,17.189877,-88.49765
+Powell Plateau,36.297481,-112.3943465
+Marble Canyon,41.7726972,-113.6758395
+Spencer Canyon,32.4167425,-110.7406486
+Paria Beach,36.8561591,-111.6025147
+Long Valley,40.7859,-74.7802
+Stewart,21.7375,-78.7934
+Rock Point,36.7319456,-109.6192761
+Marysville California,39.1457,-121.5914
+Upset Rapid,36.3552725,-112.6950973
+Nacogdoches Texas,31.6035,-94.6555
+Dubendorff,0,0
+Puerto Rico,18.24829,-66.49989
+Continental Divide New Mexico,35.425,-108.3153
+Burlington Colorado,39.3061,-102.2694
+Heidelberg,49.4077,8.6908
+Venice,45.4371,12.3326
+Buffalo New York,42.8865,-78.8784
+Jordan,30.585164,36.238414
+Kyoto Japan,35.0211,135.7538
+Wupatki,35.5211146,-111.3723718
+Escalante River,37.2894367,-110.8720931
+Pomona,34.0553,-117.7523
+Hermosillo,29.1026,-110.9773
+Two Guns,35.1177914,-111.0934765
+Cairo,30.0626,31.2497
+Jackson Hole,40.987,-81.8937
+Roaring Fork,39.5491487,-107.3297762
+Concord New Hampshire,43.2081,-71.5376
+Toadlena,36.2369503,-108.8925925
+Chiapas,16.7077,-93.0118
+Green River Wyoming,41.5286,-109.4663
+Badger Rapids,34.2228088,-112.0937685
+San Antonio Texas,29.4241,-98.4936
+Glendale Arizona,33.5386,-112.186
+Munds Canyon,34.9116836,-111.7259901
+Pine Springs,34.72337,-109.2523167
+Dinnehotso,0,0
+Jerome,45.7804,-74.0036
+Muskogee OK,35.7479,-95.3697
+Bitter Springs,36.6285991,-111.6543255
+Plano Illinois,41.6628,-88.537
+Keams Canyon Arizona,35.8125,-110.1951
+Richfield Utah,38.7725,-112.0841
+Boulder City Nevada,35.9786,-114.8325
+Pine,28.5578,-81.4534
+San Bernardino California,34.1083,-117.2898
+Jewett,36.7597,-108.4818
+Tuweep,36.4158149,-113.0665971
+Guthrie,35.8789,-97.4253
+Carlisle Pennsylvania,40.2015,-77.1889
+Lava Cliff,35.8254121,-113.6478657
+Cornville,34.7178,-111.9215
+Crested Butte,38.8697,-106.9878
+Philippines,12.879721,121.774017
+Green River Utah,38.9952,-110.1618
+Harrisburg Utah,37.2058,-113.3944
+Downey California,33.94,-118.1326
+Sun Valley Idaho,43.6971,-114.3517
+Kirksville Missouri,40.1947,-92.5833
+Roswell New Mexico,33.3944,-104.5249
+Munds Park,34.945574,-111.6401551
+Deming New Mexico,32.2687,-107.7586
+France,46.227638,2.213749
+Chino Valley,34.7575,-112.4538
+Labyrinth Canyon,37.6471998,-112.8443872
+Little Colorado,39.918,-105.7856
+Magdalena New Mexico,34.1167,-107.2439
+Springerville,34.1335,-109.2883
+Glendale California,34.1606,-118.2645
+Bridge Canyon,35.7753297,-113.5245939
+Cortez,37.3489,-108.5859
+Flaming Gorge,40.8844039,-109.4654154
+Monticello,38.9556,-90.1868
+Tombstone,31.7129,-110.0676
+Tustin California,33.7458,-117.8262
+Morenci,33.0787,-109.3654
+Rocky Point,40.9526,-72.9254
+Las Vegas,36.175,-115.1372
+Sydney,33.3703,-112.5838
+Alta,37.4419,-122.143
+Gallup,35.5281,-108.7426
+Mexican Water,36.9241682,-109.6037227
+Tohatchi,35.8589039,-108.7614749
+Colby Kansas,39.3958,-101.0524
+Mexico City,35.0845,-106.6511
+Leavenworth Kansas,39.3111,-94.9225
+Sanders,39.0597,-86.5108
+Tolleson,33.45,-112.2593
+Cortez Colorado,37.3489,-108.5859
+Aneth Utah,37.2161,-109.1871
+Dolores River,38.8166529,-109.2673378
+National Canyon,36.2566484,-112.8921421
+Spring Canyon,33.2339578,-108.1978263
+Coeur dAlene Idaho,47.6777,-116.7805
+Tuzigoot,34.7729633,-112.027907
+Boulder City,35.9786,-114.8325
+Wittmann,33.7764231,-112.5285046
+Fort Thomas,39.0751,-84.4472
+Fern Glen,36.258203,-112.9189169
+Santa Cruz,28.4682,-16.2546
+Archie Missouri,38.4817,-94.3544
+Grand Wash Bay,36.2219298,-114.0069038
+Buffalo,42.8865,-78.8784
+Kaibito,36.5972,-111.0743
+Whitmore,42.4397,-83.7453
+Emporia Kansas,38.4039,-96.1817
+Bisbee Arizona,31.4481,-109.9284
+Trinidad Colorado,37.1695,-104.5005
+Ithaca New York,42.4406,-76.4966
+San Pedro California,32.7153,-117.1573
+Fossil Bay,36.2949814,-112.5362963
+Paria River,36.8585987,-111.6007163
+Bitahochee,0,0
+Greeley Colorado,40.4233,-104.7091
+Fort Lee,26.6217,-81.8406
+Oxnard,34.1975,-119.177
+Sun Valley,47.6732,-117.2394
+Peach Springs Airport,35.5430476,-113.4146572
+Pearce Ferry,36.131859,-113.988929
+Mount Trumbull,36.4122035,-113.175769
+Cameron,38.6688,-120.9872
+Saint Johns AZ,34.5059,-109.3609
+Stanley Idaho,44.2174,-114.9386
+Chanute Kansas,37.6792,-95.4572
+Jalisco,20.6668,-103.3918
+Alvarado,37.3394,-121.895
+Abbeville SC,34.1782,-82.379
+Taylor,25.9017,-97.4975
+Verde Valley,16.5989,121.1877
+Rolla Missouri,37.9514,-91.7713
+London England,41.5243,-72.0759
+Carlsbad California,33.1581,-117.3506
+Durant Mississippi,33.0751,-89.8545
+Guatemala,15.783471,-90.230759
+Pagosa Springs,37.2694,-107.0098
+Johannesburg,-26.2023,28.0436
+Needles California,34.8481,-114.6141
+Henderson,36.0397,-114.9819
+Kykotsmovi,35.8741701,-110.6234701
+Cloudcroft New Mexico,32.9573,-105.7425
+Tonalea Arizona,36.3225,-110.9635
+Espejo,0.6228,-77.94
+Douglas,54.15,-4.4833
+Jerome Arizona,34.7489,-112.1138
+Bremerton Washington,47.5673,-122.6326
+Norfolk Virginia,36.8468,-76.2852
+Tapeats Beach,36.3703992,-112.4699655
+Avondale,33.4356,-112.3496
+Jackass Canyon,38.627204,-109.5065063
+Mancos Colorado,37.345,-108.2892
+Redwall Cavern,36.2722027,-112.3246215
+Saudi Arabia,23.885942,45.079162
+Chadron Nebraska,42.8294,-102.9999
+Nacozari,30.4,-109.65
+Lubbock,33.5779,-101.8552
+Beverly Hills,34.0736,-118.4004
+Indian Gardens,34.323924,-111.1009648
+Buckeye Arizona,33.3703,-112.5838
+Roosevelt Lake,33.6222719,-111.0034505
+Yampa River,40.5288528,-108.9842847
+Mount Pleasant Tennessee,35.5342,-87.207
+Galveston,29.3013,-94.7977
+Ajo,32.3717,-112.8607
+Black Canyon City,34.0709,-112.1507
+Stone Creek,40.8974451,-111.8771599
+Cashion,33.4353203,-112.2979334
+Hidden Passage,37.1755488,-110.9290375
+Tanner Mesa,37.0227721,-108.7298167
+Alta Utah,40.5888,-111.638
+Bright Angel Creek,36.0985939,-112.0929463
+Boulder Narrows,36.65082,-111.7565522
+Little Springs,34.6213908,-111.2205583
+Dinosaur National Monument,40.4735741,-109.1823477
+Minnesota,45.694454,-93.900192
+Springdale,36.1867,-94.1288
+Ganado Arizona,35.7114,-109.5421
+Yaki,-2.2058,-79.9079
+Cochise County, 31.881793,-109.754120 
+Tapeats Creek,36.3705377,-112.4693497
+Cibecue,34.0448,-110.4854
+Jemez Springs New Mexico,35.7689,-106.695
+Brooklyn,40.6501,-73.9496
+Vernal,40.4555,-109.5288
+Lees Ferry,36.8674876,-111.5951607
+Redding,40.5865,-122.3917
+Portugal,39.399872,-8.224454
+Berkeley,37.8716,-122.2728
+Nazlini,35.8963986,-109.4487147
+Spring Creek,39.7425,-105.5136
+Mayer,34.3978,-112.2363
+Bright Angel Trail,37.9486001,-109.7548482
+Toadlena New Mexico,36.237,-108.8926
+Fort McDowell,33.6411929,-111.6644989
+Pagosa Springs Colorado,37.2694,-107.0098
+Bryan Texas,30.6744,-96.37
+Lava Canyon,36.1383945,-111.8166987
+Colorado City,39.7392,-104.9847
+Sonoita Creek,31.4614832,-110.9792546
+Honaker Trail,37.1930566,-109.9509576
+Hermits Rest,36.061927,-112.2110049
+India,20.593684,78.96288
+Grinnell Iowa,41.743,-92.7224
+Nashville,36.1659,-86.7844
+Ganado Trading Post,35.7114,-109.5421
+Hamilton Ontario,43.2501,-79.8496
+Leupp,35.0741838,-110.8579162
+Williams Arizona,35.2495,-112.191
+Joplin Missouri,37.0842,-94.5133
+Doris Rapids,36.3968711,-112.5319641
+Towoac,0,0
+Sonoita,31.8617,-112.8513
+Pasadena,29.6911,-95.2091
+Tapeats,36.3703992,-112.4699655
+Port Moresby,-9.4431,147.1797
+Music Temple,37.1627713,-110.9234813
+Centerville,37.5483,-121.9886
+Tuscaloosa Alabama,33.2098,-87.5692
+Vanderwagen,35.2739172,-108.7548056
+Albuquerque,35.0845,-106.6511
+Carmel Valley,36.5061,-121.7659
+Granite Narrows,36.3877602,-112.5062956
+Kerrville Texas,30.0474,-99.1403
+Warrensburg,38.7628,-93.7361
+Aubineau Springs,35.355286,-111.6598824
+La Junta Colorado,37.985,-103.5438
+New Delhi,28.6519,77.2315
+Towaoc Colorado,37.2044,-108.7295
+Diamond,38.028,-121.8847
+Gardena,33.7739,-117.9415
+Saint Louis Missouri,38.6273,-90.1979
+Wilmington California,33.78,-118.2626
+Columbus,39.9612,-82.9988
+Germantown Pennsylvania,40.3815,-79.8598
+Las Lunas,34.8062,-106.7334
+Jasper Texas,30.9202,-93.9966
+LA,34.0522,-118.2437
+Enfilade Point,36.2516477,-112.5512966
+Monroe Louisiana,32.5093,-92.1193
+Saint Louis,47.5884,7.5625
+Evanston,42.0411,-87.6901
+Mohawk Canyon,36.2313702,-112.9660334
+Little Cottonwood Canyon,40.5782818,-111.796321
+Tuba  City,36.135,-111.2399
+Vulcans Anvil,36.2188701,-113.0774265
+Deming,32.2687,-107.7586
+Atlanta,33.749,-84.388
+Phantom,38.2536112,-106.2255796
+Tennessee,35.747845,-86.692345
+Mooney Falls,36.2631188,-112.7085305
+Trujillo Peru,-8.116,-79.03
+Forster,-32.1814,152.5171
+Pueblo,34.0522,-118.2437
+Tuna Creek,36.1427592,-112.2576734
+Mexico,23.634501,-102.552784
+Wide Ruins,35.4194639,-109.4964948
+Deadman Flat,35.5077828,-111.5437657
+Cedar Ridge,33.5482,-86.5444
+McNary Louisiana,30.9874,-92.5763
+Cuba,21.521757,-77.781167
+Flagstaff AZ,35.1981,-111.6513
+Pittsfield Massachusetts,42.4501,-73.2454
+Coyote Point,37.2402621,-111.8287863
+Santa Fe,35.687,-105.9378
+Memphis,35.1495,-90.049
+Lonesome Valley,36.3296,-78.3992
+Israel,31.046051,34.851612
+Glenview Illinois,42.0697,-87.7878
+Apache Junction,33.4151,-111.5496
+Winona,44.05,-91.6393
+Whiteriver,33.837,-109.9643
+Oakdale,44.963,-92.9649
+Idaho,44.240459,-114.478828
+Galveston Texas,29.3013,-94.7977
+Valentine,42.8728,-100.551
+Skull Valley,34.537802,-112.7062883
+Muncie,40.1934,-85.3864
+Palo Alto California,37.4419,-122.143
+Lukachukai Mountains,36.4844455,-109.2037118
+Ganado,35.7114,-109.5421
+Austin,30.2672,-97.7431
+Cove Canyon,37.9422099,-110.2037474
+Stockton California,37.9577,-121.2908
+Bishop Camp,36.1416496,-112.8143609
+Scottsdale Arizona,33.5092,-111.899
+Nepal,28.394857,84.124008
+Tampico,22.2782,-97.8677
+Red Lake,51.0168,-93.8274
+Thoreau,35.4025,-108.2234
+Turlock California,37.4947,-120.8466
+London,51.5085,-0.1257
+Apache County,35.385845,-109.493747 
+Kanab Creek,36.3922051,-112.6299121
+San Antonio,38.9807,1.3036
+Bloomfield,42.5689,-83.3836
+Guanajuato,21.1291,-101.6737
+Towaoc,37.2044,-108.7295
+Lubbock Texas,33.5779,-101.8552
+Pueblo Colorado,38.2544,-104.6091
+Marquette Michigan,46.5435,-87.3954
+Berlin Germany,52.5244,13.4105
+Boise Idaho,43.6135,-116.2035
+Thunder,48.382,-89.2502
+Indian Wells,33.7207,-116.2168
+Lava Canyon Rapid,36.1383945,-111.8166987
+Indiana,39.849426,-86.258278
+Tsegi Canyon,36.650832,-110.4323591
+Beclahbeto,0,0
+Italy,41.87194,12.56738
+Galesburg Illinois,40.9478,-90.3712
+Yosemite,37.1911,-119.7726
+Fruitland,36.7158,-108.3142
+Crossing of the Fathers,37.0488788,-111.3037652
+Glen Canyon,33.5389305,-112.1140397
+Separation,35.8239382,-113.572292
+Hance Rapid,36.0459215,-111.9203492
+Flagstaff,35.1981,-111.6513
+Twilight Canyon,37.1277714,-110.9607041
+Echo Park,34.0781,-118.2607
+Bass,42.5584,-70.88
+Holland,42.7875,-86.1089
+Pasadena California,34.1478,-118.1445
+Alexandria Louisiana,31.3113,-92.4451
+New Orleans,29.9547,-90.0751
+Ruidoso New Mexico,33.3317,-105.673
+Bridge Canyon Rapid,35.7753297,-113.5245939
+Nutrioso Arizona,33.9531,-109.2092
+Supai,36.2369266,-112.6890791
+Whitmore Trail,36.1444267,-113.2013193
+Rainbow Bridge National Monument,37.0778876,-110.9655099
+College Station Texas,30.628,-96.3344
+Florence,43.7792,11.2463
+Reno,39.5296,-119.8138
+Gray Mountain,40.3035959,-105.2852668
+Seattle,47.6062,-122.3321
+Sapphire,36.1473585,-112.2926972
+United States,37.09024,-95.712891
+Cambodia,12.565679,104.990963
+Oatman,35.0263915,-114.3835698
+Hot Springs Arkansas,34.5037,-93.0552
+Fort Morgan Colorado,40.2503,-103.7999
+Yavapai County,34.630044,-112.573745 
+Grand Junction,39.0639,-108.5507
+Satans Ramp,0,0
+Sedona,34.8672,-111.8054
+Sun City,47.2529,-122.4443
+Graham County,32.931828,-109.878310 
+Palominas,31.3798232,-110.1184106
+Dulce,36.9336,-106.9989
+First Mesa,35.8367,-110.3815
+Dayton Ohio,39.7589,-84.1916
+Wyoming,42.755966,-107.302490
+Walker Creek,33.7287,-87.0903
+Steamboat Springs,40.485,-106.8317
+Aledo Illinois,41.1998,-90.7493
+Prairie,32.746,-96.9978
+Wales,27.9014,-81.5859
+Charleston SC,32.7766,-79.9309
+Davenport Texas,33.9251,-95.1366
+Stamford,52.65,-0.4833
+Travertine Falls,35.7559079,-113.4479644
+Las Vegas Nevada,36.175,-115.1372
+Wellesley,42.2965,-71.2926
+Russia,61.52401,105.318756
+Illinois,40.349457,-88.986137
+Belize City,17.4995,-88.1976
+Kansas City Missouri,39.0997,-94.5786
+Marysville,48.0518,-122.1771
+Texarkana,33.4251,-94.0477
+Springfield Illinois,39.8017,-89.6437
+Two Grey Hills,36.2375066,-108.80259
+Salmon City Idaho,45.1758,-113.8959
+Humboldt,34.53,-112.2422
+Havasu Canyon,36.3077607,-112.7618606
+Long Beach,33.767,-118.1892
+Maryland,39.063946,-76.802101
+Coffeyville Kansas,37.0373,-95.6164
+Fort Davis Texas,30.5882,-103.8946
+Marana,32.4367,-111.2254
+Liberia,6.428055,-9.429499
+Date Creek,34.2997424,-113.4713152
+Oakland California,37.8044,-122.2708
+Fort Huachuca,31.563325,-110.33432
+Oraibi,35.8763922,-110.6404148
+Englewood,47.5301,-122.0326
+Grand Canyon,36.0464,-112.1541
+Norway,60.472024,8.468946
+Costa Mesa,33.6411,-117.9187
+Scorpion Island,37.5280453,-111.0626583
+Denmark,56.26392,9.501785
+Willard Springs,34.9814057,-111.6859908
+Trujillo,18.5001,-69.9886
+Parks,35.2606,-111.9488
+Crystal,42.2411,-88.3162
+Lindbergh Springs,35.1086239,-111.7207169
+Ireland,53.41291,-8.24389
+Trezevant Tennessee,36.0115,-88.6228
+Hurricane,37.1753,-113.29
+Fort Sumner,34.4717,-104.2455
+Wynona,0,0
+Yates Center Kansas,37.8811,-95.7333
+Kamloops,50.6665,-120.3192
+Long Island,40.7448,-73.9488
+Saint George,37.1041,-113.5841
+Pleasant Valley,34.2164,-119.0376
+Alabama,32.806671,-86.791130
+Richmond California,37.9358,-122.3478
+Dulce New Mexico,36.9336,-106.9989
+Yampa,35.489439,-113.2004805
+Badger,64.8,-147.5333
+Des Moines Iowa,41.6005,-93.6091
+Phantom Beach,38.2536112,-106.2255796
+Orinda California,37.8772,-122.1797
+Iceberg Canyon,37.3299925,-110.7659769
+Split Mountain,40.4832959,-109.2206826
+Two Grey Hills New Mexico,36.2375,-108.8026
+Tuckup,36.3460933,-112.8851992
+Burbank,34.1808,-118.309
+Chihuahua,28.6353,-106.0889
+Bingham Canyon,40.5955,-111.9591
+Sulphur Springs Valley,32.5487623,-110.0662724
+Little Colorado River,36.1910972,-111.8037701
+Connecticut,41.597782,-72.755371
+Skull Valley Arizona,34.5053,-112.6855
+Gneiss Canyon,35.783307,-113.5328217
+Tuba City,36.135,-111.2399
+San Fernando,36.4759,-6.1982
+Dayton,39.7589,-84.1916
+Waterflow,36.7597,-108.4818
+Mobile Alabama,30.6944,-88.043
+Surprise Valley,37.3208213,-111.3873845
+Silsbee,30.3491,-94.178
+Moenkopi,36.1111043,-111.2223624
+Bessemer Michigan,46.4813,-90.0529
+Ithaca,42.4406,-76.4966
+Albany,42.6526,-73.7562
+Arizona City,33.4484,-112.074
+Laughlin,35.1678,-114.573
+Achen Germany,50.7766,6.0834
+Roseburg,43.2165,-123.3417
+Ojibwa,0,0
+Navajo County,35.390934,-110.320908 
+Nebraska,41.125370,-98.268082
+Denver Colorado,39.7392,-104.9847
+Hindman Kentucky,37.3359,-82.9804
+Red Valley,37.4852,-122.2364
+Gila River,32.7197692,-114.5552281
+Kidder Missouri,39.7803,-94.1024
+Bolivia,-16.290154,-63.588653
+New York City,40.7143,-74.006
+Cathedral,33.7797,-116.4653
+Guadalajara,40.6286,-3.1618
+Willow Springs,36.9034,-104.4391
+Mexican Hat,37.151946,-109.8670664
+Tucson Arizona,32.2217,-110.9265
+Brandon Mississippi,32.2732,-89.9859
+Glendale,33.5386,-112.186
+Winslow Arizona,35.0242,-110.6974
+Stairway,36.2383146,-112.9624222
+Dallas,32.7831,-96.8067
+Fall Canyon,38.9355199,-112.2324347
+Batan,30.4507,-91.1546
+Fruitland New Mexico,36.7158,-108.3142
+Mancos Creek,36.9833306,-108.9806571
+Middletown Ohio,39.5151,-84.3983
+Moran,27.1873,94.9156
+Kachina Village,35.097,-111.6927
+Detroit Michigan,42.3314,-83.0457
+Hite,37.8074889,-110.4395858
+New Richmond Ohio,38.9487,-84.2799
+Tolleson Arizona,33.45,-112.2593
+Gallup New Mexico,35.5281,-108.7426
+Grandview,38.8858,-94.533
+Flaming Gorge Dam,40.9146819,-109.421525
+Tropic Utah,37.6253,-112.0821
+Buckeye,33.3703,-112.5838
+China Lake California,35.6405,-117.7639
+Glen Canyon Dam,36.9374881,-111.484325
+Bitter Creek,37.2269257,-113.4891197
+Grants,42.4393,-123.3307
+Guaymas Mexico,27.9193,-110.8975
+Red Oak Iowa,41.0097,-95.2255
+Stanton’s Cave,0,0
+Newcomb,39.6289,-84.6486
+Aspen,39.0795,-77.073
+Cromwell Indiana,41.4006,-85.6158
+Colorado Plateau,37.00028,-110.0009558
+Fresno,36.7477,-119.7724
+Clarkdale,34.7711,-112.0579
+Vulcans Throne,36.2188701,-113.0774265
+Utah,40.150032,-111.862434
+US,37.09024,-95.712891
+Camarillo,34.2164,-119.0376
+White Plains New York,41.034,-73.7629
+Hamilton,55.7667,-4.0333
+Prescott Arizona,34.61,-112.3157
+Cannes,43.5513,7.0127
+Bangkok,13.754,100.5014
+Barstow,34.8697,-117.0562
+Kwagunt,36.2633189,-111.8287723
+Amarillo Texas,35.222,-101.8313
+Hermosa Beach California,33.8622,-118.3995
+Blackwater,33.0312,-111.5826
+Paris,48.8534,2.3488
+Cleveland Ohio,41.4995,-81.6954
+Rough Rock,36.4072229,-109.8728929
+Sacaton,33.0767,-111.7393
+Turkey,38.963745,35.243322
+El Salvador,13.794185,-88.89653
+San Diego,32.7153,-117.1573
+Toledo Ohio,41.6639,-83.5552
+Tahlequah OK,35.9154,-94.97
+President Harding Rapid,36.3880414,-111.8476637
+Last Chance,46.5927,-112.0361
+Walnut Canyon,35.1829602,-111.4805264
+Kanab Canyon,36.3916496,-112.6285231
+Camp Verde Arizona,34.5636,-111.8543
+Garden Creek,40.9460536,-112.1705023
+Mesa,49.1191,6.1727
+Estes Park Colorado,40.3772,-105.5217
+Mille Crag Bend,37.8744329,-110.2837489
+Provo Utah,40.2338,-111.6585
+Meeteese Wyoming,0,0
+Holbrook,40.8123,-73.0784
+Magdalena,19.3321,-99.2112
+Fort Defiance,41.2845,-84.3558
+Pineland Texas,31.248,-93.9744
+Bellemont,35.2380657,-111.8334974
+El Paso,31.7587,-106.4869
+Austria,47.516231,14.550072
+Englewood New Jersey,40.8929,-73.9726
+Camp Verde,34.5636,-111.8543
+Narrows,37.2054,-79.9589
+Maine Arizona,35.2606,-111.9488
+Show Low,34.2542,-110.0298
+Harrisburg,40.2737,-76.8844
+Alco Louisiana,31.3344,-93.1307
+Ecuador,-1.831239,-78.183406
+Woodland Hills California,34.1683,-118.6059
+Carthage,34.2257,-77.9447
+Salt River Canyon,33.6566934,-110.8132274
+Sells,31.912,-111.8812
+Farmington New Mexico,36.7281,-108.2187
+Dallas Texas,32.7831,-96.8067
+Deer Creek Falls,36.3894753,-112.5081675
+Ruston Louisiana,32.5232,-92.6379
+Quartzsite,33.6639,-114.23
+Hollywood,34.0983,-118.3267
+Colorado Springs,38.8339,-104.8214
+Puerto Vallarta,20.617,-105.2302
+Delores,0,0
+Castle Butte,35.3853,-110.3207
+Globe Arizona,33.3942,-110.7865
+Bulgaria,42.733883,25.48583
+Cottonwood,40.6197,-111.8102
+Mineral Park,38.0011076,-107.0711604
+Cashion Arizona,33.4353,-112.2979
+Mesa Arizona,33.4223,-111.8226
+Riverside California,33.9534,-117.3962
+Missouri,38.456085,-92.288368
+Animas River,36.7138917,-108.2217411
+Burbank California,34.1808,-118.309
+Saint Petersburg,59.9386,30.3141
+San Pedro River,32.9845103,-110.7837169
+Bingham Canyon Utah,40.5583,-112.1306
+Beautiful Mountain,36.4888906,-108.9892618
+Oklahoma City,35.4676,-97.5164
+Isle of Man,54.236107,-4.548056
+Gila Valley,34.255,-111.2585
+Deer Creek,35.9624,-119.0443
+Red Rock,46.901,-119.6306
+San Angelo Texas,31.4638,-100.437
+Madison Indiana,38.7678,-85.3966
+Jonesboro,35.8423,-90.7043
+Dartmouth,44.6713,-63.5772
+Tesuque,35.744196,-105.9197435
+Durango,43.1712,-2.6338
+Safford,32.834,-109.7076
+McCall Idaho,44.911,-116.0987
+Oregon,44.572021,-122.070938
+Wahweap,37.0374864,-111.5715521
+Cedar City,42.0083,-91.6441
+Dodge City Kansas,37.7528,-100.0171
+Grand Gulch,37.5247192,-109.8990192
+Spencer,43.1414,-95.1444
+Studio City,0,0
+Whitmore Wash,36.1444267,-113.2013193
+New Orleans Louisiana,29.9547,-90.0751
+Unkar Delta,36.0783188,-111.8712712
+Port Arthur Texas,29.8852,-93.9423
+Superstition Mountains,33.4286606,-111.4181856
+Vail Colorado,39.6403,-106.3742
+Kirtland,36.7342,-108.3598
+Awatovi,35.7236182,-110.2787391
+Los Angeles,34.0522,-118.2437
+Guadalajara Jalisco,20.6668,-103.3918
+Mount Pleasant Utah,39.5469,-111.4555
+Rider Canyon,36.6738757,-111.741552
+Stanislaus River,0,0
+Calabasas,34.1578,-118.6384
+El Sobrante,37.9772,-122.2952
+Fort Hamilton,39.1271,-84.5144
+Vietnam,14.058324,108.277199
+Tuweep Leap,36.4158149,-113.0665971
+Paiute Rapid,36.8333117,-113.8341299
+Yugoslavia,43.915886,17.679076
+Center Texas,31.5107,-96.4247
+Ash Fork,35.2250114,-112.4840675
+Dinosaur Monument,40.243578,-109.0145613
+Split Mountain Dam,40.6477334,-109.8143155
+Silver City New Mexico,32.7701,-108.2803
+Mohave County,35.717705,-113.749689 
+Polacca,35.8366716,-110.3815198
+Grants New Mexico,35.1476,-107.8526
+Port Arthur,29.8852,-93.9423
+Wheat Ridge Colorado,39.7661,-105.0772
+Echo Cliffs,36.4124889,-111.525428
+Painted Desert,34.0606014,-109.7806562
+West Virginia,38.491226,-80.954453
+Switzerland,46.818188,8.227512
+Revelstoke,50.9971,-118.1953
+Harshaw,31.4673182,-110.707029
+Lake Powell,36.9666574,-111.292374
+Unkar,36.0783188,-111.8712712
+Paria Creek,36.8561591,-111.6025147
+Parashont Canyon,36.9563735,-112.8610434
+Brazil,-14.235004,-51.92528
+Africa,7.1881,21.0938
+Caldwell Idaho,43.6629,-116.6874
+Stoneman Lake,34.7814099,-111.5126495
+Newport News,37.0834,-76.4697
+Dewey Arizona,34.53,-112.2422
+Tuba City Arizona,36.135,-111.2399
+North Dakota,47.528912,-99.784012
+Elves,36.1963701,-112.4507366
+Limestone County,42.8501,-78.7998
+Granite Falls,35.7965,-81.4306
+Conway Springs Kansas,37.3903,-97.6423
+Quebec,41.6612,-72.7795
+Snowflake,34.5134,-110.0785
+Monument Valley,37.033334,-110.2006846
+Clear Creek,39.6238,-105.4178
+Stillwater Oklahoma,36.1156,-97.0584
+Basalt,39.3689,-107.0328
+Forest Hill Louisiana,31.0419,-92.5312
+Redlands,34.0556,-117.1825
+Whetstone Mountains,31.7947589,-110.4252148
+Serpentine,-32.3605,115.9772
+Pinal County,32.918910,-111.367257 
+Watertown New York,43.9748,-75.9108
+Crownpoint,41.417,-87.3653
+Eureka California,40.8021,-124.1637
+Pikes Peak,38.9743539,-105.0740838
+Jiquilpan Jalisco,0,0
+Laughlin Nevada,35.1678,-114.573
+Bumble Bee,34.2008645,-112.1529372
+Provo,40.2338,-111.6585
+San Jose,37.3394,-121.895
+Chino,34.0122,-117.6889
+Zuni,35.0725,-108.8506
+Paria,18.7811,84.0884
+Waterpocket Fold,38.2499802,-111.1673897
+Fossil Canyon,36.2735922,-112.5268513
+Saint George Utah,37.1041,-113.5841
+Salome,33.7811,-113.6146
+Kingman Arizona,35.1894,-114.053
+Corpus Christi Texas,27.8006,-97.3964
+Columbia Missouri,38.9517,-92.3341
+Sanger California,36.708,-119.556
+Peoria,33.5806,-112.2374
+Second Mesa,49.1191,6.1727
+Rainbow Bridge,37.1099937,-110.9751486
+Jackson Mississippi,32.2988,-90.1848
+Deubendorff,36.3446113,-112.4549089
+Kilauea,22.2121,-159.4134
+Ojo Encino,35.9555736,-107.3478237
+Nevills,36.0522331,-111.9027152
+Blanding Utah,37.6243,-109.4797
+Myrtle Point Oregon,43.0648,-124.139
+Mobile,30.6944,-88.043
+Emery Falls,36.9961341,-103.8669077
+Marble,42.5001,-70.8578
+Dodge City,37.7528,-100.0171
+Oak Park Illinois,41.885,-87.7845
+Honolulu,21.3069,-157.8583
+Grand Canyon National Park,36.1865451,-112.185254
+Oakland,37.8044,-122.2708
+Downey,33.94,-118.1326
+Solitude,36.5454,-82.661
+Shonto,36.5944422,-110.6423629
+Island Park,45.6624,-110.561
+Santa Monica,34.0194,-118.4912
+White Mountains,34.1253218,-110.0437193
+Franklin Louisiana,29.796,-91.5015
+Managua,12.1328,-86.2504
+Riverside,33.9534,-117.3962
+Phantom Ranch,36.1049828,-112.0951686
+Tuna,32.004,-106.6058
+Dewey,35.5941,-119.341
+Innsbruck Austria,47.2627,11.3945
+Montebello California,34.0095,-118.1054
+Slate Creek,40.5760572,-110.5382175
+Yaxchilan,0,0
+Lake Havasu,34.4839,-114.3225
+Chambers Arizona,35.1886,-109.4332
+Taylor Arizona,34.465,-110.0912
+Aspen Colorado,39.1911,-106.8175
+Navajo Bridge,36.8177654,-111.6315499
+Sanford Colorado,37.2583,-105.9047
+Kentucky,37.668140,-84.670067
+Pittsburgh,40.4406,-79.9959
+North Carolina,35.630066,-79.806419
+South America,-14.6049,-57.6563
+Whitewater,42.8336,-88.7323
+Carbon Creek,38.733605,-107.0308805
+South Dakota,44.299782,-99.438828
+Albuquerque New Mexico,35.0845,-106.6511
+Shinumo Creek,36.2366471,-112.3501776
+Arizona,33.729759,-111.431221
+Bumble Bee Arizona,34.2009,-112.1529
+Fort Wingate,35.4678017,-108.5411898
+Las Vegas New Mexico,35.5939,-105.2239
+Waco Texas,31.5493,-97.1467
+Sheep Springs,36.255285,-108.5609164
+West Jordan Utah,40.6097,-111.9391
+Spain,40.463667,-3.74922
+Fairbanks,64.8378,-147.7164
+Mesquite Nevada,36.8055,-114.0672
+Visalia California,36.3302,-119.2921
+Toronto,43.7001,-79.4163
+Frankfurt Germany,50.1155,8.6842
+Durango Colorado,37.2753,-107.8801
+Walthenburg,0,0
+Wheeling West Virginia,39.7038889,-104.8313889
+El Paso Texas,31.7587,-106.4869
+Dodsonville Ohio,39.2023,-83.8147
+Bloomington Indiana,39.1653,-86.5264
+U.S.,37.09024,-95.712891
+Tempe,33.4148,-111.9093
+Washington,47.400902,-121.490494
+Elves Chasm,36.1963701,-112.4507366
+Lakeside,30.13,-81.7682
+Tempe Arizona,33.4148,-111.9093
+Nankoweap Rapids,36.3048886,-111.8555457
+Conquistador Aisle,36.2416473,-112.4874052
+Lexington,38.0498,-84.4586
+Iceland,64.963051,-19.020835
+Berkeley California,37.8716,-122.2728
+Salina,34.9229,33.6233
+Pima County,32.128237,-111.783018 
+Boston,52.9763,-0.0266
+Fort Valley,32.5538,-83.8874
+The Gap,-16.8306,-49.5319
