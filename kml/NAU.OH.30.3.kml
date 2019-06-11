@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_2121">
+        <Placemark id="feat_2122">
+            <name>Virginia</name>
+            <Point id="geom_2044">
+                <coordinates>-78.169968,37.769337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2123">
+            <name>Venice</name>
+            <Point id="geom_2045">
+                <coordinates>-84.1916,39.7589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2124">
+            <name>Scottsdale Arizona</name>
+            <Point id="geom_2046">
+                <coordinates>-111.899,33.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2125">
+            <name>Ireland</name>
+            <Point id="geom_2047">
+                <coordinates>-8.24389,53.41291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2126">
+            <name>Paradise Valley</name>
+            <Point id="geom_2048">
+                <coordinates>-111.9426452,33.5311541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2127">
+            <name>New Jersey</name>
+            <Point id="geom_2049">
+                <coordinates>-74.521011,40.298904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2128">
+            <name>Mexico</name>
+            <Point id="geom_2050">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2129">
+            <name>United States</name>
+            <Point id="geom_2051">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2130">
+            <name>Michigan</name>
+            <Point id="geom_2052">
+                <coordinates>-84.536095,43.326618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2131">
+            <name>Maricopa County</name>
+            <Point id="geom_2053">
+                <coordinates>-112.495534 ,33.346541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2132">
+            <name>Germany</name>
+            <Point id="geom_2054">
+                <coordinates>10.451526,51.165691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2133">
+            <name>Tempe</name>
+            <Point id="geom_2055">
+                <coordinates>-111.9093,33.4148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2134">
+            <name>Colorado</name>
+            <Point id="geom_2056">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2135">
+            <name>Argentina</name>
+            <Point id="geom_2057">
+                <coordinates>-63.616672,-38.416097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2136">
+            <name>Alaska</name>
+            <Point id="geom_2058">
+                <coordinates>-152.404419,61.370716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2137">
+            <name>Arizona</name>
+            <Point id="geom_2059">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2138">
+            <name>Yavapai County</name>
+            <Point id="geom_2060">
+                <coordinates>-112.573745 ,34.630044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2139">
+            <name>Portugal</name>
+            <Point id="geom_2061">
+                <coordinates>-8.224454,39.399872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2140">
+            <name>Grand Canyon</name>
+            <Point id="geom_2062">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2141">
+            <name>Dallas</name>
+            <Point id="geom_2063">
+                <coordinates>-96.8067,32.7831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2142">
+            <name>New Mexico</name>
+            <Point id="geom_2064">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2143">
+            <name>Thailand</name>
+            <Point id="geom_2065">
+                <coordinates>100.992541,15.870032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2144">
+            <name>Illinois</name>
+            <Point id="geom_2066">
+                <coordinates>-88.986137,40.349457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2145">
+            <name>South America</name>
+            <Point id="geom_2067">
+                <coordinates>-57.6563,-14.6049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2146">
+            <name>Eastland Texas</name>
+            <Point id="geom_2068">
+                <coordinates>-98.8176,32.4015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2147">
+            <name>Mesa</name>
+            <Point id="geom_2069">
+                <coordinates>6.1727,49.1191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2148">
+            <name>Cashion Arizona</name>
+            <Point id="geom_2070">
+                <coordinates>-112.2979,33.4353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2149">
+            <name>Bloomington</name>
+            <Point id="geom_2071">
+                <coordinates>-113.6060686,37.0466475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2150">
+            <name>El Paso</name>
+            <Point id="geom_2072">
+                <coordinates>-106.4869,31.7587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2151">
+            <name>Egypt</name>
+            <Point id="geom_2073">
+                <coordinates>30.802498,26.820553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2152">
+            <name>Flagstaff</name>
+            <Point id="geom_2074">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2153">
+            <name>Kasaan</name>
+            <Point id="geom_2075">
+                <coordinates>-132.4041,55.5395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2154">
+            <name>Fort Worth</name>
+            <Point id="geom_2076">
+                <coordinates>-97.3208,32.7254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2155">
+            <name>Tucson</name>
+            <Point id="geom_2077">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2156">
+            <name>Hawaii</name>
+            <Point id="geom_2078">
+                <coordinates>-157.498337,21.094318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2157">
+            <name>Kenya</name>
+            <Point id="geom_2079">
+                <coordinates>37.906193,-0.023559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2158">
+            <name>Kasaan Alaska</name>
+            <Point id="geom_2080">
+                <coordinates>-132.4041,55.5395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2159">
+            <name>Nogales</name>
+            <Point id="geom_2081">
+                <coordinates>-110.9422,31.3086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2160">
+            <name>Japan</name>
+            <Point id="geom_2082">
+                <coordinates>138.252924,36.204824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2161">
+            <name>Scottsdale</name>
+            <Point id="geom_2083">
+                <coordinates>-111.899,33.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2162">
+            <name>Ethiopia</name>
+            <Point id="geom_2084">
+                <coordinates>40.489673,9.145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2163">
+            <name>Washington</name>
+            <Point id="geom_2085">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2164">
+            <name>Canada</name>
+            <Point id="geom_2086">
+                <coordinates>-106.346771,56.130366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2165">
+            <name>Fairbanks</name>
+            <Point id="geom_2087">
+                <coordinates>-104.4855232,33.353156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2166">
+            <name>Juneau</name>
+            <Point id="geom_2088">
+                <coordinates>-134.4197,58.3019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2167">
+            <name>Casa Grande</name>
+            <Point id="geom_2089">
+                <coordinates>-111.7573521,32.8795022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2168">
+            <name>Avondale</name>
+            <Point id="geom_2090">
+                <coordinates>-112.3496021,33.4355977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2169">
+            <name>Phoenix</name>
+            <Point id="geom_2091">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2170">
+            <name>Texas</name>
+            <Point id="geom_2092">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2171">
+            <name>Bloomington Indiana</name>
+            <Point id="geom_2093">
+                <coordinates>-86.5264,39.1653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2172">
+            <name>Tolleson</name>
+            <Point id="geom_2094">
+                <coordinates>-112.259321,33.4500425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2173">
+            <name>Fort Huachuca</name>
+            <Point id="geom_2095">
+                <coordinates>-110.319424,31.5537615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2174">
+            <name>Tolleson Arizona</name>
+            <Point id="geom_2096">
+                <coordinates>-112.2593,33.45,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2175">
+            <name>Apache Junction</name>
+            <Point id="geom_2097">
+                <coordinates>-111.5495777,33.4150485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2176">
+            <name>Tanzania</name>
+            <Point id="geom_2098">
+                <coordinates>34.888822,-6.369028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2177">
+            <name>California</name>
+            <Point id="geom_2099">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2178">
+            <name>Ketchikan</name>
+            <Point id="geom_2100">
+                <coordinates>-131.6476,55.3418,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

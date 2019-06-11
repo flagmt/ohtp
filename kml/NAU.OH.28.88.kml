@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_2056">
+        <Placemark id="feat_2057">
+            <name>Albuquerque</name>
+            <Point id="geom_1981">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2058">
+            <name>California</name>
+            <Point id="geom_1982">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2059">
+            <name>Tuba City</name>
+            <Point id="geom_1983">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2060">
+            <name>Sedona</name>
+            <Point id="geom_1984">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2061">
+            <name>Winslow</name>
+            <Point id="geom_1985">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2062">
+            <name>Oak Creek Canyon</name>
+            <Point id="geom_1986">
+                <coordinates>-111.7268235,34.9125169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2063">
+            <name>Fredonia</name>
+            <Point id="geom_1987">
+                <coordinates>-112.5265889,36.945542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2064">
+            <name>Coconino County</name>
+            <Point id="geom_1988">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2065">
+            <name>Cottonwood</name>
+            <Point id="geom_1989">
+                <coordinates>-111.8068773,40.6616142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2066">
+            <name>Arizona</name>
+            <Point id="geom_1990">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2067">
+            <name>Trezevant Tennessee</name>
+            <Point id="geom_1991">
+                <coordinates>-88.6228,36.0115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2068">
+            <name>Seligman</name>
+            <Point id="geom_1992">
+                <coordinates>-112.882671,35.3276209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2069">
+            <name>Grand Canyon</name>
+            <Point id="geom_1993">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2070">
+            <name>Camp Verde</name>
+            <Point id="geom_1994">
+                <coordinates>-111.8614523,34.5652435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2071">
+            <name>Jerome</name>
+            <Point id="geom_1995">
+                <coordinates>-112.1137716,34.7489107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2072">
+            <name>Phoenix</name>
+            <Point id="geom_1996">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2073">
+            <name>Los Angeles California</name>
+            <Point id="geom_1997">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2074">
+            <name>Williams</name>
+            <Point id="geom_1998">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2075">
+            <name>Los Angeles</name>
+            <Point id="geom_1999">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2076">
+            <name>Phoenix Arizona</name>
+            <Point id="geom_2000">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2077">
+            <name>Clarkdale</name>
+            <Point id="geom_2001">
+                <coordinates>-112.0579367,34.7711319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2078">
+            <name>Springerville</name>
+            <Point id="geom_2002">
+                <coordinates>-109.2859196,34.1333799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2079">
+            <name>Prescott</name>
+            <Point id="geom_2003">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2080">
+            <name>Flagstaff</name>
+            <Point id="geom_2004">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1705">
+        <Placemark id="feat_1706">
+            <name>France</name>
+            <Point id="geom_1641">
+                <coordinates>2.213749,46.227638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1707">
+            <name>California</name>
+            <Point id="geom_1642">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1708">
+            <name>Spain</name>
+            <Point id="geom_1643">
+                <coordinates>-3.74922,40.463667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1709">
+            <name>United States</name>
+            <Point id="geom_1644">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1710">
+            <name>Winslow</name>
+            <Point id="geom_1645">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1711">
+            <name>Jerome Arizona</name>
+            <Point id="geom_1646">
+                <coordinates>-112.1138,34.7489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1712">
+            <name>Oakland California</name>
+            <Point id="geom_1647">
+                <coordinates>-122.2708,37.8044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1713">
+            <name>Jerome</name>
+            <Point id="geom_1648">
+                <coordinates>-112.1137716,34.7489107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1714">
+            <name>Kansas</name>
+            <Point id="geom_1649">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1715">
+            <name>Arizona</name>
+            <Point id="geom_1650">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1716">
+            <name>McNary</name>
+            <Point id="geom_1651">
+                <coordinates>-109.8570472,34.0736564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1717">
+            <name>Germany</name>
+            <Point id="geom_1652">
+                <coordinates>10.451526,51.165691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1718">
+            <name>Payson</name>
+            <Point id="geom_1653">
+                <coordinates>-111.3251355,34.2308684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1719">
+            <name>Grand Canyon</name>
+            <Point id="geom_1654">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1720">
+            <name>Berlin</name>
+            <Point id="geom_1655">
+                <coordinates>13.4105,52.5244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1721">
+            <name>Oak Creek</name>
+            <Point id="geom_1656">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1722">
+            <name>Camp Verde</name>
+            <Point id="geom_1657">
+                <coordinates>-111.8614523,34.5652435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1723">
+            <name>Phoenix</name>
+            <Point id="geom_1658">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1724">
+            <name>Berlin Germany</name>
+            <Point id="geom_1659">
+                <coordinates>13.4105,52.5244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1725">
+            <name>Williams</name>
+            <Point id="geom_1660">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1726">
+            <name>Flagstaff Arizona</name>
+            <Point id="geom_1661">
+                <coordinates>-111.6513,35.1981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1727">
+            <name>Louisiana</name>
+            <Point id="geom_1662">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1728">
+            <name>Holbrook</name>
+            <Point id="geom_1663">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1729">
+            <name>Waco Texas</name>
+            <Point id="geom_1664">
+                <coordinates>-97.1467,31.5493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1730">
+            <name>Sun City</name>
+            <Point id="geom_1665">
+                <coordinates>-122.4443,47.2529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1731">
+            <name>Sun City Arizona</name>
+            <Point id="geom_1666">
+                <coordinates>-112.2718,33.5975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1732">
+            <name>Kingman</name>
+            <Point id="geom_1667">
+                <coordinates>-114.0326559,35.1963425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1733">
+            <name>Flagstaff</name>
+            <Point id="geom_1668">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

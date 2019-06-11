@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1734">
+        <Placemark id="feat_1735">
+            <name>McNary Arizona</name>
+            <Point id="geom_1669">
+                <coordinates>-109.8571,34.0737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1736">
+            <name>Sedona</name>
+            <Point id="geom_1670">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1737">
+            <name>Winslow</name>
+            <Point id="geom_1671">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1738">
+            <name>Oak Creek Canyon</name>
+            <Point id="geom_1672">
+                <coordinates>-111.7268235,34.9125169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1739">
+            <name>Kentucky</name>
+            <Point id="geom_1673">
+                <coordinates>-84.670067,37.668140,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1740">
+            <name>Arizona</name>
+            <Point id="geom_1674">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1741">
+            <name>McNary</name>
+            <Point id="geom_1675">
+                <coordinates>-109.8570472,34.0736564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1742">
+            <name>Wisconsin</name>
+            <Point id="geom_1676">
+                <coordinates>-89.616508,44.268543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1743">
+            <name>McNary Louisiana</name>
+            <Point id="geom_1677">
+                <coordinates>-92.5763,30.9874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1744">
+            <name>Oak Creek</name>
+            <Point id="geom_1678">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1745">
+            <name>Ash Fork</name>
+            <Point id="geom_1679">
+                <coordinates>-112.4840675,35.2250114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1746">
+            <name>Phoenix</name>
+            <Point id="geom_1680">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1747">
+            <name>Mormon Lake</name>
+            <Point id="geom_1681">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1748">
+            <name>Williams</name>
+            <Point id="geom_1682">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1749">
+            <name>Louisiana</name>
+            <Point id="geom_1683">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1750">
+            <name>Dunnegan Missouri</name>
+            <Point id="geom_1684">
+                <coordinates>-93.5769,37.7081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1751">
+            <name>Glendale</name>
+            <Point id="geom_1685">
+                <coordinates>-112.186,33.5386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1752">
+            <name>Klamath Falls Oregon</name>
+            <Point id="geom_1686">
+                <coordinates>-121.7817,42.2249,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1753">
+            <name>Oregon</name>
+            <Point id="geom_1687">
+                <coordinates>-122.070938,44.572021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1754">
+            <name>Flagstaff</name>
+            <Point id="geom_1688">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1755">
+            <name>Missouri</name>
+            <Point id="geom_1689">
+                <coordinates>-92.288368,38.456085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1756">
+            <name>Saint Louis</name>
+            <Point id="geom_1690">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

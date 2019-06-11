@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4317">
+        <Placemark id="feat_4318">
+            <name>Boulder City</name>
+            <Point id="geom_4179">
+                <coordinates>-114.8325,35.9786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4319">
+            <name>Phantom</name>
+            <Point id="geom_4180">
+                <coordinates>-112.0877,36.1161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4320">
+            <name>Marble Canyon</name>
+            <Point id="geom_4181">
+                <coordinates>-111.6377,36.8155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4321">
+            <name>Grand Canyon</name>
+            <Point id="geom_4182">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4322">
+            <name>Omaha</name>
+            <Point id="geom_4183">
+                <coordinates>-95.9404,41.2563,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4323">
+            <name>Nankoweap</name>
+            <Point id="geom_4184">
+                <coordinates>-111.8555457,36.3048886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4324">
+            <name>Monument Valley</name>
+            <Point id="geom_4185">
+                <coordinates>-110.0840139,36.916668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4325">
+            <name>Mexico</name>
+            <Point id="geom_4186">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4326">
+            <name>Phoenix</name>
+            <Point id="geom_4187">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4327">
+            <name>Europe</name>
+            <Point id="geom_4188">
+                <coordinates>7.4268,50.2191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4328">
+            <name>Chicago</name>
+            <Point id="geom_4189">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4329">
+            <name>Los Angeles</name>
+            <Point id="geom_4190">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4330">
+            <name>Phantom  Ranch</name>
+            <Point id="geom_4191">
+                <coordinates>-112.0951686,36.1049828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4331">
+            <name>Lees Ferry</name>
+            <Point id="geom_4192">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4332">
+            <name>Boulder</name>
+            <Point id="geom_4193">
+                <coordinates>-105.2706,40.015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4333">
+            <name>Washington</name>
+            <Point id="geom_4194">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4334">
+            <name>Paria River</name>
+            <Point id="geom_4195">
+                <coordinates>-111.6007163,36.8585987,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4335">
+            <name>Quartermaster Canyon</name>
+            <Point id="geom_4196">
+                <coordinates>-113.7593922,35.9672104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4336">
+            <name>Arizona</name>
+            <Point id="geom_4197">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4337">
+            <name>Bridge Canyon</name>
+            <Point id="geom_4198">
+                <coordinates>-113.5245939,35.7753297,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

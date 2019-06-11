@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1681">
+        <Placemark id="feat_1682">
+            <name>Alabama</name>
+            <Point id="geom_1618">
+                <coordinates>-86.791130,32.806671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1683">
+            <name>Las Vegas</name>
+            <Point id="geom_1619">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1684">
+            <name>Tuba City</name>
+            <Point id="geom_1620">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1685">
+            <name>Tucson</name>
+            <Point id="geom_1621">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1686">
+            <name>Sedona</name>
+            <Point id="geom_1622">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1687">
+            <name>Tuba</name>
+            <Point id="geom_1623">
+                <coordinates>-15.8833,14.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1688">
+            <name>Oklahoma</name>
+            <Point id="geom_1624">
+                <coordinates>-96.928917,35.565342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1689">
+            <name>Walnut Canyon</name>
+            <Point id="geom_1625">
+                <coordinates>-109.3506193,31.5295427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1690">
+            <name>Colorado</name>
+            <Point id="geom_1626">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1691">
+            <name>Indian Gardens</name>
+            <Point id="geom_1627">
+                <coordinates>-111.7271013,34.9139058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1692">
+            <name>Vegas</name>
+            <Point id="geom_1628">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1693">
+            <name>Hollywood</name>
+            <Point id="geom_1629">
+                <coordinates>-118.3267,34.0983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1694">
+            <name>Lees Ferry</name>
+            <Point id="geom_1630">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1695">
+            <name>Grand Canyon</name>
+            <Point id="geom_1631">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1696">
+            <name>Oak Creek</name>
+            <Point id="geom_1632">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1697">
+            <name>Cordes Junction</name>
+            <Point id="geom_1633">
+                <coordinates>-112.1204362,34.3322513,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1698">
+            <name>Phoenix</name>
+            <Point id="geom_1634">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1699">
+            <name>Louisiana</name>
+            <Point id="geom_1635">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1700">
+            <name>Oak Creek Canyon</name>
+            <Point id="geom_1636">
+                <coordinates>-111.7268235,34.9125169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1701">
+            <name>Winona</name>
+            <Point id="geom_1637">
+                <coordinates>-111.4082096,35.2050122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1702">
+            <name>California</name>
+            <Point id="geom_1638">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1703">
+            <name>Prescott</name>
+            <Point id="geom_1639">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1704">
+            <name>Flagstaff</name>
+            <Point id="geom_1640">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

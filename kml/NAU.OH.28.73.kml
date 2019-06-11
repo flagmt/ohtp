@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1606">
+        <Placemark id="feat_1607">
+            <name>Winslow</name>
+            <Point id="geom_1545">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1608">
+            <name>Louisiana</name>
+            <Point id="geom_1546">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1609">
+            <name>Grand Canyon</name>
+            <Point id="geom_1547">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1610">
+            <name>Carthage Missouri</name>
+            <Point id="geom_1548">
+                <coordinates>-94.3102,37.1765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1611">
+            <name>Happy Jack</name>
+            <Point id="geom_1549">
+                <coordinates>-111.4073685,34.7433546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1612">
+            <name>Ash Fork</name>
+            <Point id="geom_1550">
+                <coordinates>-112.4840675,35.2250114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1613">
+            <name>Phoenix</name>
+            <Point id="geom_1551">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1614">
+            <name>Flagstaff</name>
+            <Point id="geom_1552">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1615">
+            <name>Arizona</name>
+            <Point id="geom_1553">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1616">
+            <name>Lock Haven Pennsylvania</name>
+            <Point id="geom_1554">
+                <coordinates>-77.4469,41.137,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

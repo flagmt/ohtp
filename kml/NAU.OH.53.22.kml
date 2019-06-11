@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_3341">
+        <Placemark id="feat_3342">
+            <name>Dinosaur</name>
+            <Point id="geom_3227">
+                <coordinates>-109.0145613,40.243578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3343">
+            <name>Ehrenberg</name>
+            <Point id="geom_3228">
+                <coordinates>-114.5252322,33.6041914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3344">
+            <name>La Paz</name>
+            <Point id="geom_3229">
+                <coordinates>-68.15,-16.5,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3345">
+            <name>Crystal</name>
+            <Point id="geom_3230">
+                <coordinates>-112.2464654,36.1366442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3346">
+            <name>Tapeats Creek</name>
+            <Point id="geom_3231">
+                <coordinates>-112.4693497,36.3705377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3347">
+            <name>Powell Plateau</name>
+            <Point id="geom_3232">
+                <coordinates>-112.3943465,36.297481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3348">
+            <name>Hance Rapids</name>
+            <Point id="geom_3233">
+                <coordinates>-111.9203492,36.0459215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3349">
+            <name>Lava Falls</name>
+            <Point id="geom_3234">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3350">
+            <name>Mexican Hat</name>
+            <Point id="geom_3235">
+                <coordinates>-109.8670664,37.151946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3351">
+            <name>San Juan</name>
+            <Point id="geom_3236">
+                <coordinates>121.0333,14.6,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3352">
+            <name>Dartmouth</name>
+            <Point id="geom_3237">
+                <coordinates>-63.5772,44.6713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3353">
+            <name>Colorado</name>
+            <Point id="geom_3238">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3354">
+            <name>Green River Utah</name>
+            <Point id="geom_3239">
+                <coordinates>-110.1618,38.9952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3355">
+            <name>Arizona</name>
+            <Point id="geom_3240">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3356">
+            <name>Salt Lake</name>
+            <Point id="geom_3241">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3357">
+            <name>Green River Wyoming</name>
+            <Point id="geom_3242">
+                <coordinates>-109.4663,41.5286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3358">
+            <name>Marble Canyon</name>
+            <Point id="geom_3243">
+                <coordinates>-111.6376612,36.8155432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3359">
+            <name>Grand Canyon</name>
+            <Point id="geom_3244">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3360">
+            <name>Glen Canyon</name>
+            <Point id="geom_3245">
+                <coordinates>-111.5879381,36.8644321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3361">
+            <name>Salt River</name>
+            <Point id="geom_3246">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3362">
+            <name>New York</name>
+            <Point id="geom_3247">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3363">
+            <name>Phoenix</name>
+            <Point id="geom_3248">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3364">
+            <name>Idaho</name>
+            <Point id="geom_3249">
+                <coordinates>-114.478828,44.240459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3365">
+            <name>Flaming Gorge</name>
+            <Point id="geom_3250">
+                <coordinates>-109.6093107,40.9555148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3366">
+            <name>Louisiana</name>
+            <Point id="geom_3251">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3367">
+            <name>Black Canyon</name>
+            <Point id="geom_3252">
+                <coordinates>-112.1507149,34.0708665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3368">
+            <name>Little Colorado River</name>
+            <Point id="geom_3253">
+                <coordinates>-111.8037701,36.1910972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3369">
+            <name>Flagstaff</name>
+            <Point id="geom_3254">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3370">
+            <name>Bridge Canyon</name>
+            <Point id="geom_3255">
+                <coordinates>-113.5245939,35.7753297,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

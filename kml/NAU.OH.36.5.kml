@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_2246">
+        <Placemark id="feat_2247">
+            <name>Arizona</name>
+            <Point id="geom_2164">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2248">
+            <name>United States</name>
+            <Point id="geom_2165">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2249">
+            <name>Tuba City</name>
+            <Point id="geom_2166">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2250">
+            <name>Utah</name>
+            <Point id="geom_2167">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2251">
+            <name>Oraibi</name>
+            <Point id="geom_2168">
+                <coordinates>-110.6404148,35.8763922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2252">
+            <name>Keams Canyon Arizona</name>
+            <Point id="geom_2169">
+                <coordinates>-110.1951,35.8125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2253">
+            <name>Phoenix</name>
+            <Point id="geom_2170">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2254">
+            <name>Salt Lake City</name>
+            <Point id="geom_2171">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2255">
+            <name>Phoenix Arizona</name>
+            <Point id="geom_2172">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2256">
+            <name>Russia</name>
+            <Point id="geom_2173">
+                <coordinates>105.318756,61.52401,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

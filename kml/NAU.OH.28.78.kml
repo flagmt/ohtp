@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1757">
+        <Placemark id="feat_1758">
+            <name>Phoenix</name>
+            <Point id="geom_1691">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1759">
+            <name>Las Vegas</name>
+            <Point id="geom_1692">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1760">
+            <name>Skull Valley</name>
+            <Point id="geom_1693">
+                <coordinates>-112.6835602,34.5030309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1761">
+            <name>Cottonwood</name>
+            <Point id="geom_1694">
+                <coordinates>-111.8068773,40.6616142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1762">
+            <name>Verde Valley</name>
+            <Point id="geom_1695">
+                <coordinates>-112.0462699,34.7839093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1763">
+            <name>Duncan</name>
+            <Point id="geom_1696">
+                <coordinates>-109.1053408,32.7214599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1764">
+            <name>Sedona</name>
+            <Point id="geom_1697">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1765">
+            <name>Dewey</name>
+            <Point id="geom_1698">
+                <coordinates>-112.2412739,34.5300253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1766">
+            <name>Verde River</name>
+            <Point id="geom_1699">
+                <coordinates>-111.8709853,34.582802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1767">
+            <name>Nogales</name>
+            <Point id="geom_1700">
+                <coordinates>-110.9422,31.3086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1768">
+            <name>Tempe</name>
+            <Point id="geom_1701">
+                <coordinates>-111.9093,33.4148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1769">
+            <name>Scottsdale</name>
+            <Point id="geom_1702">
+                <coordinates>-111.899,33.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1770">
+            <name>Dewey Arizona</name>
+            <Point id="geom_1703">
+                <coordinates>-112.2422,34.53,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1771">
+            <name>Los Angeles</name>
+            <Point id="geom_1704">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1772">
+            <name>Jerome</name>
+            <Point id="geom_1705">
+                <coordinates>-112.1137716,34.7489107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1773">
+            <name>Arizona</name>
+            <Point id="geom_1706">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1774">
+            <name>Humboldt</name>
+            <Point id="geom_1707">
+                <coordinates>-112.2373846,34.5008589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1775">
+            <name>Duncan Arizona</name>
+            <Point id="geom_1708">
+                <coordinates>-109.1053,32.7215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1776">
+            <name>Fort McDowell</name>
+            <Point id="geom_1709">
+                <coordinates>-111.6745826,33.6367105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1777">
+            <name>Oak Creek</name>
+            <Point id="geom_1710">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1778">
+            <name>Camp Verde</name>
+            <Point id="geom_1711">
+                <coordinates>-111.8614523,34.5652435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1779">
+            <name>Ash Fork</name>
+            <Point id="geom_1712">
+                <coordinates>-112.4840675,35.2250114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1780">
+            <name>New Mexico</name>
+            <Point id="geom_1713">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1781">
+            <name>New Jersey</name>
+            <Point id="geom_1714">
+                <coordinates>-74.521011,40.298904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1782">
+            <name>Mesa</name>
+            <Point id="geom_1715">
+                <coordinates>6.1727,49.1191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1783">
+            <name>Texas</name>
+            <Point id="geom_1716">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1784">
+            <name>California</name>
+            <Point id="geom_1717">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1785">
+            <name>Louisiana</name>
+            <Point id="geom_1718">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1786">
+            <name>Batesville</name>
+            <Point id="geom_1719">
+                <coordinates>-91.641,35.7698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1787">
+            <name>Arkansas</name>
+            <Point id="geom_1720">
+                <coordinates>-92.373123,34.969704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1788">
+            <name>Chino Valley</name>
+            <Point id="geom_1721">
+                <coordinates>-112.4537809,34.7575227,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1789">
+            <name>Clarkdale</name>
+            <Point id="geom_1722">
+                <coordinates>-112.0579367,34.7711319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1790">
+            <name>Graham County</name>
+            <Point id="geom_1723">
+                <coordinates>-109.878310 ,32.931828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1791">
+            <name>Tonto Basin</name>
+            <Point id="geom_1724">
+                <coordinates>-111.294575,33.8317111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1792">
+            <name>Prescott</name>
+            <Point id="geom_1725">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1793">
+            <name>Flagstaff</name>
+            <Point id="geom_1726">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1941">
+        <Placemark id="feat_1942">
+            <name>Round Rock</name>
+            <Point id="geom_1869">
+                <coordinates>-97.6789,30.5083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1943">
+            <name>Abilene</name>
+            <Point id="geom_1870">
+                <coordinates>-99.7331,32.4487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1944">
+            <name>Many Farms</name>
+            <Point id="geom_1871">
+                <coordinates>-109.6178867,36.3527792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1945">
+            <name>Stamford Texas</name>
+            <Point id="geom_1872">
+                <coordinates>-99.8029,32.9454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1946">
+            <name>Tempe</name>
+            <Point id="geom_1873">
+                <coordinates>-111.9093,33.4148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1947">
+            <name>Globe Arizona</name>
+            <Point id="geom_1874">
+                <coordinates>-110.7865,33.3942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1948">
+            <name>Colorado</name>
+            <Point id="geom_1875">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1949">
+            <name>Eloy</name>
+            <Point id="geom_1876">
+                <coordinates>-79.8552,-2.1758,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1950">
+            <name>Lukachukai</name>
+            <Point id="geom_1877">
+                <coordinates>-109.2287125,36.416946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1951">
+            <name>Arizona</name>
+            <Point id="geom_1878">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1952">
+            <name>Fort Worth</name>
+            <Point id="geom_1879">
+                <coordinates>-97.3208,32.7254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1953">
+            <name>Celeste Texas</name>
+            <Point id="geom_1880">
+                <coordinates>-96.1947,33.2943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1954">
+            <name>Salt River</name>
+            <Point id="geom_1881">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1955">
+            <name>Dallas</name>
+            <Point id="geom_1882">
+                <coordinates>-96.8067,32.7831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1956">
+            <name>Page</name>
+            <Point id="geom_1883">
+                <coordinates>-111.8934886,34.7675199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1957">
+            <name>Sacaton</name>
+            <Point id="geom_1884">
+                <coordinates>-111.7392993,33.0767226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1958">
+            <name>Eastland Texas</name>
+            <Point id="geom_1885">
+                <coordinates>-98.8176,32.4015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1959">
+            <name>Mesa</name>
+            <Point id="geom_1886">
+                <coordinates>6.1727,49.1191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1960">
+            <name>Marana</name>
+            <Point id="geom_1887">
+                <coordinates>-111.2253822,32.436738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1961">
+            <name>Flagstaff</name>
+            <Point id="geom_1888">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1962">
+            <name>Kayenta</name>
+            <Point id="geom_1889">
+                <coordinates>-110.2545767,36.7277769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1963">
+            <name>Albuquerque</name>
+            <Point id="geom_1890">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1964">
+            <name>Tuba City</name>
+            <Point id="geom_1891">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1965">
+            <name>Tucson</name>
+            <Point id="geom_1892">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1966">
+            <name>Sedona</name>
+            <Point id="geom_1893">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1967">
+            <name>Teec Nos Pos</name>
+            <Point id="geom_1894">
+                <coordinates>-109.0856582,36.9211097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1968">
+            <name>Glendale</name>
+            <Point id="geom_1895">
+                <coordinates>-112.186,33.5386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1969">
+            <name>Stamford</name>
+            <Point id="geom_1896">
+                <coordinates>-0.4833,52.65,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1970">
+            <name>Polacca</name>
+            <Point id="geom_1897">
+                <coordinates>-110.3815198,35.8366716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1971">
+            <name>Rough Rock</name>
+            <Point id="geom_1898">
+                <coordinates>-109.8728929,36.4072229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1972">
+            <name>Globe</name>
+            <Point id="geom_1899">
+                <coordinates>-110.7854739,33.3958623,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1973">
+            <name>Casa Grande</name>
+            <Point id="geom_1900">
+                <coordinates>-111.7573521,32.8795022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1974">
+            <name>Las Vegas</name>
+            <Point id="geom_1901">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1975">
+            <name>Phoenix</name>
+            <Point id="geom_1902">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1976">
+            <name>Texas</name>
+            <Point id="geom_1903">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1977">
+            <name>Tolleson</name>
+            <Point id="geom_1904">
+                <coordinates>-112.259321,33.4500425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1978">
+            <name>Wickenburg</name>
+            <Point id="geom_1905">
+                <coordinates>-112.729622,33.9686412,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1979">
+            <name>Chinle</name>
+            <Point id="geom_1906">
+                <coordinates>-109.5609176,36.1552564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1980">
+            <name>Arkansas</name>
+            <Point id="geom_1907">
+                <coordinates>-92.373123,34.969704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1981">
+            <name>Dennehotso</name>
+            <Point id="geom_1908">
+                <coordinates>-109.8465046,36.8458351,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1982">
+            <name>Albuquerque New Mexico</name>
+            <Point id="geom_1909">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1983">
+            <name>Oklahoma</name>
+            <Point id="geom_1910">
+                <coordinates>-96.928917,35.565342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1984">
+            <name>Cuba</name>
+            <Point id="geom_1911">
+                <coordinates>-77.781167,21.521757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1985">
+            <name>Cuba New Mexico</name>
+            <Point id="geom_1912">
+                <coordinates>-106.9584,36.0222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1986">
+            <name>Wittmann</name>
+            <Point id="geom_1913">
+                <coordinates>-112.5285046,33.7764231,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

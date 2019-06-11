@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1875">
+        <Placemark id="feat_1876">
+            <name>Seattle</name>
+            <Point id="geom_1806">
+                <coordinates>-122.3321,47.6062,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1877">
+            <name>Oak Creek</name>
+            <Point id="geom_1807">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1878">
+            <name>Phoenix</name>
+            <Point id="geom_1808">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1879">
+            <name>Europe</name>
+            <Point id="geom_1809">
+                <coordinates>7.4268,50.2191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1880">
+            <name>Williams</name>
+            <Point id="geom_1810">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1881">
+            <name>Kansas City</name>
+            <Point id="geom_1811">
+                <coordinates>-94.5786,39.0997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1882">
+            <name>Winslow</name>
+            <Point id="geom_1812">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1883">
+            <name>Oklahoma City</name>
+            <Point id="geom_1813">
+                <coordinates>-97.5164,35.4676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1884">
+            <name>Tempe</name>
+            <Point id="geom_1814">
+                <coordinates>-111.9093,33.4148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1885">
+            <name>Saint Louis Missouri</name>
+            <Point id="geom_1815">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1886">
+            <name>California</name>
+            <Point id="geom_1816">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1887">
+            <name>Flagstaff</name>
+            <Point id="geom_1817">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1888">
+            <name>Kansas</name>
+            <Point id="geom_1818">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1889">
+            <name>Arizona</name>
+            <Point id="geom_1819">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1890">
+            <name>Saint Louis</name>
+            <Point id="geom_1820">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

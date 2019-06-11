@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_3371">
+        <Placemark id="feat_3372">
+            <name>Dinosaur</name>
+            <Point id="geom_3256">
+                <coordinates>-109.0145613,40.243578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3373">
+            <name>Florida</name>
+            <Point id="geom_3257">
+                <coordinates>-81.686783,27.766279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3374">
+            <name>Kanab</name>
+            <Point id="geom_3258">
+                <coordinates>-112.6340788,36.3905385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3375">
+            <name>Salt Lake</name>
+            <Point id="geom_3259">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3376">
+            <name>Lava Falls</name>
+            <Point id="geom_3260">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3377">
+            <name>Yampa</name>
+            <Point id="geom_3261">
+                <coordinates>-106.9086582,40.1524837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3378">
+            <name>Music Temple</name>
+            <Point id="geom_3262">
+                <coordinates>-110.9234813,37.1627713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3379">
+            <name>Hawaii</name>
+            <Point id="geom_3263">
+                <coordinates>-157.498337,21.094318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3380">
+            <name>Mille Crag Bend</name>
+            <Point id="geom_3264">
+                <coordinates>-110.2837489,37.8744329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3381">
+            <name>Makaha</name>
+            <Point id="geom_3265">
+                <coordinates>-158.2104,21.4663,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3382">
+            <name>Phantom</name>
+            <Point id="geom_3266">
+                <coordinates>-112.0876685,36.1160939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3383">
+            <name>Georgia</name>
+            <Point id="geom_3267">
+                <coordinates>-83.643074,33.040619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3384">
+            <name>Colorado</name>
+            <Point id="geom_3268">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3385">
+            <name>Lake Powell</name>
+            <Point id="geom_3269">
+                <coordinates>-105.6603285,40.2549845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3386">
+            <name>Lodore</name>
+            <Point id="geom_3270">
+                <coordinates>-108.8881715,40.7274626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3387">
+            <name>Lake Tahoe</name>
+            <Point id="geom_3271">
+                <coordinates>-119.9844,38.9332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3388">
+            <name>Grand Canyon</name>
+            <Point id="geom_3272">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3389">
+            <name>Hermit</name>
+            <Point id="geom_3273">
+                <coordinates>-111.8818842,41.2507764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3390">
+            <name>Nankoweap</name>
+            <Point id="geom_3274">
+                <coordinates>-111.8555457,36.3048886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3391">
+            <name>Glen Canyon</name>
+            <Point id="geom_3275">
+                <coordinates>-111.5879381,36.8644321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3392">
+            <name>Phoenix</name>
+            <Point id="geom_3276">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3393">
+            <name>Grand Wash Bay</name>
+            <Point id="geom_3277">
+                <coordinates>-114.0069038,36.2219298,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3394">
+            <name>Bridge Canyon Rapid</name>
+            <Point id="geom_3278">
+                <coordinates>-113.5245939,35.7753297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3395">
+            <name>Vernal</name>
+            <Point id="geom_3279">
+                <coordinates>-107.8292277,38.3897096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3396">
+            <name>Washington</name>
+            <Point id="geom_3280">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3397">
+            <name>Salt Lake City</name>
+            <Point id="geom_3281">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3398">
+            <name>Vernal Utah</name>
+            <Point id="geom_3282">
+                <coordinates>-109.5288,40.4555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3399">
+            <name>Flagstaff</name>
+            <Point id="geom_3283">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

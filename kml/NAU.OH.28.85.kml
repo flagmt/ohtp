@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1987">
+        <Placemark id="feat_1988">
+            <name>Lees Ferry</name>
+            <Point id="geom_1914">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1989">
+            <name>Kanab</name>
+            <Point id="geom_1915">
+                <coordinates>-112.6340788,36.3905385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1990">
+            <name>California</name>
+            <Point id="geom_1916">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1991">
+            <name>Chicago</name>
+            <Point id="geom_1917">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1992">
+            <name>Toronto</name>
+            <Point id="geom_1918">
+                <coordinates>-79.4163,43.7001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1993">
+            <name>Jerome</name>
+            <Point id="geom_1919">
+                <coordinates>-112.1137716,34.7489107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1994">
+            <name>Illinois</name>
+            <Point id="geom_1920">
+                <coordinates>-88.986137,40.349457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1995">
+            <name>Williams</name>
+            <Point id="geom_1921">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1996">
+            <name>Missouri</name>
+            <Point id="geom_1922">
+                <coordinates>-92.288368,38.456085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1997">
+            <name>Glendale</name>
+            <Point id="geom_1923">
+                <coordinates>-112.186,33.5386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1998">
+            <name>Monmouth Illinois</name>
+            <Point id="geom_1924">
+                <coordinates>-90.6474,40.9114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1999">
+            <name>Utah</name>
+            <Point id="geom_1925">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2000">
+            <name>Bakersfield</name>
+            <Point id="geom_1926">
+                <coordinates>-119.0187,35.3733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2001">
+            <name>Fredonia</name>
+            <Point id="geom_1927">
+                <coordinates>-112.5265889,36.945542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2002">
+            <name>Canada</name>
+            <Point id="geom_1928">
+                <coordinates>-106.346771,56.130366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2003">
+            <name>Prescott</name>
+            <Point id="geom_1929">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2004">
+            <name>Coconino County</name>
+            <Point id="geom_1930">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2005">
+            <name>Phoenix</name>
+            <Point id="geom_1931">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2006">
+            <name>Galesburg Illinois</name>
+            <Point id="geom_1932">
+                <coordinates>-90.3712,40.9478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2007">
+            <name>Arizona</name>
+            <Point id="geom_1933">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2008">
+            <name>Flagstaff</name>
+            <Point id="geom_1934">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

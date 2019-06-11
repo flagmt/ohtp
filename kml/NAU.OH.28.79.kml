@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1794">
+        <Placemark id="feat_1795">
+            <name>Ireland</name>
+            <Point id="geom_1727">
+                <coordinates>-8.24389,53.41291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1796">
+            <name>Europe</name>
+            <Point id="geom_1728">
+                <coordinates>7.4268,50.2191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1797">
+            <name>Mexico</name>
+            <Point id="geom_1729">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1798">
+            <name>Honolulu</name>
+            <Point id="geom_1730">
+                <coordinates>-157.8583,21.3069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1799">
+            <name>Chicago</name>
+            <Point id="geom_1731">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1800">
+            <name>Dublin</name>
+            <Point id="geom_1732">
+                <coordinates>-6.2489,53.3331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1801">
+            <name>Boston</name>
+            <Point id="geom_1733">
+                <coordinates>-71.0598,42.3584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1802">
+            <name>Jerome</name>
+            <Point id="geom_1734">
+                <coordinates>-112.1137716,34.7489107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1803">
+            <name>Kansas</name>
+            <Point id="geom_1735">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1804">
+            <name>Arizona</name>
+            <Point id="geom_1736">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1805">
+            <name>Grand Canyon</name>
+            <Point id="geom_1737">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1806">
+            <name>Oak Creek</name>
+            <Point id="geom_1738">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1807">
+            <name>New York</name>
+            <Point id="geom_1739">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1808">
+            <name>New Mexico</name>
+            <Point id="geom_1740">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1809">
+            <name>Paris</name>
+            <Point id="geom_1741">
+                <coordinates>2.3488,48.8534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1810">
+            <name>Los Gatos</name>
+            <Point id="geom_1742">
+                <coordinates>-103.4735639,36.1094778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1811">
+            <name>Sun City</name>
+            <Point id="geom_1743">
+                <coordinates>-122.4443,47.2529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1812">
+            <name>Saint Marys Kansas</name>
+            <Point id="geom_1744">
+                <coordinates>-96.0711,39.1942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1813">
+            <name>Cologne</name>
+            <Point id="geom_1745">
+                <coordinates>6.95,50.9333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1814">
+            <name>France</name>
+            <Point id="geom_1746">
+                <coordinates>2.213749,46.227638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1815">
+            <name>Bellemont</name>
+            <Point id="geom_1747">
+                <coordinates>-111.8334974,35.2380657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1816">
+            <name>Hawaii</name>
+            <Point id="geom_1748">
+                <coordinates>-157.498337,21.094318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1817">
+            <name>Winslow</name>
+            <Point id="geom_1749">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1818">
+            <name>Florissant Missouri</name>
+            <Point id="geom_1750">
+                <coordinates>-90.3226,38.7892,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1819">
+            <name>Mogollon Rim</name>
+            <Point id="geom_1751">
+                <coordinates>-111.5984772,34.2503104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1820">
+            <name>Scottsdale</name>
+            <Point id="geom_1752">
+                <coordinates>-111.899,33.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1821">
+            <name>Canada</name>
+            <Point id="geom_1753">
+                <coordinates>-106.346771,56.130366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1822">
+            <name>Coconino Plateau</name>
+            <Point id="geom_1754">
+                <coordinates>-112.5021238,35.8333209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1823">
+            <name>Coconino County</name>
+            <Point id="geom_1755">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1824">
+            <name>Hollywood</name>
+            <Point id="geom_1756">
+                <coordinates>-118.3267,34.0983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1825">
+            <name>San Francisco Peaks</name>
+            <Point id="geom_1757">
+                <coordinates>-111.6943275,35.3530637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1826">
+            <name>Reims</name>
+            <Point id="geom_1758">
+                <coordinates>4.0333,49.25,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1827">
+            <name>Bernalillo New Mexico</name>
+            <Point id="geom_1759">
+                <coordinates>-106.5511,35.3,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1828">
+            <name>San Francisco</name>
+            <Point id="geom_1760">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1829">
+            <name>Barstow</name>
+            <Point id="geom_1761">
+                <coordinates>-117.0562,34.8697,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1830">
+            <name>Ash Fork</name>
+            <Point id="geom_1762">
+                <coordinates>-112.4840675,35.2250114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1831">
+            <name>Phoenix</name>
+            <Point id="geom_1763">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1832">
+            <name>Mormon Lake</name>
+            <Point id="geom_1764">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1833">
+            <name>Williams</name>
+            <Point id="geom_1765">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1834">
+            <name>Los Angeles</name>
+            <Point id="geom_1766">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1835">
+            <name>Louisiana</name>
+            <Point id="geom_1767">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1836">
+            <name>Cincinnati</name>
+            <Point id="geom_1768">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1837">
+            <name>Oak Creek Canyon</name>
+            <Point id="geom_1769">
+                <coordinates>-111.7268235,34.9125169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1838">
+            <name>Washington</name>
+            <Point id="geom_1770">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1839">
+            <name>Little Colorado River</name>
+            <Point id="geom_1771">
+                <coordinates>-111.8037701,36.1910972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1840">
+            <name>Flagstaff</name>
+            <Point id="geom_1772">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1841">
+            <name>California</name>
+            <Point id="geom_1773">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

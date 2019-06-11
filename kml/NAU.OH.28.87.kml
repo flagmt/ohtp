@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_2009">
+        <Placemark id="feat_2010">
+            <name>Baltimore</name>
+            <Point id="geom_1935">
+                <coordinates>-76.6122,39.2904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2011">
+            <name>Gallup</name>
+            <Point id="geom_1936">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2012">
+            <name>Philadelphia</name>
+            <Point id="geom_1937">
+                <coordinates>35.945,31.9552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2013">
+            <name>Verde Valley</name>
+            <Point id="geom_1938">
+                <coordinates>-112.0462699,34.7839093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2014">
+            <name>United States</name>
+            <Point id="geom_1939">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2015">
+            <name>Germany</name>
+            <Point id="geom_1940">
+                <coordinates>10.451526,51.165691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2016">
+            <name>Okinawa</name>
+            <Point id="geom_1941">
+                <coordinates>127.8014,26.3358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2017">
+            <name>Oregon</name>
+            <Point id="geom_1942">
+                <coordinates>-122.070938,44.572021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2018">
+            <name>Williams</name>
+            <Point id="geom_1943">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2019">
+            <name>Colorado</name>
+            <Point id="geom_1944">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2020">
+            <name>Los Angeles</name>
+            <Point id="geom_1945">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2021">
+            <name>Jerome</name>
+            <Point id="geom_1946">
+                <coordinates>-112.1137716,34.7489107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2022">
+            <name>Yuma</name>
+            <Point id="geom_1947">
+                <coordinates>-114.800236,32.5000548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2023">
+            <name>Arizona</name>
+            <Point id="geom_1948">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2024">
+            <name>San Francisco Peaks</name>
+            <Point id="geom_1949">
+                <coordinates>-111.6943275,35.3530637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2025">
+            <name>Oak Creek</name>
+            <Point id="geom_1950">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2026">
+            <name>Camp Verde</name>
+            <Point id="geom_1951">
+                <coordinates>-111.8614523,34.5652435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2027">
+            <name>San Francisco</name>
+            <Point id="geom_1952">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2028">
+            <name>Denver</name>
+            <Point id="geom_1953">
+                <coordinates>-104.9847,39.7392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2029">
+            <name>Lampasas</name>
+            <Point id="geom_1954">
+                <coordinates>-98.1817,31.0638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2030">
+            <name>Mesa</name>
+            <Point id="geom_1955">
+                <coordinates>6.1727,49.1191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2031">
+            <name>Texas</name>
+            <Point id="geom_1956">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2032">
+            <name>Port Arthur Texas</name>
+            <Point id="geom_1957">
+                <coordinates>-93.9423,29.8852,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2033">
+            <name>Clarkdale</name>
+            <Point id="geom_1958">
+                <coordinates>-112.0579367,34.7711319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2034">
+            <name>Prescott</name>
+            <Point id="geom_1959">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2035">
+            <name>Flagstaff</name>
+            <Point id="geom_1960">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2036">
+            <name>France</name>
+            <Point id="geom_1961">
+                <coordinates>2.213749,46.227638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2037">
+            <name>Sedona</name>
+            <Point id="geom_1962">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2038">
+            <name>Portland</name>
+            <Point id="geom_1963">
+                <coordinates>-122.6762,45.5234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2039">
+            <name>Winslow</name>
+            <Point id="geom_1964">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2040">
+            <name>Verde River</name>
+            <Point id="geom_1965">
+                <coordinates>-111.8709853,34.582802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2041">
+            <name>Lampasas Texas</name>
+            <Point id="geom_1966">
+                <coordinates>-98.1817,31.0638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2042">
+            <name>Grand Canyon</name>
+            <Point id="geom_1967">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2043">
+            <name>Camp Verde Arizona</name>
+            <Point id="geom_1968">
+                <coordinates>-111.8543,34.5636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2044">
+            <name>Cottonwood</name>
+            <Point id="geom_1969">
+                <coordinates>-111.8068773,40.6616142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2045">
+            <name>Ash Fork</name>
+            <Point id="geom_1970">
+                <coordinates>-112.4840675,35.2250114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2046">
+            <name>Phoenix</name>
+            <Point id="geom_1971">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2047">
+            <name>Mormon Lake</name>
+            <Point id="geom_1972">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2048">
+            <name>Chicago</name>
+            <Point id="geom_1973">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2049">
+            <name>Kingman</name>
+            <Point id="geom_1974">
+                <coordinates>-114.0326559,35.1963425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2050">
+            <name>Washington</name>
+            <Point id="geom_1975">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2051">
+            <name>Saint Louis</name>
+            <Point id="geom_1976">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2052">
+            <name>Holbrook</name>
+            <Point id="geom_1977">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2053">
+            <name>Detroit</name>
+            <Point id="geom_1978">
+                <coordinates>-83.0457,42.3314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2054">
+            <name>California</name>
+            <Point id="geom_1979">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2055">
+            <name>Port Arthur</name>
+            <Point id="geom_1980">
+                <coordinates>121.2667,38.8,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

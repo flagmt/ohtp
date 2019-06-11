@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_2215">
+        <Placemark id="feat_2216">
+            <name>Window Rock</name>
+            <Point id="geom_2135">
+                <coordinates>-109.0525929,35.680573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2217">
+            <name>Las Vegas</name>
+            <Point id="geom_2136">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2218">
+            <name>San Bernardino</name>
+            <Point id="geom_2137">
+                <coordinates>-117.2898,34.1083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2219">
+            <name>San Bernardino California</name>
+            <Point id="geom_2138">
+                <coordinates>-117.2898,34.1083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2220">
+            <name>Oraibi</name>
+            <Point id="geom_2139">
+                <coordinates>-110.6404148,35.8763922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2221">
+            <name>Hopi Reservation</name>
+            <Point id="geom_2140">
+                <coordinates>-110.6159286,35.9121392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2222">
+            <name>California</name>
+            <Point id="geom_2141">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2223">
+            <name>Arizona</name>
+            <Point id="geom_2142">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2224">
+            <name>Tuba City</name>
+            <Point id="geom_2143">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

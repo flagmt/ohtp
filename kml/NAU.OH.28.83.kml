@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1916">
+        <Placemark id="feat_1917">
+            <name>Bellemont</name>
+            <Point id="geom_1845">
+                <coordinates>-111.8334974,35.2380657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1918">
+            <name>Loretto Kentucky</name>
+            <Point id="geom_1846">
+                <coordinates>-85.4008,37.6353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1919">
+            <name>Sanders Arizona</name>
+            <Point id="geom_1847">
+                <coordinates>-109.3337,35.2164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1920">
+            <name>Pittsfield Massachusetts</name>
+            <Point id="geom_1848">
+                <coordinates>-73.2454,42.4501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1921">
+            <name>Winslow</name>
+            <Point id="geom_1849">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1922">
+            <name>Oak Creek Canyon</name>
+            <Point id="geom_1850">
+                <coordinates>-111.7268235,34.9125169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1923">
+            <name>Kentucky</name>
+            <Point id="geom_1851">
+                <coordinates>-84.670067,37.668140,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1924">
+            <name>Scottsdale</name>
+            <Point id="geom_1852">
+                <coordinates>-111.899,33.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1925">
+            <name>Los Angeles</name>
+            <Point id="geom_1853">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1926">
+            <name>San Francisco</name>
+            <Point id="geom_1854">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1927">
+            <name>Kansas</name>
+            <Point id="geom_1855">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1928">
+            <name>Hollywood</name>
+            <Point id="geom_1856">
+                <coordinates>-118.3267,34.0983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1929">
+            <name>San Angelo Texas</name>
+            <Point id="geom_1857">
+                <coordinates>-100.437,31.4638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1930">
+            <name>Grand Canyon</name>
+            <Point id="geom_1858">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1931">
+            <name>Oak Creek</name>
+            <Point id="geom_1859">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1932">
+            <name>Cincinnati Ohio</name>
+            <Point id="geom_1860">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1933">
+            <name>Mormon Lake</name>
+            <Point id="geom_1861">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1934">
+            <name>Kansas City</name>
+            <Point id="geom_1862">
+                <coordinates>-94.5786,39.0997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1935">
+            <name>Cincinnati</name>
+            <Point id="geom_1863">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1936">
+            <name>Cameron</name>
+            <Point id="geom_1864">
+                <coordinates>-111.4129207,35.8758285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1937">
+            <name>Texas</name>
+            <Point id="geom_1865">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1938">
+            <name>Flagstaff</name>
+            <Point id="geom_1866">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1939">
+            <name>California</name>
+            <Point id="geom_1867">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1940">
+            <name>Massachusetts</name>
+            <Point id="geom_1868">
+                <coordinates>-71.530106,42.230171,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

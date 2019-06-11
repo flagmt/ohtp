@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_2295">
+        <Placemark id="feat_2296">
+            <name>Dinosaur</name>
+            <Point id="geom_2211">
+                <coordinates>-109.0145613,40.243578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2297">
+            <name>Illinois</name>
+            <Point id="geom_2212">
+                <coordinates>-88.986137,40.349457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2298">
+            <name>Las Vegas</name>
+            <Point id="geom_2213">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2299">
+            <name>Crystal</name>
+            <Point id="geom_2214">
+                <coordinates>-112.2464654,36.1366442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2300">
+            <name>Mexico</name>
+            <Point id="geom_2215">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2301">
+            <name>Marble Canyon</name>
+            <Point id="geom_2216">
+                <coordinates>-111.6376612,36.8155432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2302">
+            <name>Lava Falls</name>
+            <Point id="geom_2217">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2303">
+            <name>Utah</name>
+            <Point id="geom_2218">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2304">
+            <name>Rainbow Bridge</name>
+            <Point id="geom_2219">
+                <coordinates>-110.9762592,37.0927718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2305">
+            <name>Colorado</name>
+            <Point id="geom_2220">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2306">
+            <name>San Francisco</name>
+            <Point id="geom_2221">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2307">
+            <name>Vegas</name>
+            <Point id="geom_2222">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2308">
+            <name>Lees Ferry</name>
+            <Point id="geom_2223">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2309">
+            <name>Wisconsin</name>
+            <Point id="geom_2224">
+                <coordinates>-89.616508,44.268543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2310">
+            <name>Redwall Cavern</name>
+            <Point id="geom_2225">
+                <coordinates>-112.3246215,36.2722027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2311">
+            <name>Grand Canyon</name>
+            <Point id="geom_2226">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2312">
+            <name>Glen Canyon</name>
+            <Point id="geom_2227">
+                <coordinates>-111.5879381,36.8644321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2313">
+            <name>Whitmore</name>
+            <Point id="geom_2228">
+                <coordinates>-111.809099,40.5755041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2314">
+            <name>New York</name>
+            <Point id="geom_2229">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2315">
+            <name>Nankoweap</name>
+            <Point id="geom_2230">
+                <coordinates>-111.8555457,36.3048886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2316">
+            <name>Guadalajara</name>
+            <Point id="geom_2231">
+                <coordinates>-3.1618,40.6286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2317">
+            <name>Texas</name>
+            <Point id="geom_2232">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2318">
+            <name>Chicago</name>
+            <Point id="geom_2233">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2319">
+            <name>Los Angeles</name>
+            <Point id="geom_2234">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2320">
+            <name>Guatemala</name>
+            <Point id="geom_2235">
+                <coordinates>-90.230759,15.783471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2321">
+            <name>Phantom Ranch</name>
+            <Point id="geom_2236">
+                <coordinates>-112.0951686,36.1049828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2322">
+            <name>Bridge Canyon</name>
+            <Point id="geom_2237">
+                <coordinates>-113.5245939,35.7753297,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
