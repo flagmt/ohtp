@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_172">
+        <Placemark id="feat_173">
+            <name>California</name>
+            <Point id="geom_166">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_174">
+            <name>Pasadena</name>
+            <Point id="geom_167">
+                <coordinates>-95.2091,29.6911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_175">
+            <name>Salt Lake</name>
+            <Point id="geom_168">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_176">
+            <name>Snowflake</name>
+            <Point id="geom_169">
+                <coordinates>-110.0784491,34.5133698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_177">
+            <name>Canyon Diablo</name>
+            <Point id="geom_170">
+                <coordinates>-111.117644,35.1627902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_178">
+            <name>Saint Johns</name>
+            <Point id="geom_171">
+                <coordinates>-111.4020811,34.1425366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_179">
+            <name>Winslow</name>
+            <Point id="geom_172">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_180">
+            <name>Tempe</name>
+            <Point id="geom_173">
+                <coordinates>-111.9093,33.4148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_181">
+            <name>Arizona</name>
+            <Point id="geom_174">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_182">
+            <name>Maine</name>
+            <Point id="geom_175">
+                <coordinates>-69.381927,44.693947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_183">
+            <name>Leupp</name>
+            <Point id="geom_176">
+                <coordinates>-111.0062528,35.2980659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_184">
+            <name>Wisconsin</name>
+            <Point id="geom_177">
+                <coordinates>-89.616508,44.268543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_185">
+            <name>Grand Canyon</name>
+            <Point id="geom_178">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_186">
+            <name>Oak Creek</name>
+            <Point id="geom_179">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_187">
+            <name>Palo Alto</name>
+            <Point id="geom_180">
+                <coordinates>-106.9600459,37.7058358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_188">
+            <name>Phoenix</name>
+            <Point id="geom_181">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_189">
+            <name>Idaho</name>
+            <Point id="geom_182">
+                <coordinates>-114.478828,44.240459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_190">
+            <name>Los Angeles</name>
+            <Point id="geom_183">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_191">
+            <name>Cincinnati</name>
+            <Point id="geom_184">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_192">
+            <name>Sacramento</name>
+            <Point id="geom_185">
+                <coordinates>-121.4944,38.5816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_193">
+            <name>Flagstaff</name>
+            <Point id="geom_186">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_194">
+            <name>Missouri</name>
+            <Point id="geom_187">
+                <coordinates>-92.288368,38.456085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_195">
+            <name>Prescott</name>
+            <Point id="geom_188">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_196">
+            <name>Holbrook</name>
+            <Point id="geom_189">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

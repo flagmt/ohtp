@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_208">
+        <Placemark id="feat_209">
+            <name>El Paso</name>
+            <Point id="geom_200">
+                <coordinates>-106.4869,31.7587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_210">
+            <name>United States</name>
+            <Point id="geom_201">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_211">
+            <name>El Paso Texas</name>
+            <Point id="geom_202">
+                <coordinates>-106.4869,31.7587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_212">
+            <name>Grand Canyon</name>
+            <Point id="geom_203">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_213">
+            <name>Oak Creek</name>
+            <Point id="geom_204">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_214">
+            <name>Maine</name>
+            <Point id="geom_205">
+                <coordinates>-69.381927,44.693947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_215">
+            <name>San Diego</name>
+            <Point id="geom_206">
+                <coordinates>-117.1573,32.7153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_216">
+            <name>Flagstaff</name>
+            <Point id="geom_207">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_217">
+            <name>Texas</name>
+            <Point id="geom_208">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_218">
+            <name>Williams</name>
+            <Point id="geom_209">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_219">
+            <name>Los Angeles</name>
+            <Point id="geom_210">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_220">
+        <Placemark id="feat_221">
+            <name>Wichita Kansas</name>
+            <Point id="geom_211">
+                <coordinates>-97.3375,37.6922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_222">
+            <name>California</name>
+            <Point id="geom_212">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_223">
+            <name>Toledo Ohio</name>
+            <Point id="geom_213">
+                <coordinates>-83.5552,41.6639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_224">
+            <name>Charleston South Carolina</name>
+            <Point id="geom_214">
+                <coordinates>-79.9309,32.7766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_225">
+            <name>Flagstaff</name>
+            <Point id="geom_215">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

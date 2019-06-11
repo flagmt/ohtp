@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_226">
+        <Placemark id="feat_227">
+            <name>Albuquerque</name>
+            <Point id="geom_216">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_228">
+            <name>Clear Creek</name>
+            <Point id="geom_217">
+                <coordinates>-112.3518757,38.5763607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_229">
+            <name>Phoenix</name>
+            <Point id="geom_218">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_230">
+            <name>Grand Canyon</name>
+            <Point id="geom_219">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_231">
+            <name>Gallup</name>
+            <Point id="geom_220">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_232">
+            <name>Ash Fork</name>
+            <Point id="geom_221">
+                <coordinates>-112.4840675,35.2250114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_233">
+            <name>New Mexico</name>
+            <Point id="geom_222">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_234">
+            <name>United States</name>
+            <Point id="geom_223">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_235">
+            <name>Maine</name>
+            <Point id="geom_224">
+                <coordinates>-69.381927,44.693947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_236">
+            <name>Los Angeles</name>
+            <Point id="geom_225">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_237">
+            <name>Winslow</name>
+            <Point id="geom_226">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_238">
+            <name>Scottsdale</name>
+            <Point id="geom_227">
+                <coordinates>-111.899,33.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_239">
+            <name>Saint Louis Missouri</name>
+            <Point id="geom_228">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_240">
+            <name>Flagstaff</name>
+            <Point id="geom_229">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_241">
+            <name>Arizona</name>
+            <Point id="geom_230">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_242">
+            <name>Saint Louis</name>
+            <Point id="geom_231">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

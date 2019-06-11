@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_128">
+        <Placemark id="feat_129">
+            <name>Wickenburg</name>
+            <Point id="geom_124">
+                <coordinates>-112.729622,33.9686412,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_130">
+            <name>Mohave County</name>
+            <Point id="geom_125">
+                <coordinates>-113.749689 ,35.717705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_131">
+            <name>Las Vegas</name>
+            <Point id="geom_126">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_132">
+            <name>Oak Creek</name>
+            <Point id="geom_127">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_133">
+            <name>Camp Verde</name>
+            <Point id="geom_128">
+                <coordinates>-111.8614523,34.5652435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_134">
+            <name>Bellevue Colorado</name>
+            <Point id="geom_129">
+                <coordinates>-105.1422,39.6217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_135">
+            <name>Phoenix</name>
+            <Point id="geom_130">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_136">
+            <name>Los Angeles</name>
+            <Point id="geom_131">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_137">
+            <name>Winslow</name>
+            <Point id="geom_132">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_138">
+            <name>Kingman</name>
+            <Point id="geom_133">
+                <coordinates>-114.0326559,35.1963425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_139">
+            <name>Vegas</name>
+            <Point id="geom_134">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_140">
+            <name>Denver</name>
+            <Point id="geom_135">
+                <coordinates>-104.9847,39.7392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_141">
+            <name>Walnut Canyon</name>
+            <Point id="geom_136">
+                <coordinates>-109.3506193,31.5295427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_142">
+            <name>Colorado</name>
+            <Point id="geom_137">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_143">
+            <name>Sun City</name>
+            <Point id="geom_138">
+                <coordinates>-122.4443,47.2529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_144">
+            <name>Oatman</name>
+            <Point id="geom_139">
+                <coordinates>-114.3835698,35.0263915,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_145">
+            <name>California</name>
+            <Point id="geom_140">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_146">
+            <name>Arizona</name>
+            <Point id="geom_141">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_147">
+            <name>Flagstaff</name>
+            <Point id="geom_142">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

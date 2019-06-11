@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1237">
+        <Placemark id="feat_1238">
+            <name>Greece</name>
+            <Point id="geom_1188">
+                <coordinates>21.824312,39.074208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1239">
+            <name>United States</name>
+            <Point id="geom_1189">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1240">
+            <name>Laguna Beach</name>
+            <Point id="geom_1190">
+                <coordinates>-117.7831,33.5423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1241">
+            <name>Walnut Canyon</name>
+            <Point id="geom_1191">
+                <coordinates>-109.3506193,31.5295427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1242">
+            <name>Indiana</name>
+            <Point id="geom_1192">
+                <coordinates>-86.258278,39.849426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1243">
+            <name>Fredonia</name>
+            <Point id="geom_1193">
+                <coordinates>-112.5265889,36.945542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1244">
+            <name>Boston</name>
+            <Point id="geom_1194">
+                <coordinates>-71.0598,42.3584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1245">
+            <name>Alaska</name>
+            <Point id="geom_1195">
+                <coordinates>-152.404419,61.370716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1246">
+            <name>San Francisco</name>
+            <Point id="geom_1196">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1247">
+            <name>Winslow Arizona</name>
+            <Point id="geom_1197">
+                <coordinates>-110.6974,35.0242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1248">
+            <name>Arizona</name>
+            <Point id="geom_1198">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1249">
+            <name>Chevelon Butte</name>
+            <Point id="geom_1199">
+                <coordinates>-110.5304064,34.9269686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1250">
+            <name>Yavapai County</name>
+            <Point id="geom_1200">
+                <coordinates>-112.573745 ,34.630044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1251">
+            <name>Grand Canyon</name>
+            <Point id="geom_1201">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1252">
+            <name>Oak Creek</name>
+            <Point id="geom_1202">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1253">
+            <name>Cincinnati Ohio</name>
+            <Point id="geom_1203">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1254">
+            <name>Page</name>
+            <Point id="geom_1204">
+                <coordinates>-111.8934886,34.7675199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1255">
+            <name>Leupp</name>
+            <Point id="geom_1205">
+                <coordinates>-111.0062528,35.2980659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1256">
+            <name>Cosnino</name>
+            <Point id="geom_1206">
+                <coordinates>-111.474879,35.2055686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1257">
+            <name>Colorado</name>
+            <Point id="geom_1207">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1258">
+            <name>Canyon Diablo</name>
+            <Point id="geom_1208">
+                <coordinates>-111.117644,35.1627902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1259">
+            <name>Parks</name>
+            <Point id="geom_1209">
+                <coordinates>-111.9881999,33.3500468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1260">
+            <name>Phantom Ranch</name>
+            <Point id="geom_1210">
+                <coordinates>-112.0951686,36.1049828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1261">
+            <name>Flagstaff</name>
+            <Point id="geom_1211">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1262">
+            <name>Kanab</name>
+            <Point id="geom_1212">
+                <coordinates>-112.6340788,36.3905385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1263">
+            <name>Mohave County</name>
+            <Point id="geom_1213">
+                <coordinates>-113.749689 ,35.717705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1264">
+            <name>Pasadena</name>
+            <Point id="geom_1214">
+                <coordinates>-95.2091,29.6911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1265">
+            <name>Tuba City</name>
+            <Point id="geom_1215">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1266">
+            <name>Tucson</name>
+            <Point id="geom_1216">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1267">
+            <name>Hawaii</name>
+            <Point id="geom_1217">
+                <coordinates>-157.498337,21.094318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1268">
+            <name>Sedona</name>
+            <Point id="geom_1218">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1269">
+            <name>Saint Johns</name>
+            <Point id="geom_1219">
+                <coordinates>-111.4020811,34.1425366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1270">
+            <name>Winslow</name>
+            <Point id="geom_1220">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1271">
+            <name>Italy</name>
+            <Point id="geom_1221">
+                <coordinates>12.56738,41.87194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1272">
+            <name>Oak Creek Canyon</name>
+            <Point id="geom_1222">
+                <coordinates>-111.7268235,34.9125169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1273">
+            <name>Washington DC</name>
+            <Point id="geom_1223">
+                <coordinates>-77.0364,38.8951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1274">
+            <name>Needles</name>
+            <Point id="geom_1224">
+                <coordinates>-107.613636,32.1262025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1275">
+            <name>Coconino County</name>
+            <Point id="geom_1225">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1276">
+            <name>Happy Jack</name>
+            <Point id="geom_1226">
+                <coordinates>-111.4073685,34.7433546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1277">
+            <name>Lees Ferry</name>
+            <Point id="geom_1227">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1278">
+            <name>Ohio</name>
+            <Point id="geom_1228">
+                <coordinates>-82.764915,40.388783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1279">
+            <name>Phoenix</name>
+            <Point id="geom_1229">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1280">
+            <name>Williams</name>
+            <Point id="geom_1230">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1281">
+            <name>Los Angeles</name>
+            <Point id="geom_1231">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1282">
+            <name>Rhode Island</name>
+            <Point id="geom_1232">
+                <coordinates>-71.511780,41.680893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1283">
+            <name>Cincinnati</name>
+            <Point id="geom_1233">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1284">
+            <name>Salt Lake City</name>
+            <Point id="geom_1234">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1285">
+            <name>Winona</name>
+            <Point id="geom_1235">
+                <coordinates>-111.4082096,35.2050122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1286">
+            <name>Connecticut</name>
+            <Point id="geom_1236">
+                <coordinates>-72.755371,41.597782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1287">
+            <name>California</name>
+            <Point id="geom_1237">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

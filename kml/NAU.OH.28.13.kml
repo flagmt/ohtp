@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_148">
+        <Placemark id="feat_149">
+            <name>Fort Collins</name>
+            <Point id="geom_143">
+                <coordinates>-105.0844,40.5853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_150">
+            <name>Michigan</name>
+            <Point id="geom_144">
+                <coordinates>-84.536095,43.326618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_151">
+            <name>Bellemont</name>
+            <Point id="geom_145">
+                <coordinates>-111.8334974,35.2380657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_152">
+            <name>Florida</name>
+            <Point id="geom_146">
+                <coordinates>-81.686783,27.766279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_153">
+            <name>Silver City New Mexico</name>
+            <Point id="geom_147">
+                <coordinates>-108.2803,32.7701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_154">
+            <name>Walnut Canyon</name>
+            <Point id="geom_148">
+                <coordinates>-109.3506193,31.5295427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_155">
+            <name>Canada</name>
+            <Point id="geom_149">
+                <coordinates>-106.346771,56.130366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_156">
+            <name>Coconino County</name>
+            <Point id="geom_150">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_157">
+            <name>Jerome</name>
+            <Point id="geom_151">
+                <coordinates>-112.1137716,34.7489107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_158">
+            <name>Kansas</name>
+            <Point id="geom_152">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_159">
+            <name>Arizona</name>
+            <Point id="geom_153">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_160">
+            <name>Yavapai County</name>
+            <Point id="geom_154">
+                <coordinates>-112.573745 ,34.630044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_161">
+            <name>Oak Creek</name>
+            <Point id="geom_155">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_162">
+            <name>Ash Fork</name>
+            <Point id="geom_156">
+                <coordinates>-112.4840675,35.2250114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_163">
+            <name>New Mexico</name>
+            <Point id="geom_157">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_164">
+            <name>Phoenix</name>
+            <Point id="geom_158">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_165">
+            <name>Mormon Lake</name>
+            <Point id="geom_159">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_166">
+            <name>Los Angeles</name>
+            <Point id="geom_160">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_167">
+            <name>Wickenburg</name>
+            <Point id="geom_161">
+                <coordinates>-112.729622,33.9686412,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_168">
+            <name>Hopi Reservation</name>
+            <Point id="geom_162">
+                <coordinates>-110.6159286,35.9121392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_169">
+            <name>California</name>
+            <Point id="geom_163">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_170">
+            <name>Prescott</name>
+            <Point id="geom_164">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_171">
+            <name>Flagstaff</name>
+            <Point id="geom_165">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

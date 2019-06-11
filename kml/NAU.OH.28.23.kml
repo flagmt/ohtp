@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_284">
+        <Placemark id="feat_285">
+            <name>Monument Valley</name>
+            <Point id="geom_272">
+                <coordinates>-110.0840139,36.916668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_286">
+            <name>Phoenix</name>
+            <Point id="geom_273">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_287">
+            <name>Miami</name>
+            <Point id="geom_274">
+                <coordinates>-80.1937,25.7743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_288">
+            <name>Tucson</name>
+            <Point id="geom_275">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_289">
+            <name>Oak Creek</name>
+            <Point id="geom_276">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_290">
+            <name>Long Beach</name>
+            <Point id="geom_277">
+                <coordinates>-118.1892,33.767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_291">
+            <name>Texas</name>
+            <Point id="geom_278">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_292">
+            <name>Safford Arizona</name>
+            <Point id="geom_279">
+                <coordinates>-109.7076,32.834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_293">
+            <name>Mormon Lake</name>
+            <Point id="geom_280">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_294">
+            <name>Maine</name>
+            <Point id="geom_281">
+                <coordinates>-69.381927,44.693947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_295">
+            <name>Missouri</name>
+            <Point id="geom_282">
+                <coordinates>-92.288368,38.456085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_296">
+            <name>Ruidoso New Mexico</name>
+            <Point id="geom_283">
+                <coordinates>-105.673,33.3317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_297">
+            <name>Tempe</name>
+            <Point id="geom_284">
+                <coordinates>-111.9093,33.4148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_298">
+            <name>New Mexico</name>
+            <Point id="geom_285">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_299">
+            <name>Arkansas</name>
+            <Point id="geom_286">
+                <coordinates>-92.373123,34.969704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_300">
+            <name>Parks</name>
+            <Point id="geom_287">
+                <coordinates>-111.9881999,33.3500468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_301">
+            <name>Cottonwood</name>
+            <Point id="geom_288">
+                <coordinates>-111.8068773,40.6616142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_302">
+            <name>California</name>
+            <Point id="geom_289">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_303">
+            <name>Arizona</name>
+            <Point id="geom_290">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_304">
+            <name>Flagstaff</name>
+            <Point id="geom_291">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

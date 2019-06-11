@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_305">
+        <Placemark id="feat_306">
+            <name>Mayer</name>
+            <Point id="geom_292">
+                <coordinates>-112.2362734,34.3978054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_307">
+            <name>Madagascar</name>
+            <Point id="geom_293">
+                <coordinates>46.869107,-18.766947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_308">
+            <name>Spring Creek</name>
+            <Point id="geom_294">
+                <coordinates>-111.8090996,40.670503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_309">
+            <name>Munds Park</name>
+            <Point id="geom_295">
+                <coordinates>-111.6401551,34.945574,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_310">
+            <name>Tucson</name>
+            <Point id="geom_296">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_311">
+            <name>Verde</name>
+            <Point id="geom_297">
+                <coordinates>-111.8709853,34.582802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_312">
+            <name>Verde Valley</name>
+            <Point id="geom_298">
+                <coordinates>-112.0462699,34.7839093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_313">
+            <name>United States</name>
+            <Point id="geom_299">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_314">
+            <name>Sedona</name>
+            <Point id="geom_300">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_315">
+            <name>Montana</name>
+            <Point id="geom_301">
+                <coordinates>-110.454353,46.921925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_316">
+            <name>Winslow</name>
+            <Point id="geom_302">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_317">
+            <name>Verde River</name>
+            <Point id="geom_303">
+                <coordinates>-111.8709853,34.582802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_318">
+            <name>Jerome</name>
+            <Point id="geom_304">
+                <coordinates>-112.1137716,34.7489107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_319">
+            <name>Rimrock</name>
+            <Point id="geom_305">
+                <coordinates>-111.7457056,34.6505778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_320">
+            <name>Scottsdale</name>
+            <Point id="geom_306">
+                <coordinates>-111.899,33.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_321">
+            <name>Cornville</name>
+            <Point id="geom_307">
+                <coordinates>-111.9215438,34.7177989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_322">
+            <name>Bellemont</name>
+            <Point id="geom_308">
+                <coordinates>-111.8334974,35.2380657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_323">
+            <name>Coconino County</name>
+            <Point id="geom_309">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_324">
+            <name>Cottonwood</name>
+            <Point id="geom_310">
+                <coordinates>-111.8068773,40.6616142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_325">
+            <name>Arizona</name>
+            <Point id="geom_311">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_326">
+            <name>McGuireville</name>
+            <Point id="geom_312">
+                <coordinates>-111.8170959,34.6380783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_327">
+            <name>Florence</name>
+            <Point id="geom_313">
+                <coordinates>11.2463,43.7792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_328">
+            <name>Lonesome Valley</name>
+            <Point id="geom_314">
+                <coordinates>-110.2472952,31.9320288,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_329">
+            <name>Oak Creek</name>
+            <Point id="geom_315">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_330">
+            <name>Camp Verde</name>
+            <Point id="geom_316">
+                <coordinates>-111.8614523,34.5652435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_331">
+            <name>New Mexico</name>
+            <Point id="geom_317">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_332">
+            <name>Texas</name>
+            <Point id="geom_318">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_333">
+            <name>Williams</name>
+            <Point id="geom_319">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_334">
+            <name>Clarkdale</name>
+            <Point id="geom_320">
+                <coordinates>-112.0579367,34.7711319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_335">
+            <name>Idaho</name>
+            <Point id="geom_321">
+                <coordinates>-114.478828,44.240459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_336">
+            <name>Washington</name>
+            <Point id="geom_322">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_337">
+            <name>Crown King</name>
+            <Point id="geom_323">
+                <coordinates>-112.3384991,34.2055857,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_338">
+            <name>Connecticut</name>
+            <Point id="geom_324">
+                <coordinates>-72.755371,41.597782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_339">
+            <name>California</name>
+            <Point id="geom_325">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_340">
+            <name>Prescott</name>
+            <Point id="geom_326">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_341">
+            <name>Flagstaff</name>
+            <Point id="geom_327">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
