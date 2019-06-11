@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_5187">
+        <Placemark id="feat_5188">
+            <name>Albuquerque</name>
+            <Point id="geom_5015">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5189">
+            <name>Costa Mesa</name>
+            <Point id="geom_5016">
+                <coordinates>-117.9187,33.6411,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5190">
+            <name>Farmington</name>
+            <Point id="geom_5017">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5191">
+            <name>Tuba City</name>
+            <Point id="geom_5018">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5192">
+            <name>Snowflake</name>
+            <Point id="geom_5019">
+                <coordinates>-110.0784491,34.5133698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5193">
+            <name>Kaibab</name>
+            <Point id="geom_5020">
+                <coordinates>-112.7407596,36.896652,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5194">
+            <name>Oklahoma City</name>
+            <Point id="geom_5021">
+                <coordinates>-97.5164,35.4676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5195">
+            <name>Sanders Arizona</name>
+            <Point id="geom_5022">
+                <coordinates>-109.3337,35.2164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5196">
+            <name>Pasadena California</name>
+            <Point id="geom_5023">
+                <coordinates>-118.1445,34.1478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5197">
+            <name>Chinle</name>
+            <Point id="geom_5024">
+                <coordinates>-109.5609176,36.1552564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5198">
+            <name>Oraibi</name>
+            <Point id="geom_5025">
+                <coordinates>-110.6404148,35.8763922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5199">
+            <name>Ganado</name>
+            <Point id="geom_5026">
+                <coordinates>-109.5420492,35.7114022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5200">
+            <name>California</name>
+            <Point id="geom_5027">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5201">
+            <name>Flagstaff</name>
+            <Point id="geom_5028">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_6470">
+        <Placemark id="feat_6471">
+            <name>Alco Louisiana</name>
+            <Point id="geom_6260">
+                <coordinates>-93.1307,31.3344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6472">
+            <name>McNary Louisiana</name>
+            <Point id="geom_6261">
+                <coordinates>-92.5763,30.9874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6473">
+            <name>Forest Hill Louisiana</name>
+            <Point id="geom_6262">
+                <coordinates>-92.5312,31.0419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6474">
+            <name>Snowflake</name>
+            <Point id="geom_6263">
+                <coordinates>-110.0784491,34.5133698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6475">
+            <name>Alco</name>
+            <Point id="geom_6264">
+                <coordinates>-105.0436307,39.7678674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6476">
+            <name>New Orleans</name>
+            <Point id="geom_6265">
+                <coordinates>-90.0751,29.9547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6477">
+            <name>McNary Arizona</name>
+            <Point id="geom_6266">
+                <coordinates>-109.8571,34.0737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6478">
+            <name>Los Angeles</name>
+            <Point id="geom_6267">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6479">
+            <name>Louisiana</name>
+            <Point id="geom_6268">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6480">
+            <name>Milwaukee</name>
+            <Point id="geom_6269">
+                <coordinates>-87.9065,43.0389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6481">
+            <name>Flagstaff</name>
+            <Point id="geom_6270">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6482">
+            <name>Happy Jack</name>
+            <Point id="geom_6271">
+                <coordinates>-111.4073685,34.7433546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6483">
+            <name>Arizona</name>
+            <Point id="geom_6272">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6484">
+            <name>McNary</name>
+            <Point id="geom_6273">
+                <coordinates>-109.8570472,34.0736564,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4889">
+        <Placemark id="feat_4890">
+            <name>Red Mesa</name>
+            <Point id="geom_4730">
+                <coordinates>-109.3689986,36.996389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4891">
+            <name>Ganado</name>
+            <Point id="geom_4731">
+                <coordinates>-109.5420492,35.7114022,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

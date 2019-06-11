@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_6143">
+        <Placemark id="feat_6144">
+            <name>Chicago</name>
+            <Point id="geom_5945">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6145">
+            <name>Albuquerque</name>
+            <Point id="geom_5946">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6146">
+            <name>Gallup</name>
+            <Point id="geom_5947">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6147">
+            <name>Tucson</name>
+            <Point id="geom_5948">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6148">
+            <name>New York</name>
+            <Point id="geom_5949">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6149">
+            <name>New Mexico</name>
+            <Point id="geom_5950">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6150">
+            <name>Phoenix</name>
+            <Point id="geom_5951">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6151">
+            <name>Cincinnati</name>
+            <Point id="geom_5952">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6152">
+            <name>Tuba City</name>
+            <Point id="geom_5953">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6153">
+            <name>Los Angeles</name>
+            <Point id="geom_5954">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6154">
+            <name>Winslow</name>
+            <Point id="geom_5955">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6155">
+            <name>Chinle</name>
+            <Point id="geom_5956">
+                <coordinates>-109.5609176,36.1552564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6156">
+            <name>Mesa</name>
+            <Point id="geom_5957">
+                <coordinates>6.1727,49.1191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6157">
+            <name>Hollywood</name>
+            <Point id="geom_5958">
+                <coordinates>-118.3267,34.0983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6158">
+            <name>Milwaukee</name>
+            <Point id="geom_5959">
+                <coordinates>-87.9065,43.0389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6159">
+            <name>Sweden</name>
+            <Point id="geom_5960">
+                <coordinates>18.643501,60.128161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6160">
+            <name>Saint Petersburg</name>
+            <Point id="geom_5961">
+                <coordinates>30.3141,59.9386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6161">
+            <name>California</name>
+            <Point id="geom_5962">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6162">
+            <name>Arizona</name>
+            <Point id="geom_5963">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6163">
+            <name>Flagstaff</name>
+            <Point id="geom_5964">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_6106">
+        <Placemark id="feat_6107">
+            <name>Thoreau</name>
+            <Point id="geom_5910">
+                <coordinates>-108.2234015,35.4025272,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6108">
+            <name>Las Vegas</name>
+            <Point id="geom_5911">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6109">
+            <name>Gallup</name>
+            <Point id="geom_5912">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6110">
+            <name>New York</name>
+            <Point id="geom_5913">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6111">
+            <name>Vanderwagen</name>
+            <Point id="geom_5914">
+                <coordinates>-108.7548056,35.2739172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6112">
+            <name>Gallup New Mexico</name>
+            <Point id="geom_5915">
+                <coordinates>-108.7426,35.5281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6113">
+            <name>Chicago</name>
+            <Point id="geom_5916">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6114">
+            <name>California</name>
+            <Point id="geom_5917">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6115">
+            <name>Lukachukai</name>
+            <Point id="geom_5918">
+                <coordinates>-109.2287125,36.416946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6116">
+            <name>Scottsdale</name>
+            <Point id="geom_5919">
+                <coordinates>-111.899,33.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6117">
+            <name>Japan</name>
+            <Point id="geom_5920">
+                <coordinates>138.252924,36.204824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6118">
+            <name>San Francisco</name>
+            <Point id="geom_5921">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6119">
+            <name>Paris</name>
+            <Point id="geom_5922">
+                <coordinates>2.3488,48.8534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6120">
+            <name>Arizona</name>
+            <Point id="geom_5923">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6121">
+            <name>Santa Fe</name>
+            <Point id="geom_5924">
+                <coordinates>-74.0817,4.6097,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_5787">
+        <Placemark id="feat_5788">
+            <name>Albuquerque</name>
+            <Point id="geom_5602">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5789">
+            <name>Farmington</name>
+            <Point id="geom_5603">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5790">
+            <name>Gallup</name>
+            <Point id="geom_5604">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5791">
+            <name>Johnstown</name>
+            <Point id="geom_5605">
+                <coordinates>-104.9121967,40.3369272,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5792">
+            <name>Mexico</name>
+            <Point id="geom_5606">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5793">
+            <name>Phoenix</name>
+            <Point id="geom_5607">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5794">
+            <name>Ganado</name>
+            <Point id="geom_5608">
+                <coordinates>-109.5420492,35.7114022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5795">
+            <name>Leupp</name>
+            <Point id="geom_5609">
+                <coordinates>-111.0062528,35.2980659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5796">
+            <name>San Juan</name>
+            <Point id="geom_5610">
+                <coordinates>121.0333,14.6,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5797">
+            <name>Durango</name>
+            <Point id="geom_5611">
+                <coordinates>-104.6576,24.0203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5798">
+            <name>Navajo Reservation</name>
+            <Point id="geom_5612">
+                <coordinates>-109.7616834,36.1826153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5799">
+            <name>Denver</name>
+            <Point id="geom_5613">
+                <coordinates>-104.9847,39.7392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5800">
+            <name>Flagstaff</name>
+            <Point id="geom_5614">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

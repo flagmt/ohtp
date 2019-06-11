@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_6485">
+        <Placemark id="feat_6486">
+            <name>Phoenix</name>
+            <Point id="geom_6274">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6487">
+            <name>Ruston Louisiana</name>
+            <Point id="geom_6275">
+                <coordinates>-92.6379,32.5232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6488">
+            <name>Dallas Texas</name>
+            <Point id="geom_6276">
+                <coordinates>-96.8067,32.7831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6489">
+            <name>Ruston</name>
+            <Point id="geom_6277">
+                <coordinates>-92.6379,32.5232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6490">
+            <name>Williams</name>
+            <Point id="geom_6278">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6491">
+            <name>Cairo Illinois</name>
+            <Point id="geom_6279">
+                <coordinates>-89.1765,37.0053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6492">
+            <name>Yuma</name>
+            <Point id="geom_6280">
+                <coordinates>-114.800236,32.5000548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6493">
+            <name>Arizona</name>
+            <Point id="geom_6281">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6494">
+            <name>Memphis Tennessee</name>
+            <Point id="geom_6282">
+                <coordinates>-90.049,35.1495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6495">
+            <name>Turkey</name>
+            <Point id="geom_6283">
+                <coordinates>35.243322,38.963745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6496">
+            <name>Dallas</name>
+            <Point id="geom_6284">
+                <coordinates>-96.8067,32.7831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6497">
+            <name>Illinois</name>
+            <Point id="geom_6285">
+                <coordinates>-88.986137,40.349457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6498">
+            <name>Monroe Louisiana</name>
+            <Point id="geom_6286">
+                <coordinates>-92.1193,32.5093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6499">
+            <name>Mississippi</name>
+            <Point id="geom_6287">
+                <coordinates>-89.678696,32.741646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6500">
+            <name>Saint Louis Missouri</name>
+            <Point id="geom_6288">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6501">
+            <name>Durant</name>
+            <Point id="geom_6289">
+                <coordinates>-108.006891,39.2325953,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6502">
+            <name>Payson</name>
+            <Point id="geom_6290">
+                <coordinates>-111.3251355,34.2308684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6503">
+            <name>Flagstaff</name>
+            <Point id="geom_6291">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6504">
+            <name>France</name>
+            <Point id="geom_6292">
+                <coordinates>2.213749,46.227638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6505">
+            <name>United States</name>
+            <Point id="geom_6293">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6506">
+            <name>Fort Worth</name>
+            <Point id="geom_6294">
+                <coordinates>-97.3208,32.7254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6507">
+            <name>Little Rock Arkansas</name>
+            <Point id="geom_6295">
+                <coordinates>-92.2896,34.7465,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6508">
+            <name>McNary Arizona</name>
+            <Point id="geom_6296">
+                <coordinates>-109.8571,34.0737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6509">
+            <name>Winslow</name>
+            <Point id="geom_6297">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6510">
+            <name>Oakland California</name>
+            <Point id="geom_6298">
+                <coordinates>-122.2708,37.8044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6511">
+            <name>Cairo</name>
+            <Point id="geom_6299">
+                <coordinates>31.2497,30.0626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6512">
+            <name>Oregon</name>
+            <Point id="geom_6300">
+                <coordinates>-122.070938,44.572021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6513">
+            <name>Tucumcari New Mexico</name>
+            <Point id="geom_6301">
+                <coordinates>-103.7269,35.1719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6514">
+            <name>McNary</name>
+            <Point id="geom_6302">
+                <coordinates>-109.8570472,34.0736564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6515">
+            <name>Ohio</name>
+            <Point id="geom_6303">
+                <coordinates>-82.764915,40.388783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6516">
+            <name>New Orleans Louisiana</name>
+            <Point id="geom_6304">
+                <coordinates>-90.0751,29.9547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6517">
+            <name>Russia</name>
+            <Point id="geom_6305">
+                <coordinates>105.318756,61.52401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6518">
+            <name>Texas</name>
+            <Point id="geom_6306">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6519">
+            <name>Springfield Illinois</name>
+            <Point id="geom_6307">
+                <coordinates>-89.6437,39.8017,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6520">
+            <name>Chicago</name>
+            <Point id="geom_6308">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6521">
+            <name>California</name>
+            <Point id="geom_6309">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6522">
+            <name>Louisiana</name>
+            <Point id="geom_6310">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6523">
+            <name>Saint Louis</name>
+            <Point id="geom_6311">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6524">
+            <name>Jackson</name>
+            <Point id="geom_6312">
+                <coordinates>-90.1848,32.2988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6525">
+            <name>Monroe</name>
+            <Point id="geom_6313">
+                <coordinates>-112.1207573,38.6299724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6526">
+            <name>Oklahoma</name>
+            <Point id="geom_6314">
+                <coordinates>-96.928917,35.565342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6527">
+            <name>Durant Mississippi</name>
+            <Point id="geom_6315">
+                <coordinates>-89.8545,33.0751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6528">
+            <name>Missouri</name>
+            <Point id="geom_6316">
+                <coordinates>-92.288368,38.456085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6529">
+            <name>Holbrook</name>
+            <Point id="geom_6317">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

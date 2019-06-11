@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_5889">
+        <Placemark id="feat_5890">
+            <name>Kayenta</name>
+            <Point id="geom_5700">
+                <coordinates>-110.2545767,36.7277769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5891">
+            <name>Pennsylvania</name>
+            <Point id="geom_5701">
+                <coordinates>-77.209755,40.590752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5892">
+            <name>Window Rock</name>
+            <Point id="geom_5702">
+                <coordinates>-109.0525929,35.680573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5893">
+            <name>Tuba City</name>
+            <Point id="geom_5703">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5894">
+            <name>Tonalea Arizona</name>
+            <Point id="geom_5704">
+                <coordinates>-110.9635,36.3225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5895">
+            <name>Farmington</name>
+            <Point id="geom_5705">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5896">
+            <name>Mexico</name>
+            <Point id="geom_5706">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5897">
+            <name>Willow Springs</name>
+            <Point id="geom_5707">
+                <coordinates>-104.1427556,36.4497504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5898">
+            <name>Portland</name>
+            <Point id="geom_5708">
+                <coordinates>-122.6762,45.5234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5899">
+            <name>Cibecue</name>
+            <Point id="geom_5709">
+                <coordinates>-110.4853908,34.0447693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5900">
+            <name>Tuba</name>
+            <Point id="geom_5710">
+                <coordinates>-15.8833,14.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5901">
+            <name>Mogollon Rim</name>
+            <Point id="geom_5711">
+                <coordinates>-111.5984772,34.2503104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5902">
+            <name>Echo Cliffs</name>
+            <Point id="geom_5712">
+                <coordinates>-111.525428,36.4124889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5903">
+            <name>Indiana</name>
+            <Point id="geom_5713">
+                <coordinates>-86.258278,39.849426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5904">
+            <name>Red Lake</name>
+            <Point id="geom_5714">
+                <coordinates>-113.1099158,35.1491762,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5905">
+            <name>Kykotsmovi</name>
+            <Point id="geom_5715">
+                <coordinates>-110.6204145,35.8752812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5906">
+            <name>Winslow</name>
+            <Point id="geom_5716">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5907">
+            <name>Page</name>
+            <Point id="geom_5717">
+                <coordinates>-111.8934886,34.7675199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5908">
+            <name>Arizona</name>
+            <Point id="geom_5718">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5909">
+            <name>Santa Fe</name>
+            <Point id="geom_5719">
+                <coordinates>-74.0817,4.6097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5910">
+            <name>Leupp</name>
+            <Point id="geom_5720">
+                <coordinates>-111.0062528,35.2980659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5911">
+            <name>Durango</name>
+            <Point id="geom_5721">
+                <coordinates>-104.6576,24.0203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5912">
+            <name>Gallup</name>
+            <Point id="geom_5722">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5913">
+            <name>Cedar Ridge</name>
+            <Point id="geom_5723">
+                <coordinates>-109.9912172,39.6532623,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5914">
+            <name>Cincinnati Ohio</name>
+            <Point id="geom_5724">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5915">
+            <name>New Mexico</name>
+            <Point id="geom_5725">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5916">
+            <name>Phoenix</name>
+            <Point id="geom_5726">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5917">
+            <name>Europe</name>
+            <Point id="geom_5727">
+                <coordinates>7.4268,50.2191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5918">
+            <name>Chinle</name>
+            <Point id="geom_5728">
+                <coordinates>-109.5609176,36.1552564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5919">
+            <name>Los Angeles</name>
+            <Point id="geom_5729">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5920">
+            <name>South America</name>
+            <Point id="geom_5730">
+                <coordinates>-57.6563,-14.6049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5921">
+            <name>Cincinnati</name>
+            <Point id="geom_5731">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5922">
+            <name>Montebello California</name>
+            <Point id="geom_5732">
+                <coordinates>-118.1054,34.0095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5923">
+            <name>Denver</name>
+            <Point id="geom_5733">
+                <coordinates>-104.9847,39.7392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5924">
+            <name>Moenkopi</name>
+            <Point id="geom_5734">
+                <coordinates>-111.2223624,36.1111043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5925">
+            <name>Oraibi</name>
+            <Point id="geom_5735">
+                <coordinates>-110.6404148,35.8763922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5926">
+            <name>New York</name>
+            <Point id="geom_5736">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5927">
+            <name>Silverton</name>
+            <Point id="geom_5737">
+                <coordinates>-107.6645057,37.811941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5928">
+            <name>Navajo Reservation</name>
+            <Point id="geom_5738">
+                <coordinates>-109.7616834,36.1826153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5929">
+            <name>California</name>
+            <Point id="geom_5739">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5930">
+            <name>Flagstaff</name>
+            <Point id="geom_5740">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

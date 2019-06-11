@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_6012">
+        <Placemark id="feat_6013">
+            <name>Ojo Encino</name>
+            <Point id="geom_5819">
+                <coordinates>-107.3478237,35.9555736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6014">
+            <name>Albuquerque</name>
+            <Point id="geom_5820">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6015">
+            <name>Ireland</name>
+            <Point id="geom_5821">
+                <coordinates>-8.24389,53.41291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6016">
+            <name>Durango Colorado</name>
+            <Point id="geom_5822">
+                <coordinates>-107.8801,37.2753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6017">
+            <name>Gallup</name>
+            <Point id="geom_5823">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6018">
+            <name>Pueblo Colorado</name>
+            <Point id="geom_5824">
+                <coordinates>-104.6091,38.2544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6019">
+            <name>Kayenta</name>
+            <Point id="geom_5825">
+                <coordinates>-110.2545767,36.7277769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6020">
+            <name>Oljato</name>
+            <Point id="geom_5826">
+                <coordinates>-110.3181874,37.0361104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6021">
+            <name>Window Rock</name>
+            <Point id="geom_5827">
+                <coordinates>-109.0525929,35.680573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6022">
+            <name>Utah</name>
+            <Point id="geom_5828">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6023">
+            <name>San Juan River</name>
+            <Point id="geom_5829">
+                <coordinates>-110.900703,37.1797156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6024">
+            <name>Canada</name>
+            <Point id="geom_5830">
+                <coordinates>-106.346771,56.130366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6025">
+            <name>Shonto</name>
+            <Point id="geom_5831">
+                <coordinates>-110.6423629,36.5944422,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6026">
+            <name>Tuba City</name>
+            <Point id="geom_5832">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6027">
+            <name>Shiprock</name>
+            <Point id="geom_5833">
+                <coordinates>-108.6870322,36.7855543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6028">
+            <name>New Mexico</name>
+            <Point id="geom_5834">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6029">
+            <name>Farmington</name>
+            <Point id="geom_5835">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6030">
+            <name>Phoenix</name>
+            <Point id="geom_5836">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6031">
+            <name>Los Angeles</name>
+            <Point id="geom_5837">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6032">
+            <name>Black Mesa</name>
+            <Point id="geom_5838">
+                <coordinates>-110.029766,36.333186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6033">
+            <name>U.S.</name>
+            <Point id="geom_5839">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6034">
+            <name>Farmington New Mexico</name>
+            <Point id="geom_5840">
+                <coordinates>-108.2187,36.7281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6035">
+            <name>Durango</name>
+            <Point id="geom_5841">
+                <coordinates>-104.6576,24.0203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6036">
+            <name>Star Lake</name>
+            <Point id="geom_5842">
+                <coordinates>-107.4564374,35.8964082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6037">
+            <name>Cuba</name>
+            <Point id="geom_5843">
+                <coordinates>-77.781167,21.521757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6038">
+            <name>Cuba New Mexico</name>
+            <Point id="geom_5844">
+                <coordinates>-106.9584,36.0222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6039">
+            <name>Grants</name>
+            <Point id="geom_5845">
+                <coordinates>-0.1,51.3833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6040">
+            <name>Flagstaff</name>
+            <Point id="geom_5846">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_5835">
+        <Placemark id="feat_5836">
+            <name>Mancos</name>
+            <Point id="geom_5648">
+                <coordinates>-108.2892487,37.344996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5837">
+            <name>Farmington</name>
+            <Point id="geom_5649">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5838">
+            <name>Tsaya</name>
+            <Point id="geom_5650">
+                <coordinates>-108.174237,36.1330677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5839">
+            <name>Gallup</name>
+            <Point id="geom_5651">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5840">
+            <name>Gamerco</name>
+            <Point id="geom_5652">
+                <coordinates>-108.7653629,35.5722438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5841">
+            <name>Gallup New Mexico</name>
+            <Point id="geom_5653">
+                <coordinates>-108.7426,35.5281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5842">
+            <name>Bisbee</name>
+            <Point id="geom_5654">
+                <coordinates>-109.9284084,31.4481547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5843">
+            <name>Morenci</name>
+            <Point id="geom_5655">
+                <coordinates>-109.3653514,33.0786735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5844">
+            <name>Scottsdale</name>
+            <Point id="geom_5656">
+                <coordinates>-111.899,33.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5845">
+            <name>Fort Sumner</name>
+            <Point id="geom_5657">
+                <coordinates>-104.2455304,34.4717333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5846">
+            <name>Nevada</name>
+            <Point id="geom_5658">
+                <coordinates>-117.055374,38.313515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5847">
+            <name>Durango</name>
+            <Point id="geom_5659">
+                <coordinates>-104.6576,24.0203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5848">
+            <name>Bolton New York</name>
+            <Point id="geom_5660">
+                <coordinates>-73.6548,43.5573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5849">
+            <name>Phoenix Arizona</name>
+            <Point id="geom_5661">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5850">
+            <name>Tuba City</name>
+            <Point id="geom_5662">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5851">
+            <name>Montezuma Creek</name>
+            <Point id="geom_5663">
+                <coordinates>-109.3206715,37.2699985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5852">
+            <name>Crownpoint</name>
+            <Point id="geom_5664">
+                <coordinates>-108.1511785,35.6780769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5853">
+            <name>Red Rock</name>
+            <Point id="geom_5665">
+                <coordinates>-112.0212663,34.29503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5854">
+            <name>Grand Canyon</name>
+            <Point id="geom_5666">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5855">
+            <name>Tucson</name>
+            <Point id="geom_5667">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5856">
+            <name>Barstow</name>
+            <Point id="geom_5668">
+                <coordinates>-117.0562,34.8697,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5857">
+            <name>Shiprock</name>
+            <Point id="geom_5669">
+                <coordinates>-108.6870322,36.7855543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5858">
+            <name>Cortez Colorado</name>
+            <Point id="geom_5670">
+                <coordinates>-108.5859,37.3489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5859">
+            <name>Phoenix</name>
+            <Point id="geom_5671">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5860">
+            <name>Durango Colorado</name>
+            <Point id="geom_5672">
+                <coordinates>-107.8801,37.2753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5861">
+            <name>Kirtland New Mexico</name>
+            <Point id="geom_5673">
+                <coordinates>-108.3598,36.7342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5862">
+            <name>Beautiful Mountain</name>
+            <Point id="geom_5674">
+                <coordinates>-109.5767746,36.1952808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5863">
+            <name>Tanner Springs</name>
+            <Point id="geom_5675">
+                <coordinates>-109.6856701,35.2883528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5864">
+            <name>Salt Lake</name>
+            <Point id="geom_5676">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5865">
+            <name>Farmington New Mexico</name>
+            <Point id="geom_5677">
+                <coordinates>-108.2187,36.7281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5866">
+            <name>Cortez</name>
+            <Point id="geom_5678">
+                <coordinates>-108.5859265,37.3488827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5867">
+            <name>Mancos Creek</name>
+            <Point id="geom_5679">
+                <coordinates>-108.2892487,37.344996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5868">
+            <name>Santa Fe</name>
+            <Point id="geom_5680">
+                <coordinates>-74.0817,4.6097,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

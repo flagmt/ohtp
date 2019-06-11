@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_5236">
+        <Placemark id="feat_5237">
+            <name>Salt River Canyon</name>
+            <Point id="geom_5062">
+                <coordinates>-110.9228926,33.6194948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5238">
+            <name>Fruitland</name>
+            <Point id="geom_5063">
+                <coordinates>-108.3956352,36.7391682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5239">
+            <name>Tuba City</name>
+            <Point id="geom_5064">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5240">
+            <name>Gallup</name>
+            <Point id="geom_5065">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5241">
+            <name>Snowflake</name>
+            <Point id="geom_5066">
+                <coordinates>-110.0784491,34.5133698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5242">
+            <name>Shiprock</name>
+            <Point id="geom_5067">
+                <coordinates>-108.6870322,36.7855543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5243">
+            <name>Window Rock</name>
+            <Point id="geom_5068">
+                <coordinates>-109.0525929,35.680573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5244">
+            <name>Albuquerque</name>
+            <Point id="geom_5069">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5245">
+            <name>Farmington</name>
+            <Point id="geom_5070">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5246">
+            <name>Ganado</name>
+            <Point id="geom_5071">
+                <coordinates>-109.5420492,35.7114022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5247">
+            <name>Teec Nos Pos</name>
+            <Point id="geom_5072">
+                <coordinates>-109.0856582,36.9211097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5248">
+            <name>Beclahbeto</name>
+            <Point id="geom_5073">
+                <coordinates>0,0,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5249">
+            <name>Ganado Arizona</name>
+            <Point id="geom_5074">
+                <coordinates>-109.5421,35.7114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5250">
+            <name>Salt Lake</name>
+            <Point id="geom_5075">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5251">
+            <name>Fruitland New Mexico</name>
+            <Point id="geom_5076">
+                <coordinates>-108.3142,36.7158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5252">
+            <name>Kirtland</name>
+            <Point id="geom_5077">
+                <coordinates>-108.3598009,36.7341684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5253">
+            <name>Phoenix</name>
+            <Point id="geom_5078">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5254">
+            <name>Red Mesa</name>
+            <Point id="geom_5079">
+                <coordinates>-109.3689986,36.996389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5255">
+            <name>California</name>
+            <Point id="geom_5080">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5256">
+            <name>Steamboat</name>
+            <Point id="geom_5081">
+                <coordinates>-109.8506694,35.748065,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5257">
+            <name>Holbrook</name>
+            <Point id="geom_5082">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

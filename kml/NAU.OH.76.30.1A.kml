@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_6245">
+        <Placemark id="feat_6246">
+            <name>Alabama</name>
+            <Point id="geom_6042">
+                <coordinates>-86.791130,32.806671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6247">
+            <name>Ireland</name>
+            <Point id="geom_6043">
+                <coordinates>-8.24389,53.41291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6248">
+            <name>Miami</name>
+            <Point id="geom_6044">
+                <coordinates>-80.1937,25.7743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6249">
+            <name>Utah</name>
+            <Point id="geom_6045">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6250">
+            <name>Show Low</name>
+            <Point id="geom_6046">
+                <coordinates>-110.0298327,34.2542084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6251">
+            <name>San Diego</name>
+            <Point id="geom_6047">
+                <coordinates>-117.1573,32.7153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6252">
+            <name>Abilene</name>
+            <Point id="geom_6048">
+                <coordinates>-99.7331,32.4487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6253">
+            <name>Boston Massachusetts</name>
+            <Point id="geom_6049">
+                <coordinates>-71.0598,42.3584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6254">
+            <name>Bagdad</name>
+            <Point id="geom_6050">
+                <coordinates>44.4009,33.3406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6255">
+            <name>Oklahoma</name>
+            <Point id="geom_6051">
+                <coordinates>-96.928917,35.565342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6256">
+            <name>Roscoe</name>
+            <Point id="geom_6052">
+                <coordinates>-89.0093,42.4134,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6257">
+            <name>Corpus Christi</name>
+            <Point id="geom_6053">
+                <coordinates>-97.3964,27.8006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6258">
+            <name>Boston</name>
+            <Point id="geom_6054">
+                <coordinates>-71.0598,42.3584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6259">
+            <name>Alaska</name>
+            <Point id="geom_6055">
+                <coordinates>-152.404419,61.370716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6260">
+            <name>San Francisco</name>
+            <Point id="geom_6056">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6261">
+            <name>Yuma</name>
+            <Point id="geom_6057">
+                <coordinates>-114.800236,32.5000548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6262">
+            <name>Arizona</name>
+            <Point id="geom_6058">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6263">
+            <name>Austin</name>
+            <Point id="geom_6059">
+                <coordinates>-97.7431,30.2672,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6264">
+            <name>Kingsville Texas</name>
+            <Point id="geom_6060">
+                <coordinates>-97.8561,27.5159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6265">
+            <name>New York</name>
+            <Point id="geom_6061">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6266">
+            <name>New Mexico</name>
+            <Point id="geom_6062">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6267">
+            <name>Yuma County</name>
+            <Point id="geom_6063">
+                <coordinates>-113.910905,32.773942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6268">
+            <name>Kingsville</name>
+            <Point id="geom_6064">
+                <coordinates>-112.0835539,41.1604993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6269">
+            <name>Wellton</name>
+            <Point id="geom_6065">
+                <coordinates>-114.1468821,32.6728256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6270">
+            <name>Kansas</name>
+            <Point id="geom_6066">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6271">
+            <name>Waco</name>
+            <Point id="geom_6067">
+                <coordinates>-97.1467,31.5493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6272">
+            <name>Mesa</name>
+            <Point id="geom_6068">
+                <coordinates>6.1727,49.1191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6273">
+            <name>Las Cruces New Mexico</name>
+            <Point id="geom_6069">
+                <coordinates>-106.7783,32.3123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6274">
+            <name>Pearl Harbor</name>
+            <Point id="geom_6070">
+                <coordinates>-157.9774,21.3448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6275">
+            <name>Gila Bend</name>
+            <Point id="geom_6071">
+                <coordinates>-112.7168305,32.9478236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6276">
+            <name>China</name>
+            <Point id="geom_6072">
+                <coordinates>104.195397,35.86166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6277">
+            <name>Marana</name>
+            <Point id="geom_6073">
+                <coordinates>-111.2253822,32.436738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6278">
+            <name>Fredonia</name>
+            <Point id="geom_6074">
+                <coordinates>-112.5265889,36.945542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6279">
+            <name>Pittsburgh Kansas</name>
+            <Point id="geom_6075">
+                <coordinates>-94.705,37.4109,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6280">
+            <name>Springerville</name>
+            <Point id="geom_6076">
+                <coordinates>-109.2859196,34.1333799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6281">
+            <name>Prescott</name>
+            <Point id="geom_6077">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6282">
+            <name>Flagstaff</name>
+            <Point id="geom_6078">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6283">
+            <name>Florida</name>
+            <Point id="geom_6079">
+                <coordinates>-81.686783,27.766279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6284">
+            <name>Kanab</name>
+            <Point id="geom_6080">
+                <coordinates>-112.6340788,36.3905385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6285">
+            <name>Commerce Texas</name>
+            <Point id="geom_6081">
+                <coordinates>-95.9,33.2471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6286">
+            <name>Tucson</name>
+            <Point id="geom_6082">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6287">
+            <name>Hawaii</name>
+            <Point id="geom_6083">
+                <coordinates>-157.498337,21.094318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6288">
+            <name>Abilene Texas</name>
+            <Point id="geom_6084">
+                <coordinates>-99.7331,32.4487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6289">
+            <name>Bisbee</name>
+            <Point id="geom_6085">
+                <coordinates>-109.9284084,31.4481547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6290">
+            <name>Panama</name>
+            <Point id="geom_6086">
+                <coordinates>-80.782127,8.537981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6291">
+            <name>Hewitt Texas</name>
+            <Point id="geom_6087">
+                <coordinates>-97.1958,31.4624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6292">
+            <name>Philippines</name>
+            <Point id="geom_6088">
+                <coordinates>121.774017,12.879721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6293">
+            <name>Glendale</name>
+            <Point id="geom_6089">
+                <coordinates>-112.186,33.5386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6294">
+            <name>Japan</name>
+            <Point id="geom_6090">
+                <coordinates>138.252924,36.204824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6295">
+            <name>Apache Junction</name>
+            <Point id="geom_6091">
+                <coordinates>-111.5495777,33.4150485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6296">
+            <name>Georgia</name>
+            <Point id="geom_6092">
+                <coordinates>-83.643074,33.040619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6297">
+            <name>Saipan</name>
+            <Point id="geom_6093">
+                <coordinates>145.7545,15.2123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6298">
+            <name>Korea</name>
+            <Point id="geom_6094">
+                <coordinates>127.766922,35.907757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6299">
+            <name>Norfolk Virginia</name>
+            <Point id="geom_6095">
+                <coordinates>-76.2852,36.8468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6300">
+            <name>McNary</name>
+            <Point id="geom_6096">
+                <coordinates>-109.8570472,34.0736564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6301">
+            <name>Florence</name>
+            <Point id="geom_6097">
+                <coordinates>11.2463,43.7792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6302">
+            <name>Hewitt</name>
+            <Point id="geom_6098">
+                <coordinates>-106.3452956,34.5653399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6303">
+            <name>New Guinea</name>
+            <Point id="geom_6099">
+                <coordinates>145.3873,-6.0834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6304">
+            <name>Hassayampa River</name>
+            <Point id="geom_6100">
+                <coordinates>-112.7118362,33.3222646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6305">
+            <name>Phoenix</name>
+            <Point id="geom_6101">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6306">
+            <name>Texas</name>
+            <Point id="geom_6102">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6307">
+            <name>Maricopa County</name>
+            <Point id="geom_6103">
+                <coordinates>-112.495534 ,33.346541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6308">
+            <name>California</name>
+            <Point id="geom_6104">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6309">
+            <name>Sweetwater</name>
+            <Point id="geom_6105">
+                <coordinates>-109.3660741,36.7526595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6310">
+            <name>Arkansas</name>
+            <Point id="geom_6106">
+                <coordinates>-92.373123,34.969704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6311">
+            <name>Los Angeles</name>
+            <Point id="geom_6107">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6312">
+            <name>Roscoe Texas</name>
+            <Point id="geom_6108">
+                <coordinates>-100.5387,32.446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6313">
+            <name>Tempe</name>
+            <Point id="geom_6109">
+                <coordinates>-111.9093,33.4148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6314">
+            <name>Naco</name>
+            <Point id="geom_6110">
+                <coordinates>-109.9481297,31.3353801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6315">
+            <name>Pima County</name>
+            <Point id="geom_6111">
+                <coordinates>-111.783018 ,32.128237,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6316">
+            <name>Holbrook</name>
+            <Point id="geom_6112">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

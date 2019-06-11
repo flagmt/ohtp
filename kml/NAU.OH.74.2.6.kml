@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4914">
+        <Placemark id="feat_4915">
+            <name>North America</name>
+            <Point id="geom_4751">
+                <coordinates> -105.6445,54.7754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4916">
+            <name>United States</name>
+            <Point id="geom_4752">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4917">
+            <name>Tuba City Arizona</name>
+            <Point id="geom_4753">
+                <coordinates>-111.2399,36.135,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

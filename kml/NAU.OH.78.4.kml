@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_6351">
+        <Placemark id="feat_6352">
+            <name>Lees Ferry</name>
+            <Point id="geom_6146">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6353">
+            <name>Pasadena</name>
+            <Point id="geom_6147">
+                <coordinates>-95.2091,29.6911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6354">
+            <name>Vulcan</name>
+            <Point id="geom_6148">
+                <coordinates>-106.3994741,38.2208309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6355">
+            <name>Grapevine</name>
+            <Point id="geom_6149">
+                <coordinates>-112.0024418,36.0590392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6356">
+            <name>Grand Canyon</name>
+            <Point id="geom_6150">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6357">
+            <name>Phantom Ranch</name>
+            <Point id="geom_6151">
+                <coordinates>-112.0951686,36.1049828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6358">
+            <name>Los Angeles</name>
+            <Point id="geom_6152">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

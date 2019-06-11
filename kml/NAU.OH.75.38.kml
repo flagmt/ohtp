@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_5931">
+        <Placemark id="feat_5932">
+            <name>Nevada</name>
+            <Point id="geom_5741">
+                <coordinates>-117.055374,38.313515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5933">
+            <name>Montrose</name>
+            <Point id="geom_5742">
+                <coordinates>-107.8761738,38.4783198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5934">
+            <name>Phoenix</name>
+            <Point id="geom_5743">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5935">
+            <name>Marysville</name>
+            <Point id="geom_5744">
+                <coordinates>-111.8340304,33.4797668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5936">
+            <name>Aneth Utah</name>
+            <Point id="geom_5745">
+                <coordinates>-109.1871,37.2161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5937">
+            <name>Stewart Nevada</name>
+            <Point id="geom_5746">
+                <coordinates>-119.7585,39.1163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5938">
+            <name>Farmington</name>
+            <Point id="geom_5747">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5939">
+            <name>Stewart</name>
+            <Point id="geom_5748">
+                <coordinates>-111.6287463,33.416159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5940">
+            <name>Aneth</name>
+            <Point id="geom_5749">
+                <coordinates>-109.187057,37.216108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5941">
+            <name>Kentucky</name>
+            <Point id="geom_5750">
+                <coordinates>-84.670067,37.668140,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5942">
+            <name>Cortez</name>
+            <Point id="geom_5751">
+                <coordinates>-108.5859265,37.3488827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5943">
+            <name>San Juan</name>
+            <Point id="geom_5752">
+                <coordinates>121.0333,14.6,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5944">
+            <name>Page Arizona</name>
+            <Point id="geom_5753">
+                <coordinates>-111.4558,36.9147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5945">
+            <name>Flagstaff</name>
+            <Point id="geom_5754">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5946">
+            <name>California</name>
+            <Point id="geom_5755">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5947">
+            <name>Tuba City</name>
+            <Point id="geom_5756">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

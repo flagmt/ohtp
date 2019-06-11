@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_6164">
+        <Placemark id="feat_6165">
+            <name>Boundary Butte</name>
+            <Point id="geom_5965">
+                <coordinates>-109.5576129,37.0219457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6166">
+            <name>Arkansas</name>
+            <Point id="geom_5966">
+                <coordinates>-92.373123,34.969704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6167">
+            <name>Kayenta</name>
+            <Point id="geom_5967">
+                <coordinates>-110.2545767,36.7277769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6168">
+            <name>North Carolina</name>
+            <Point id="geom_5968">
+                <coordinates>-79.806419,35.630066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6169">
+            <name>Shiprock</name>
+            <Point id="geom_5969">
+                <coordinates>-108.6870322,36.7855543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6170">
+            <name>Window Rock</name>
+            <Point id="geom_5970">
+                <coordinates>-109.0525929,35.680573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6171">
+            <name>Farmington</name>
+            <Point id="geom_5971">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6172">
+            <name>Toadlena</name>
+            <Point id="geom_5972">
+                <coordinates>-108.8925925,36.2369503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6173">
+            <name>Mexican Water</name>
+            <Point id="geom_5973">
+                <coordinates>-109.6378902,36.9669462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6174">
+            <name>Aneth Utah</name>
+            <Point id="geom_5974">
+                <coordinates>-109.1871,37.2161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6175">
+            <name>Aneth</name>
+            <Point id="geom_5975">
+                <coordinates>-109.187057,37.216108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6176">
+            <name>Hindman</name>
+            <Point id="geom_5976">
+                <coordinates>-105.5656172,38.4260767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6177">
+            <name>Cortez</name>
+            <Point id="geom_5977">
+                <coordinates>-108.5859265,37.3488827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6178">
+            <name>Mancos Creek</name>
+            <Point id="geom_5978">
+                <coordinates>-108.2892487,37.344996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6179">
+            <name>Georgia</name>
+            <Point id="geom_5979">
+                <coordinates>-83.643074,33.040619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6180">
+            <name>Kentucky</name>
+            <Point id="geom_5980">
+                <coordinates>-84.670067,37.668140,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6181">
+            <name>Page Arizona</name>
+            <Point id="geom_5981">
+                <coordinates>-111.4558,36.9147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6182">
+            <name>Tuba City</name>
+            <Point id="geom_5982">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6183">
+            <name>Hindman Kentucky</name>
+            <Point id="geom_5983">
+                <coordinates>-82.9804,37.3359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6184">
+            <name>Page</name>
+            <Point id="geom_5984">
+                <coordinates>-111.8934886,34.7675199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6185">
+            <name>Flagstaff</name>
+            <Point id="geom_5985">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

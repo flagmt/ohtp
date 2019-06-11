@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_5038">
+        <Placemark id="feat_5039">
+            <name>Red Rock Arizona</name>
+            <Point id="geom_4870">
+                <coordinates>-111.3257,32.5762,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5040">
+            <name>United States</name>
+            <Point id="geom_4871">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5041">
+            <name>Gallup</name>
+            <Point id="geom_4872">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5042">
+            <name>Tsaile</name>
+            <Point id="geom_4873">
+                <coordinates>-109.2156668,36.3033006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5043">
+            <name>Farmington</name>
+            <Point id="geom_4874">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5044">
+            <name>Missouri</name>
+            <Point id="geom_4875">
+                <coordinates>-92.288368,38.456085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5045">
+            <name>Kirtland New Mexico</name>
+            <Point id="geom_4876">
+                <coordinates>-108.3598,36.7342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5046">
+            <name>Tuba</name>
+            <Point id="geom_4877">
+                <coordinates>-15.8833,14.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5047">
+            <name>Oklahoma</name>
+            <Point id="geom_4878">
+                <coordinates>-96.928917,35.565342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5048">
+            <name>Farmington New Mexico</name>
+            <Point id="geom_4879">
+                <coordinates>-108.2187,36.7281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5049">
+            <name>Kirtland</name>
+            <Point id="geom_4880">
+                <coordinates>-108.3598009,36.7341684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5050">
+            <name>Denver</name>
+            <Point id="geom_4881">
+                <coordinates>-104.9847,39.7392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5051">
+            <name>Arizona</name>
+            <Point id="geom_4882">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

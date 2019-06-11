@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_5361">
+        <Placemark id="feat_5362">
+            <name>Brigham City</name>
+            <Point id="geom_5184">
+                <coordinates>-110.650689,35.0416871,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5363">
+            <name>Window Rock</name>
+            <Point id="geom_5185">
+                <coordinates>-109.0525929,35.680573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5364">
+            <name>Keams Canyon</name>
+            <Point id="geom_5186">
+                <coordinates>-110.1951253,35.812506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5365">
+            <name>Aneth Utah</name>
+            <Point id="geom_5187">
+                <coordinates>-109.1871,37.2161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5366">
+            <name>Gallup</name>
+            <Point id="geom_5188">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5367">
+            <name>Vietnam</name>
+            <Point id="geom_5189">
+                <coordinates>108.277199,14.058324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5368">
+            <name>Idaho</name>
+            <Point id="geom_5190">
+                <coordinates>-114.478828,44.240459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5369">
+            <name>Brooklyn</name>
+            <Point id="geom_5191">
+                <coordinates>-73.9496,40.6501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5370">
+            <name>Amarillo Texas</name>
+            <Point id="geom_5192">
+                <coordinates>-101.8313,35.222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5371">
+            <name>Oregon</name>
+            <Point id="geom_5193">
+                <coordinates>-122.070938,44.572021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5372">
+            <name>Continental Divide New Mexico</name>
+            <Point id="geom_5194">
+                <coordinates>-108.3153,35.425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5373">
+            <name>Utah</name>
+            <Point id="geom_5195">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5374">
+            <name>Colorado</name>
+            <Point id="geom_5196">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5375">
+            <name>Toadlena New Mexico</name>
+            <Point id="geom_5197">
+                <coordinates>-108.8926,36.237,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5376">
+            <name>Arizona</name>
+            <Point id="geom_5198">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5377">
+            <name>Cedar Ridge</name>
+            <Point id="geom_5199">
+                <coordinates>-109.9912172,39.6532623,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5378">
+            <name>Farmington</name>
+            <Point id="geom_5200">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5379">
+            <name>Brigham City Utah</name>
+            <Point id="geom_5201">
+                <coordinates>-112.0155,41.5102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5380">
+            <name>Aneth</name>
+            <Point id="geom_5202">
+                <coordinates>-109.187057,37.216108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5381">
+            <name>Lukachukai</name>
+            <Point id="geom_5203">
+                <coordinates>-109.2287125,36.416946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5382">
+            <name>Farmington New Mexico</name>
+            <Point id="geom_5204">
+                <coordinates>-108.2187,36.7281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5383">
+            <name>China</name>
+            <Point id="geom_5205">
+                <coordinates>104.195397,35.86166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5384">
+            <name>Klagetoh</name>
+            <Point id="geom_5206">
+                <coordinates>-109.5281609,35.501962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5385">
+            <name>Mexico</name>
+            <Point id="geom_5207">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5386">
+            <name>Flagstaff</name>
+            <Point id="geom_5208">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5387">
+            <name>Kayenta</name>
+            <Point id="geom_5209">
+                <coordinates>-110.2545767,36.7277769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5388">
+            <name>Albuquerque</name>
+            <Point id="geom_5210">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5389">
+            <name>Tuba City</name>
+            <Point id="geom_5211">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5390">
+            <name>New Britain Connecticut</name>
+            <Point id="geom_5212">
+                <coordinates>-72.7795,41.6612,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5391">
+            <name>Teec Nos Pos</name>
+            <Point id="geom_5213">
+                <coordinates>-109.0856582,36.9211097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5392">
+            <name>Kentucky</name>
+            <Point id="geom_5214">
+                <coordinates>-84.670067,37.668140,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5393">
+            <name>Durango Colorado</name>
+            <Point id="geom_5215">
+                <coordinates>-107.8801,37.2753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5394">
+            <name>Red Mesa</name>
+            <Point id="geom_5216">
+                <coordinates>-109.3689986,36.996389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5395">
+            <name>Monument Valley</name>
+            <Point id="geom_5217">
+                <coordinates>-110.0840139,36.916668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5396">
+            <name>Oraibi</name>
+            <Point id="geom_5218">
+                <coordinates>-110.6404148,35.8763922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5397">
+            <name>Shiprock</name>
+            <Point id="geom_5219">
+                <coordinates>-108.6870322,36.7855543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5398">
+            <name>Texas</name>
+            <Point id="geom_5220">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5399">
+            <name>Toadlena</name>
+            <Point id="geom_5221">
+                <coordinates>-108.8925925,36.2369503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5400">
+            <name>Mexican Water</name>
+            <Point id="geom_5222">
+                <coordinates>-109.6378902,36.9669462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5401">
+            <name>Louisiana</name>
+            <Point id="geom_5223">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5402">
+            <name>Chinle</name>
+            <Point id="geom_5224">
+                <coordinates>-109.5609176,36.1552564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5403">
+            <name>Salt Lake City</name>
+            <Point id="geom_5225">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5404">
+            <name>Oklahoma</name>
+            <Point id="geom_5226">
+                <coordinates>-96.928917,35.565342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5405">
+            <name>Aspen</name>
+            <Point id="geom_5227">
+                <coordinates>-106.7167218,39.2014195,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5406">
+            <name>Connecticut</name>
+            <Point id="geom_5228">
+                <coordinates>-72.755371,41.597782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5407">
+            <name>California</name>
+            <Point id="geom_5229">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5408">
+            <name>Aztec New Mexico</name>
+            <Point id="geom_5230">
+                <coordinates>-107.9929,36.8222,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_6542">
+        <Placemark id="feat_6543">
+            <name>Florida</name>
+            <Point id="geom_6329">
+                <coordinates>-81.686783,27.766279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6544">
+            <name>Oakdale</name>
+            <Point id="geom_6330">
+                <coordinates>-111.8410449,40.6466143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6545">
+            <name>Tucson</name>
+            <Point id="geom_6331">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6546">
+            <name>Jonesboro</name>
+            <Point id="geom_6332">
+                <coordinates>-90.7043,35.8423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6547">
+            <name>Phoenix</name>
+            <Point id="geom_6333">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6548">
+            <name>Mormon Lake</name>
+            <Point id="geom_6334">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6549">
+            <name>California</name>
+            <Point id="geom_6335">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6550">
+            <name>Louisiana</name>
+            <Point id="geom_6336">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6551">
+            <name>Georgia</name>
+            <Point id="geom_6337">
+                <coordinates>-83.643074,33.040619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6552">
+            <name>Saint Louis</name>
+            <Point id="geom_6338">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6553">
+            <name>Fort Benning Georgia</name>
+            <Point id="geom_6339">
+                <coordinates>-84.9688,32.3524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6554">
+            <name>Fort Benning</name>
+            <Point id="geom_6340">
+                <coordinates>-84.9688,32.3524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6555">
+            <name>Happy Jack</name>
+            <Point id="geom_6341">
+                <coordinates>-111.4073685,34.7433546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6556">
+            <name>Flagstaff</name>
+            <Point id="geom_6342">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_5569">
+        <Placemark id="feat_5570">
+            <name>Virginia</name>
+            <Point id="geom_5388">
+                <coordinates>-78.169968,37.769337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5571">
+            <name>Denver</name>
+            <Point id="geom_5389">
+                <coordinates>-104.9847,39.7392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5572">
+            <name>Marquette Michigan</name>
+            <Point id="geom_5390">
+                <coordinates>-87.3954,46.5435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5573">
+            <name>Gallup</name>
+            <Point id="geom_5391">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5574">
+            <name>Tesuque</name>
+            <Point id="geom_5392">
+                <coordinates>-105.9325214,35.7616955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5575">
+            <name>United States</name>
+            <Point id="geom_5393">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5576">
+            <name>Montana</name>
+            <Point id="geom_5394">
+                <coordinates>-110.454353,46.921925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5577">
+            <name>Germany</name>
+            <Point id="geom_5395">
+                <coordinates>10.451526,51.165691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5578">
+            <name>Nebraska</name>
+            <Point id="geom_5396">
+                <coordinates>-98.268082,41.125370,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5579">
+            <name>Oklahoma</name>
+            <Point id="geom_5397">
+                <coordinates>-96.928917,35.565342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5580">
+            <name>Israel</name>
+            <Point id="geom_5398">
+                <coordinates>34.851612,31.046051,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5581">
+            <name>Utah</name>
+            <Point id="geom_5399">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5582">
+            <name>Pine Springs</name>
+            <Point id="geom_5400">
+                <coordinates>-109.2764861,35.4008555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5583">
+            <name>Colorado</name>
+            <Point id="geom_5401">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5584">
+            <name>San Francisco</name>
+            <Point id="geom_5402">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5585">
+            <name>Arizona</name>
+            <Point id="geom_5403">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5586">
+            <name>Santa Fe</name>
+            <Point id="geom_5404">
+                <coordinates>-74.0817,4.6097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5587">
+            <name>Grand Canyon</name>
+            <Point id="geom_5405">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5588">
+            <name>New York</name>
+            <Point id="geom_5406">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5589">
+            <name>New Mexico</name>
+            <Point id="geom_5407">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5590">
+            <name>Farmington</name>
+            <Point id="geom_5408">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5591">
+            <name>Wide Ruins</name>
+            <Point id="geom_5409">
+                <coordinates>-109.4964948,35.4194639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5592">
+            <name>Fort Wingate</name>
+            <Point id="geom_5410">
+                <coordinates>-108.543084,35.4706368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5593">
+            <name>San Diego California</name>
+            <Point id="geom_5411">
+                <coordinates>-117.1573,32.7153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5594">
+            <name>Durango</name>
+            <Point id="geom_5412">
+                <coordinates>-104.6576,24.0203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5595">
+            <name>Klagetoh</name>
+            <Point id="geom_5413">
+                <coordinates>-109.5281609,35.501962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5596">
+            <name>Chambers Arizona</name>
+            <Point id="geom_5414">
+                <coordinates>-109.4332,35.1886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5597">
+            <name>Flagstaff</name>
+            <Point id="geom_5415">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5598">
+            <name>Albuquerque</name>
+            <Point id="geom_5416">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5599">
+            <name>Cortez</name>
+            <Point id="geom_5417">
+                <coordinates>-108.5859265,37.3488827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5600">
+            <name>Tucson</name>
+            <Point id="geom_5418">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5601">
+            <name>Hawaii</name>
+            <Point id="geom_5419">
+                <coordinates>-157.498337,21.094318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5602">
+            <name>Winslow</name>
+            <Point id="geom_5420">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5603">
+            <name>Philippines</name>
+            <Point id="geom_5421">
+                <coordinates>121.774017,12.879721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5604">
+            <name>Steamboat Springs</name>
+            <Point id="geom_5422">
+                <coordinates>-106.8614185,40.6367346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5605">
+            <name>Scottsdale</name>
+            <Point id="geom_5423">
+                <coordinates>-111.899,33.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5606">
+            <name>Iowa</name>
+            <Point id="geom_5424">
+                <coordinates>-93.210526,42.011539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5607">
+            <name>Monument Valley</name>
+            <Point id="geom_5425">
+                <coordinates>-110.0840139,36.916668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5608">
+            <name>Oraibi</name>
+            <Point id="geom_5426">
+                <coordinates>-110.6404148,35.8763922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5609">
+            <name>Phoenix</name>
+            <Point id="geom_5427">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5610">
+            <name>Chicago</name>
+            <Point id="geom_5428">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5611">
+            <name>Ganado</name>
+            <Point id="geom_5429">
+                <coordinates>-109.5420492,35.7114022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5612">
+            <name>Smoke Signal Arizona</name>
+            <Point id="geom_5430">
+                <coordinates>-110.0451,35.98,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5613">
+            <name>Steamboat</name>
+            <Point id="geom_5431">
+                <coordinates>-109.8506694,35.748065,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5614">
+            <name>Lupton</name>
+            <Point id="geom_5432">
+                <coordinates>-109.0537017,35.3539127,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5615">
+            <name>Detroit</name>
+            <Point id="geom_5433">
+                <coordinates>-83.0457,42.3314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5616">
+            <name>South Dakota</name>
+            <Point id="geom_5434">
+                <coordinates>-99.438828,44.299782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5617">
+            <name>Holbrook</name>
+            <Point id="geom_5435">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

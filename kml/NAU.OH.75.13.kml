@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4996">
+        <Placemark id="feat_4997">
+            <name>Kayenta</name>
+            <Point id="geom_4830">
+                <coordinates>-110.2545767,36.7277769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4998">
+            <name>Waterflow</name>
+            <Point id="geom_4831">
+                <coordinates>-108.4817491,36.7597229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4999">
+            <name>Window Rock</name>
+            <Point id="geom_4832">
+                <coordinates>-109.0525929,35.680573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5000">
+            <name>Red Rock</name>
+            <Point id="geom_4833">
+                <coordinates>-112.0212663,34.29503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5001">
+            <name>Gallup</name>
+            <Point id="geom_4834">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5002">
+            <name>Aztec</name>
+            <Point id="geom_4835">
+                <coordinates>-113.449913,32.8244925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5003">
+            <name>Shiprock</name>
+            <Point id="geom_4836">
+                <coordinates>-108.6870322,36.7855543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5004">
+            <name>Cortez</name>
+            <Point id="geom_4837">
+                <coordinates>-108.5859265,37.3488827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5005">
+            <name>Farmington</name>
+            <Point id="geom_4838">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5006">
+            <name>Texas</name>
+            <Point id="geom_4839">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5007">
+            <name>Beclabito</name>
+            <Point id="geom_4840">
+                <coordinates>-109.0195438,36.8413878,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5008">
+            <name>Teec Nos Pos</name>
+            <Point id="geom_4841">
+                <coordinates>-109.0856582,36.9211097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5009">
+            <name>Fort Wingate</name>
+            <Point id="geom_4842">
+                <coordinates>-108.543084,35.4706368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5010">
+            <name>Farmington New Mexico</name>
+            <Point id="geom_4843">
+                <coordinates>-108.2187,36.7281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5011">
+            <name>Kirtland</name>
+            <Point id="geom_4844">
+                <coordinates>-108.3598009,36.7341684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5012">
+            <name>Red Mesa</name>
+            <Point id="geom_4845">
+                <coordinates>-109.3689986,36.996389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5013">
+            <name>Sanford Colorado</name>
+            <Point id="geom_4846">
+                <coordinates>-105.9047,37.2583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5014">
+            <name>Holbrook</name>
+            <Point id="geom_4847">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5015">
+            <name>Arizona</name>
+            <Point id="geom_4848">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5016">
+            <name>Flagstaff</name>
+            <Point id="geom_4849">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

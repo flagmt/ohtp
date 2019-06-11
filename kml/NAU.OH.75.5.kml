@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_6122">
+        <Placemark id="feat_6123">
+            <name>Albuquerque</name>
+            <Point id="geom_5925">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6124">
+            <name>Illinois</name>
+            <Point id="geom_5926">
+                <coordinates>-88.986137,40.349457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6125">
+            <name>Salt Lake</name>
+            <Point id="geom_5927">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6126">
+            <name>Gallup</name>
+            <Point id="geom_5928">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6127">
+            <name>Two Grey Hills</name>
+            <Point id="geom_5929">
+                <coordinates>-108.80259,36.2375066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6128">
+            <name>Shiprock</name>
+            <Point id="geom_5930">
+                <coordinates>-108.6870322,36.7855543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6129">
+            <name>New Mexico</name>
+            <Point id="geom_5931">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6130">
+            <name>Farmington</name>
+            <Point id="geom_5932">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6131">
+            <name>Texas</name>
+            <Point id="geom_5933">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6132">
+            <name>Toadlena</name>
+            <Point id="geom_5934">
+                <coordinates>-108.8925925,36.2369503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6133">
+            <name>Window Rock</name>
+            <Point id="geom_5935">
+                <coordinates>-109.0525929,35.680573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6134">
+            <name>Japan</name>
+            <Point id="geom_5936">
+                <coordinates>138.252924,36.204824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6135">
+            <name>Chicago</name>
+            <Point id="geom_5937">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6136">
+            <name>Fort Sumner</name>
+            <Point id="geom_5938">
+                <coordinates>-104.2455304,34.4717333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6137">
+            <name>Mancos Creek</name>
+            <Point id="geom_5939">
+                <coordinates>-108.2892487,37.344996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6138">
+            <name>Borrego Pass</name>
+            <Point id="geom_5940">
+                <coordinates>-107.9964515,35.5803024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6139">
+            <name>Alaska</name>
+            <Point id="geom_5941">
+                <coordinates>-152.404419,61.370716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6140">
+            <name>Korea</name>
+            <Point id="geom_5942">
+                <coordinates>127.766922,35.907757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6141">
+            <name>Arizona</name>
+            <Point id="geom_5943">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6142">
+            <name>Santa Fe</name>
+            <Point id="geom_5944">
+                <coordinates>-74.0817,4.6097,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_5052">
+        <Placemark id="feat_5053">
+            <name>Albuquerque</name>
+            <Point id="geom_4883">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5054">
+            <name>Scottsdale Arizona</name>
+            <Point id="geom_4884">
+                <coordinates>-111.899,33.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5055">
+            <name>Denver</name>
+            <Point id="geom_4885">
+                <coordinates>-104.9847,39.7392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5056">
+            <name>Tuba City</name>
+            <Point id="geom_4886">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5057">
+            <name>Gallup</name>
+            <Point id="geom_4887">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5058">
+            <name>Alamosa</name>
+            <Point id="geom_4888">
+                <coordinates>-105.8700215,37.4694491,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5059">
+            <name>Mexico</name>
+            <Point id="geom_4889">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5060">
+            <name>Africa</name>
+            <Point id="geom_4890">
+                <coordinates>21.0938,7.1881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5061">
+            <name>Minnesota</name>
+            <Point id="geom_4891">
+                <coordinates>-93.900192,45.694454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5062">
+            <name>Kanab Utah</name>
+            <Point id="geom_4892">
+                <coordinates>-112.5263,37.0475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5063">
+            <name>Sheep Springs</name>
+            <Point id="geom_4893">
+                <coordinates>-108.7102778,36.1430556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5064">
+            <name>Teec Nos Pos</name>
+            <Point id="geom_4894">
+                <coordinates>-109.0856582,36.9211097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5065">
+            <name>Italy</name>
+            <Point id="geom_4895">
+                <coordinates>12.56738,41.87194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5066">
+            <name>Bisti</name>
+            <Point id="geom_4896">
+                <coordinates>-108.1950721,36.2847312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5067">
+            <name>San Juan</name>
+            <Point id="geom_4897">
+                <coordinates>121.0333,14.6,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5068">
+            <name>Scottsdale</name>
+            <Point id="geom_4898">
+                <coordinates>-111.899,33.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5069">
+            <name>Utah</name>
+            <Point id="geom_4899">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5070">
+            <name>Phoenix</name>
+            <Point id="geom_4900">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5071">
+            <name>Greasewood</name>
+            <Point id="geom_4901">
+                <coordinates>-109.857338,35.5225125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5072">
+            <name>Colorado Springs</name>
+            <Point id="geom_4902">
+                <coordinates>-104.8214,38.8339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5073">
+            <name>Kanab</name>
+            <Point id="geom_4903">
+                <coordinates>-112.6340788,36.3905385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5074">
+            <name>Arizona</name>
+            <Point id="geom_4904">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5075">
+            <name>Salt Lake</name>
+            <Point id="geom_4905">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5076">
+            <name>Alamosa Colorado</name>
+            <Point id="geom_4906">
+                <coordinates>-105.87,37.4695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5077">
+            <name>Fruitland</name>
+            <Point id="geom_4907">
+                <coordinates>-108.3956352,36.7391682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5078">
+            <name>Provo</name>
+            <Point id="geom_4908">
+                <coordinates>-111.6585,40.2338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5079">
+            <name>Tucson</name>
+            <Point id="geom_4909">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5080">
+            <name>Dallas</name>
+            <Point id="geom_4910">
+                <coordinates>-96.8067,32.7831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5081">
+            <name>Shiprock</name>
+            <Point id="geom_4911">
+                <coordinates>-108.6870322,36.7855543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5082">
+            <name>New Mexico</name>
+            <Point id="geom_4912">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5083">
+            <name>Farmington</name>
+            <Point id="geom_4913">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5084">
+            <name>Chicago</name>
+            <Point id="geom_4914">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5085">
+            <name>Kirtland New Mexico</name>
+            <Point id="geom_4915">
+                <coordinates>-108.3598,36.7342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5086">
+            <name>Kirtland</name>
+            <Point id="geom_4916">
+                <coordinates>-108.3598009,36.7341684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5087">
+            <name>Sweetwater</name>
+            <Point id="geom_4917">
+                <coordinates>-109.3660741,36.7526595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5088">
+            <name>Wyoming</name>
+            <Point id="geom_4918">
+                <coordinates>-107.302490,42.755966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5089">
+            <name>Canyon de Chelly</name>
+            <Point id="geom_4919">
+                <coordinates>-109.5328846,36.1552817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5090">
+            <name>San Francisco</name>
+            <Point id="geom_4920">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5091">
+            <name>Oklahoma</name>
+            <Point id="geom_4921">
+                <coordinates>-96.928917,35.565342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5092">
+            <name>Cudei</name>
+            <Point id="geom_4922">
+                <coordinates>-108.7764808,36.8583303,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5093">
+            <name>Newcombs</name>
+            <Point id="geom_4923">
+                <coordinates>-108.7059,36.2847,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

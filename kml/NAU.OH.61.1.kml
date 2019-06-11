@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4871">
+        <Placemark id="feat_4872">
+            <name>United States</name>
+            <Point id="geom_4714">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4873">
+            <name>Oraibi</name>
+            <Point id="geom_4715">
+                <coordinates>-110.6404148,35.8763922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4874">
+            <name>Riverside California</name>
+            <Point id="geom_4716">
+                <coordinates>-117.3962,33.9534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4875">
+            <name>New Mexico</name>
+            <Point id="geom_4717">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4876">
+            <name>Second Mesa</name>
+            <Point id="geom_4718">
+                <coordinates>6.1727,49.1191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4877">
+            <name>Kykotsmovi</name>
+            <Point id="geom_4719">
+                <coordinates>-110.6204145,35.8752812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4878">
+            <name>Hotevilla</name>
+            <Point id="geom_4720">
+                <coordinates>-110.6729158,35.9277802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4879">
+            <name>Hollywood</name>
+            <Point id="geom_4721">
+                <coordinates>-118.3267,34.0983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4880">
+            <name>Polacca</name>
+            <Point id="geom_4722">
+                <coordinates>-110.3815198,35.8366716,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

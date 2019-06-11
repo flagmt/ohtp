@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4905">
+        <Placemark id="feat_4906">
+            <name>Kayenta</name>
+            <Point id="geom_4743">
+                <coordinates>-110.2545767,36.7277769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4907">
+            <name>Chinle</name>
+            <Point id="geom_4744">
+                <coordinates>-109.5609176,36.1552564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4908">
+            <name>Window Rock</name>
+            <Point id="geom_4745">
+                <coordinates>-109.0525929,35.680573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4909">
+            <name>Tuba City</name>
+            <Point id="geom_4746">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4910">
+            <name>Fort Defiance</name>
+            <Point id="geom_4747">
+                <coordinates>-109.0708131,35.7420751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4911">
+            <name>Tuba City Arizona</name>
+            <Point id="geom_4748">
+                <coordinates>-111.2399,36.135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4912">
+            <name>Many Farms</name>
+            <Point id="geom_4749">
+                <coordinates>-109.6178867,36.3527792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4913">
+            <name>Ganado</name>
+            <Point id="geom_4750">
+                <coordinates>-109.5420492,35.7114022,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

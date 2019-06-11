@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4898">
+        <Placemark id="feat_4899">
+            <name>Riverside CA</name>
+            <Point id="geom_4737">
+                <coordinates>-117.3962,33.9534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4900">
+            <name>Tuba</name>
+            <Point id="geom_4738">
+                <coordinates>-15.8833,14.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4901">
+            <name>Tuba City</name>
+            <Point id="geom_4739">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4902">
+            <name>Phoenix</name>
+            <Point id="geom_4740">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4903">
+            <name>Tuba City Arizona</name>
+            <Point id="geom_4741">
+                <coordinates>-111.2399,36.135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4904">
+            <name>Many Farms</name>
+            <Point id="geom_4742">
+                <coordinates>-109.6178867,36.3527792,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

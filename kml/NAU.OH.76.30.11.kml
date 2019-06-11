@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_6229">
+        <Placemark id="feat_6230">
+            <name>Alaska</name>
+            <Point id="geom_6027">
+                <coordinates>-152.404419,61.370716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6231">
+            <name>Phoenix</name>
+            <Point id="geom_6028">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6232">
+            <name>Tucson</name>
+            <Point id="geom_6029">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6233">
+            <name>Texas</name>
+            <Point id="geom_6030">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6234">
+            <name>United States</name>
+            <Point id="geom_6031">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6235">
+            <name>Europe</name>
+            <Point id="geom_6032">
+                <coordinates>7.4268,50.2191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6236">
+            <name>Los Angeles</name>
+            <Point id="geom_6033">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6237">
+            <name>Germany</name>
+            <Point id="geom_6034">
+                <coordinates>10.451526,51.165691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6238">
+            <name>Washington</name>
+            <Point id="geom_6035">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6239">
+            <name>Kirksville Missouri</name>
+            <Point id="geom_6036">
+                <coordinates>-92.5833,40.1947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6240">
+            <name>Columbia Missouri</name>
+            <Point id="geom_6037">
+                <coordinates>-92.3341,38.9517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6241">
+            <name>Kansas City</name>
+            <Point id="geom_6038">
+                <coordinates>-94.5786,39.0997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6242">
+            <name>San Francisco</name>
+            <Point id="geom_6039">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6243">
+            <name>Missouri</name>
+            <Point id="geom_6040">
+                <coordinates>-92.288368,38.456085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6244">
+            <name>Arizona</name>
+            <Point id="geom_6041">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

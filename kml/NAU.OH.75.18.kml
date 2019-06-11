@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_5141">
+        <Placemark id="feat_5142">
+            <name>Mancos</name>
+            <Point id="geom_4970">
+                <coordinates>-108.2892487,37.344996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5143">
+            <name>Aneth Utah</name>
+            <Point id="geom_4971">
+                <coordinates>-109.1871,37.2161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5144">
+            <name>Gallup</name>
+            <Point id="geom_4972">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5145">
+            <name>Vietnam</name>
+            <Point id="geom_4973">
+                <coordinates>108.277199,14.058324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5146">
+            <name>Chaco Canyon</name>
+            <Point id="geom_4974">
+                <coordinates>-107.967008,36.060293,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5147">
+            <name>Australia</name>
+            <Point id="geom_4975">
+                <coordinates>133.775136,-25.274398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5148">
+            <name>United States</name>
+            <Point id="geom_4976">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5149">
+            <name>Bisti</name>
+            <Point id="geom_4977">
+                <coordinates>-108.1950721,36.2847312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5150">
+            <name>Oklahoma</name>
+            <Point id="geom_4978">
+                <coordinates>-96.928917,35.565342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5151">
+            <name>Monticello</name>
+            <Point id="geom_4979">
+                <coordinates>-107.4508694,33.3970138,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5152">
+            <name>San Francisco</name>
+            <Point id="geom_4980">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5153">
+            <name>Arizona</name>
+            <Point id="geom_4981">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5154">
+            <name>Tuba City</name>
+            <Point id="geom_4982">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5155">
+            <name>Red Valley</name>
+            <Point id="geom_4983">
+                <coordinates>-109.045826,36.6432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5156">
+            <name>Flagstaff</name>
+            <Point id="geom_4984">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5157">
+            <name>New York</name>
+            <Point id="geom_4985">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5158">
+            <name>Page</name>
+            <Point id="geom_4986">
+                <coordinates>-111.8934886,34.7675199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5159">
+            <name>Farmington</name>
+            <Point id="geom_4987">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5160">
+            <name>Idaho</name>
+            <Point id="geom_4988">
+                <coordinates>-114.478828,44.240459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5161">
+            <name>Germantown Pennsylvania</name>
+            <Point id="geom_4989">
+                <coordinates>-79.8598,40.3815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5162">
+            <name>Las Cruces New Mexico</name>
+            <Point id="geom_4990">
+                <coordinates>-106.7783,32.3123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5163">
+            <name>Red Rock</name>
+            <Point id="geom_4991">
+                <coordinates>-112.0212663,34.29503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5164">
+            <name>China</name>
+            <Point id="geom_4992">
+                <coordinates>104.195397,35.86166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5165">
+            <name>Pennsylvania</name>
+            <Point id="geom_4993">
+                <coordinates>-77.209755,40.590752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5166">
+            <name>Sanostee</name>
+            <Point id="geom_4994">
+                <coordinates>-108.8742586,36.4247253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5167">
+            <name>Farmington New Mexico</name>
+            <Point id="geom_4995">
+                <coordinates>-108.2187,36.7281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5168">
+            <name>Tsaya</name>
+            <Point id="geom_4996">
+                <coordinates>-108.174237,36.1330677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5169">
+            <name>Blanding</name>
+            <Point id="geom_4997">
+                <coordinates>-109.478177,37.6241646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5170">
+            <name>Sanders Arizona</name>
+            <Point id="geom_4998">
+                <coordinates>-109.3337,35.2164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5171">
+            <name>Kentucky</name>
+            <Point id="geom_4999">
+                <coordinates>-84.670067,37.668140,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5172">
+            <name>New Zealand</name>
+            <Point id="geom_5000">
+                <coordinates>174.885971,-40.900557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5173">
+            <name>Kirtland</name>
+            <Point id="geom_5001">
+                <coordinates>-108.3598009,36.7341684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5174">
+            <name>Durango</name>
+            <Point id="geom_5002">
+                <coordinates>-104.6576,24.0203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5175">
+            <name>Jerusalem</name>
+            <Point id="geom_5003">
+                <coordinates>35.2163,31.769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5176">
+            <name>Cache Valley Utah</name>
+            <Point id="geom_5004">
+                <coordinates>-109.5212299,38.7249805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5177">
+            <name>Shiprock</name>
+            <Point id="geom_5005">
+                <coordinates>-108.6870322,36.7855543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5178">
+            <name>Phoenix</name>
+            <Point id="geom_5006">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5179">
+            <name>Los Angeles</name>
+            <Point id="geom_5007">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5180">
+            <name>Kirtland New Mexico</name>
+            <Point id="geom_5008">
+                <coordinates>-108.3598,36.7342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5181">
+            <name>Mancos Colorado</name>
+            <Point id="geom_5009">
+                <coordinates>-108.2892,37.345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5182">
+            <name>Nebraska</name>
+            <Point id="geom_5010">
+                <coordinates>-98.268082,41.125370,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5183">
+            <name>Two Grey Hills</name>
+            <Point id="geom_5011">
+                <coordinates>-108.80259,36.2375066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5184">
+            <name>Borrego Pass</name>
+            <Point id="geom_5012">
+                <coordinates>-107.9964515,35.5803024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5185">
+            <name>Houston Texas</name>
+            <Point id="geom_5013">
+                <coordinates>-95.3633,29.7633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5186">
+            <name>California</name>
+            <Point id="geom_5014">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

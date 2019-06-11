@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_5017">
+        <Placemark id="feat_5018">
+            <name>Provo Utah</name>
+            <Point id="geom_4850">
+                <coordinates>-111.6585,40.2338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5019">
+            <name>Mancos</name>
+            <Point id="geom_4851">
+                <coordinates>-108.2892487,37.344996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5020">
+            <name>Fruitland</name>
+            <Point id="geom_4852">
+                <coordinates>-108.3956352,36.7391682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5021">
+            <name>San Juan New Mexico</name>
+            <Point id="geom_4853">
+                <coordinates>-106.0683,36.0519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5022">
+            <name>Gallup</name>
+            <Point id="geom_4854">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5023">
+            <name>Shiprock</name>
+            <Point id="geom_4855">
+                <coordinates>-108.6870322,36.7855543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5024">
+            <name>Teec Nos Pos</name>
+            <Point id="geom_4856">
+                <coordinates>-109.0856582,36.9211097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5025">
+            <name>Farmington</name>
+            <Point id="geom_4857">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5026">
+            <name>Toadlena</name>
+            <Point id="geom_4858">
+                <coordinates>-108.8925925,36.2369503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5027">
+            <name>Mexican Water</name>
+            <Point id="geom_4859">
+                <coordinates>-109.6378902,36.9669462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5028">
+            <name>Germany</name>
+            <Point id="geom_4860">
+                <coordinates>10.451526,51.165691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5029">
+            <name>Sweetwater</name>
+            <Point id="geom_4861">
+                <coordinates>-109.3660741,36.7526595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5030">
+            <name>Washington DC</name>
+            <Point id="geom_4862">
+                <coordinates>-77.0364,38.8951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5031">
+            <name>Aneth</name>
+            <Point id="geom_4863">
+                <coordinates>-109.187057,37.216108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5032">
+            <name>Lukachukai</name>
+            <Point id="geom_4864">
+                <coordinates>-109.2287125,36.416946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5033">
+            <name>Kirtland</name>
+            <Point id="geom_4865">
+                <coordinates>-108.3598009,36.7341684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5034">
+            <name>Mancos Creek</name>
+            <Point id="geom_4866">
+                <coordinates>-108.2892487,37.344996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5035">
+            <name>Red Mesa</name>
+            <Point id="geom_4867">
+                <coordinates>-109.3689986,36.996389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5036">
+            <name>Springville Utah</name>
+            <Point id="geom_4868">
+                <coordinates>-111.6107,40.1652,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5037">
+            <name>Washington</name>
+            <Point id="geom_4869">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

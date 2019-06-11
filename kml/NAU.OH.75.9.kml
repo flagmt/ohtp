@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_6220">
+        <Placemark id="feat_6221">
+            <name>Seattle</name>
+            <Point id="geom_6019">
+                <coordinates>-122.3321,47.6062,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6222">
+            <name>Utah</name>
+            <Point id="geom_6020">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6223">
+            <name>Fort Sumner</name>
+            <Point id="geom_6021">
+                <coordinates>-104.2455304,34.4717333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6224">
+            <name>New York</name>
+            <Point id="geom_6022">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6225">
+            <name>Page Arizona</name>
+            <Point id="geom_6023">
+                <coordinates>-111.4558,36.9147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6226">
+            <name>Los Angeles</name>
+            <Point id="geom_6024">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6227">
+            <name>Chicago</name>
+            <Point id="geom_6025">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6228">
+            <name>Tuba City</name>
+            <Point id="geom_6026">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

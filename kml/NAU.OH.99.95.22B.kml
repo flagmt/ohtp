@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_6557">
+        <Placemark id="feat_6558">
+            <name>Madison</name>
+            <Point id="geom_6343">
+                <coordinates>-89.4012,43.0731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6559">
+            <name>Seattle</name>
+            <Point id="geom_6344">
+                <coordinates>-122.3321,47.6062,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6560">
+            <name>Atlanta</name>
+            <Point id="geom_6345">
+                <coordinates>-84.388,33.749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6561">
+            <name>Tucson</name>
+            <Point id="geom_6346">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6562">
+            <name>Kilauea</name>
+            <Point id="geom_6347">
+                <coordinates>-159.4134,22.2121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6563">
+            <name>Helena Arkansas</name>
+            <Point id="geom_6348">
+                <coordinates>-90.59,34.5291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6564">
+            <name>Mexico</name>
+            <Point id="geom_6349">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6565">
+            <name>Antarctica</name>
+            <Point id="geom_6350">
+                <coordinates>16.4063,-78.1586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6566">
+            <name>Trujillo</name>
+            <Point id="geom_6351">
+                <coordinates>-69.9886,18.5001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6567">
+            <name>New York</name>
+            <Point id="geom_6352">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6568">
+            <name>Iceland</name>
+            <Point id="geom_6353">
+                <coordinates>-19.020835,64.963051,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6569">
+            <name>Paducah</name>
+            <Point id="geom_6354">
+                <coordinates>-88.6,37.0834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6570">
+            <name>Ohio</name>
+            <Point id="geom_6355">
+                <coordinates>-82.764915,40.388783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6571">
+            <name>Tepic Mexico</name>
+            <Point id="geom_6356">
+                <coordinates>-104.8957,21.5095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6572">
+            <name>Washington DC</name>
+            <Point id="geom_6357">
+                <coordinates>-77.0364,38.8951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6573">
+            <name>Phoenix</name>
+            <Point id="geom_6358">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6574">
+            <name>California</name>
+            <Point id="geom_6359">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6575">
+            <name>Wupatki</name>
+            <Point id="geom_6360">
+                <coordinates>-111.334592,35.5652799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6576">
+            <name>Hermosillo</name>
+            <Point id="geom_6361">
+                <coordinates>-110.9773,29.1026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6577">
+            <name>San Francisco</name>
+            <Point id="geom_6362">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6578">
+            <name>Arizona</name>
+            <Point id="geom_6363">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6579">
+            <name>Santa Fe</name>
+            <Point id="geom_6364">
+                <coordinates>-74.0817,4.6097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6580">
+            <name>Connecticut</name>
+            <Point id="geom_6365">
+                <coordinates>-72.755371,41.597782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6581">
+            <name>Alaska</name>
+            <Point id="geom_6366">
+                <coordinates>-152.404419,61.370716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6582">
+            <name>Dallas</name>
+            <Point id="geom_6367">
+                <coordinates>-96.8067,32.7831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6583">
+            <name>Madison Indiana</name>
+            <Point id="geom_6368">
+                <coordinates>-85.3966,38.7678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6584">
+            <name>Guaymas</name>
+            <Point id="geom_6369">
+                <coordinates>-110.8975,27.9193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6585">
+            <name>Guadalajara</name>
+            <Point id="geom_6370">
+                <coordinates>-3.1618,40.6286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6586">
+            <name>Chicago</name>
+            <Point id="geom_6371">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6587">
+            <name>Los Angeles</name>
+            <Point id="geom_6372">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6588">
+            <name>South America</name>
+            <Point id="geom_6373">
+                <coordinates>-57.6563,-14.6049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6589">
+            <name>New Orleans</name>
+            <Point id="geom_6374">
+                <coordinates>-90.0751,29.9547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6590">
+            <name>Cincinnati</name>
+            <Point id="geom_6375">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6591">
+            <name>United States</name>
+            <Point id="geom_6376">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6592">
+            <name>Pittsburgh</name>
+            <Point id="geom_6377">
+                <coordinates>-79.9959,40.4406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6593">
+            <name>Oaxaca</name>
+            <Point id="geom_6378">
+                <coordinates>-96.7237,17.0654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6594">
+            <name>Flagstaff Airport</name>
+            <Point id="geom_6379">
+                <coordinates>-111.6822978,35.1378117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6595">
+            <name>Trujillo Peru</name>
+            <Point id="geom_6380">
+                <coordinates>-79.03,-8.116,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6596">
+            <name>Hawaii</name>
+            <Point id="geom_6381">
+                <coordinates>-157.498337,21.094318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6597">
+            <name>Memphis</name>
+            <Point id="geom_6382">
+                <coordinates>-90.049,35.1495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6598">
+            <name>Denver</name>
+            <Point id="geom_6383">
+                <coordinates>-104.9847,39.7392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6599">
+            <name>Mexico City</name>
+            <Point id="geom_6384">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6600">
+            <name>Flagstaff</name>
+            <Point id="geom_6385">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

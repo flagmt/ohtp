@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_6091">
+        <Placemark id="feat_6092">
+            <name>Provo Utah</name>
+            <Point id="geom_5896">
+                <coordinates>-111.6585,40.2338,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6093">
+            <name>Gallup New Mexico</name>
+            <Point id="geom_5897">
+                <coordinates>-108.7426,35.5281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6094">
+            <name>Las Vegas</name>
+            <Point id="geom_5898">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6095">
+            <name>Saint George</name>
+            <Point id="geom_5899">
+                <coordinates>-13.2299,8.484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6096">
+            <name>Gallup</name>
+            <Point id="geom_5900">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6097">
+            <name>Dallas</name>
+            <Point id="geom_5901">
+                <coordinates>-96.8067,32.7831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6098">
+            <name>Phoenix</name>
+            <Point id="geom_5902">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6099">
+            <name>Ganado</name>
+            <Point id="geom_5903">
+                <coordinates>-109.5420492,35.7114022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6100">
+            <name>Henderson</name>
+            <Point id="geom_5904">
+                <coordinates>-114.9819,36.0397,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6101">
+            <name>Steamboat</name>
+            <Point id="geom_5905">
+                <coordinates>-109.8506694,35.748065,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6102">
+            <name>Utah</name>
+            <Point id="geom_5906">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6103">
+            <name>Dallas Texas</name>
+            <Point id="geom_5907">
+                <coordinates>-96.8067,32.7831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6104">
+            <name>Arizona</name>
+            <Point id="geom_5908">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6105">
+            <name>Flagstaff</name>
+            <Point id="geom_5909">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

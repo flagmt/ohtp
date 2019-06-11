@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_5258">
+        <Placemark id="feat_5259">
+            <name>Kayenta</name>
+            <Point id="geom_5083">
+                <coordinates>-110.2545767,36.7277769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5260">
+            <name>Albuquerque</name>
+            <Point id="geom_5084">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5261">
+            <name>Dulce</name>
+            <Point id="geom_5085">
+                <coordinates>-107.0005933,36.9291767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5262">
+            <name>Window Rock</name>
+            <Point id="geom_5086">
+                <coordinates>-109.0525929,35.680573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5263">
+            <name>Cortez</name>
+            <Point id="geom_5087">
+                <coordinates>-108.5859265,37.3488827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5264">
+            <name>Gallup</name>
+            <Point id="geom_5088">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5265">
+            <name>San Juan River</name>
+            <Point id="geom_5089">
+                <coordinates>-110.900703,37.1797156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5266">
+            <name>Teec Nos Pos</name>
+            <Point id="geom_5090">
+                <coordinates>-109.0856582,36.9211097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5267">
+            <name>Bloomfield</name>
+            <Point id="geom_5091">
+                <coordinates>-107.7557235,36.6708248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5268">
+            <name>Japan</name>
+            <Point id="geom_5092">
+                <coordinates>138.252924,36.204824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5269">
+            <name>Indiana</name>
+            <Point id="geom_5093">
+                <coordinates>-86.258278,39.849426,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5270">
+            <name>Colorado</name>
+            <Point id="geom_5094">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5271">
+            <name>Sweetwater</name>
+            <Point id="geom_5095">
+                <coordinates>-109.3660741,36.7526595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5272">
+            <name>Bremerton Washington</name>
+            <Point id="geom_5096">
+                <coordinates>-122.6326,47.5673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5273">
+            <name>Grand Canyon</name>
+            <Point id="geom_5097">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5274">
+            <name>Shiprock</name>
+            <Point id="geom_5098">
+                <coordinates>-108.6870322,36.7855543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5275">
+            <name>Farmington</name>
+            <Point id="geom_5099">
+                <coordinates>-108.2186856,36.7280583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5276">
+            <name>Phoenix</name>
+            <Point id="geom_5100">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5277">
+            <name>Kirtland New Mexico</name>
+            <Point id="geom_5101">
+                <coordinates>-108.3598,36.7342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5278">
+            <name>Beclahbeto</name>
+            <Point id="geom_5102">
+                <coordinates>0,0,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5279">
+            <name>Aneth</name>
+            <Point id="geom_5103">
+                <coordinates>-109.187057,37.216108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5280">
+            <name>Wyoming</name>
+            <Point id="geom_5104">
+                <coordinates>-107.302490,42.755966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5281">
+            <name>Durango</name>
+            <Point id="geom_5105">
+                <coordinates>-104.6576,24.0203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5282">
+            <name>Dennehotso</name>
+            <Point id="geom_5106">
+                <coordinates>-109.8465046,36.8458351,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5283">
+            <name>China</name>
+            <Point id="geom_5107">
+                <coordinates>104.195397,35.86166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5284">
+            <name>San Diego California</name>
+            <Point id="geom_5108">
+                <coordinates>-117.1573,32.7153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5285">
+            <name>Flagstaff</name>
+            <Point id="geom_5109">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5286">
+            <name>Cuba</name>
+            <Point id="geom_5110">
+                <coordinates>-77.781167,21.521757,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
