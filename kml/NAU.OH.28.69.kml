@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1424">
+        <Placemark id="feat_1425">
+            <name>Virginia</name>
+            <Point id="geom_1368">
+                <coordinates>-78.169968,37.769337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1426">
+            <name>France</name>
+            <Point id="geom_1369">
+                <coordinates>2.213749,46.227638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1427">
+            <name>Phoenix</name>
+            <Point id="geom_1370">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1428">
+            <name>Germany</name>
+            <Point id="geom_1371">
+                <coordinates>10.451526,51.165691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1429">
+            <name>Pearl Harbor</name>
+            <Point id="geom_1372">
+                <coordinates>-157.9774,21.3448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1430">
+            <name>Bumble Bee Arizona</name>
+            <Point id="geom_1373">
+                <coordinates>-112.1529,34.2009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1431">
+            <name>San Diego</name>
+            <Point id="geom_1374">
+                <coordinates>-117.1573,32.7153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1432">
+            <name>United States</name>
+            <Point id="geom_1375">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1433">
+            <name>Winslow</name>
+            <Point id="geom_1376">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1434">
+            <name>Snowflake</name>
+            <Point id="geom_1377">
+                <coordinates>-110.0784491,34.5133698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1435">
+            <name>Tuba</name>
+            <Point id="geom_1378">
+                <coordinates>-15.8833,14.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1436">
+            <name>Utah</name>
+            <Point id="geom_1379">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1437">
+            <name>US</name>
+            <Point id="geom_1380">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1438">
+            <name>Bessemer Michigan</name>
+            <Point id="geom_1381">
+                <coordinates>-90.0529,46.4813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1439">
+            <name>Arizona</name>
+            <Point id="geom_1382">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1440">
+            <name>Lees Ferry</name>
+            <Point id="geom_1383">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1441">
+            <name>Grand Canyon</name>
+            <Point id="geom_1384">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1442">
+            <name>Oak Creek</name>
+            <Point id="geom_1385">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1443">
+            <name>Denver</name>
+            <Point id="geom_1386">
+                <coordinates>-104.9847,39.7392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1444">
+            <name>Texas</name>
+            <Point id="geom_1387">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1445">
+            <name>Williams</name>
+            <Point id="geom_1388">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1446">
+            <name>Los Angeles</name>
+            <Point id="geom_1389">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1447">
+            <name>Louisiana</name>
+            <Point id="geom_1390">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1448">
+            <name>Richfield Utah</name>
+            <Point id="geom_1391">
+                <coordinates>-112.0841,38.7725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1449">
+            <name>Oak Creek Canyon</name>
+            <Point id="geom_1392">
+                <coordinates>-111.7268235,34.9125169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1450">
+            <name>Albuquerque New Mexico</name>
+            <Point id="geom_1393">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1451">
+            <name>Bumble Bee</name>
+            <Point id="geom_1394">
+                <coordinates>-112.1529372,34.2008645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1452">
+            <name>Pine</name>
+            <Point id="geom_1395">
+                <coordinates>-111.660216,41.7688214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1453">
+            <name>Flagstaff</name>
+            <Point id="geom_1396">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

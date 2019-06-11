@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_393">
+        <Placemark id="feat_394">
+            <name>Tuba City</name>
+            <Point id="geom_377">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_395">
+            <name>Winslow</name>
+            <Point id="geom_378">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_396">
+            <name>Walnut Canyon</name>
+            <Point id="geom_379">
+                <coordinates>-109.3506193,31.5295427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_397">
+            <name>Washington DC</name>
+            <Point id="geom_380">
+                <coordinates>-77.0364,38.8951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_398">
+            <name>Needles</name>
+            <Point id="geom_381">
+                <coordinates>-107.613636,32.1262025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_399">
+            <name>Alaska</name>
+            <Point id="geom_382">
+                <coordinates>-152.404419,61.370716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_400">
+            <name>Moenkopi</name>
+            <Point id="geom_383">
+                <coordinates>-111.2223624,36.1111043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_401">
+            <name>Coconino County</name>
+            <Point id="geom_384">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_402">
+            <name>Grand Canyon</name>
+            <Point id="geom_385">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_403">
+            <name>Oak Creek</name>
+            <Point id="geom_386">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_404">
+            <name>Camp Verde</name>
+            <Point id="geom_387">
+                <coordinates>-111.8614523,34.5652435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_405">
+            <name>Ash Fork</name>
+            <Point id="geom_388">
+                <coordinates>-112.4840675,35.2250114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_406">
+            <name>Phoenix</name>
+            <Point id="geom_389">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_407">
+            <name>Berlin Germany</name>
+            <Point id="geom_390">
+                <coordinates>13.4105,52.5244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_408">
+            <name>Williams</name>
+            <Point id="geom_391">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_409">
+            <name>Lake Montezuma</name>
+            <Point id="geom_392">
+                <coordinates>-111.7779282,34.6322449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_410">
+            <name>Pearl Harbor</name>
+            <Point id="geom_393">
+                <coordinates>-157.9774,21.3448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_411">
+            <name>Albuquerque New Mexico</name>
+            <Point id="geom_394">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_412">
+            <name>Sun City</name>
+            <Point id="geom_395">
+                <coordinates>-122.4443,47.2529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_413">
+            <name>Vail</name>
+            <Point id="geom_396">
+                <coordinates>-110.7120272,32.0478583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_414">
+            <name>California</name>
+            <Point id="geom_397">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_415">
+            <name>Flagstaff</name>
+            <Point id="geom_398">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

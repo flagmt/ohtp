@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1288">
+        <Placemark id="feat_1289">
+            <name>Winslow</name>
+            <Point id="geom_1238">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1290">
+            <name>Louisiana</name>
+            <Point id="geom_1239">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1291">
+            <name>Phoenix</name>
+            <Point id="geom_1240">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1292">
+            <name>New York</name>
+            <Point id="geom_1241">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1293">
+            <name>Blythe</name>
+            <Point id="geom_1242">
+                <coordinates>-1.5086,55.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1294">
+            <name>Spain</name>
+            <Point id="geom_1243">
+                <coordinates>-3.74922,40.463667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1295">
+            <name>United States</name>
+            <Point id="geom_1244">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1296">
+            <name>Happy Jack</name>
+            <Point id="geom_1245">
+                <coordinates>-111.4073685,34.7433546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1297">
+            <name>Los Angeles</name>
+            <Point id="geom_1246">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1298">
+            <name>Flagstaff</name>
+            <Point id="geom_1247">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

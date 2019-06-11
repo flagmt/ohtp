@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1183">
+        <Placemark id="feat_1184">
+            <name>Miami</name>
+            <Point id="geom_1137">
+                <coordinates>-80.1937,25.7743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1185">
+            <name>Miami Arizona</name>
+            <Point id="geom_1138">
+                <coordinates>-110.8687,33.3992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1186">
+            <name>Bellemont</name>
+            <Point id="geom_1139">
+                <coordinates>-111.8334974,35.2380657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1187">
+            <name>Phoenix</name>
+            <Point id="geom_1140">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1188">
+            <name>Mississippi</name>
+            <Point id="geom_1141">
+                <coordinates>-89.678696,32.741646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1189">
+            <name>South America</name>
+            <Point id="geom_1142">
+                <coordinates>-57.6563,-14.6049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1190">
+            <name>Glendale</name>
+            <Point id="geom_1143">
+                <coordinates>-112.186,33.5386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1191">
+            <name>Arkansas</name>
+            <Point id="geom_1144">
+                <coordinates>-92.373123,34.969704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1192">
+            <name>Joplin Missouri</name>
+            <Point id="geom_1145">
+                <coordinates>-94.5133,37.0842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1193">
+            <name>Boston</name>
+            <Point id="geom_1146">
+                <coordinates>-71.0598,42.3584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1194">
+            <name>Cloudcroft New Mexico</name>
+            <Point id="geom_1147">
+                <coordinates>-105.7425,32.9573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1195">
+            <name>Coconino County</name>
+            <Point id="geom_1148">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1196">
+            <name>California</name>
+            <Point id="geom_1149">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1197">
+            <name>Arizona</name>
+            <Point id="geom_1150">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1198">
+            <name>Flagstaff</name>
+            <Point id="geom_1151">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

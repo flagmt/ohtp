@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_447">
+        <Placemark id="feat_448">
+            <name>Phoenix</name>
+            <Point id="geom_428">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_449">
+            <name>Sedona</name>
+            <Point id="geom_429">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_450">
+            <name>Winslow</name>
+            <Point id="geom_430">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_451">
+            <name>Walnut Canyon</name>
+            <Point id="geom_431">
+                <coordinates>-109.3506193,31.5295427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_452">
+            <name>Fredonia</name>
+            <Point id="geom_432">
+                <coordinates>-112.5265889,36.945542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_453">
+            <name>Colorado</name>
+            <Point id="geom_433">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_454">
+            <name>Kansas</name>
+            <Point id="geom_434">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_455">
+            <name>Lees Ferry</name>
+            <Point id="geom_435">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_456">
+            <name>Galt Ontario</name>
+            <Point id="geom_436">
+                <coordinates>-80.3106,43.3558,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_457">
+            <name>Dodge City</name>
+            <Point id="geom_437">
+                <coordinates>-100.0171,37.7528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_458">
+            <name>Grand Canyon</name>
+            <Point id="geom_438">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_459">
+            <name>New York</name>
+            <Point id="geom_439">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_460">
+            <name>Illinois</name>
+            <Point id="geom_440">
+                <coordinates>-88.986137,40.349457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_461">
+            <name>Idaho</name>
+            <Point id="geom_441">
+                <coordinates>-114.478828,44.240459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_462">
+            <name>Williams</name>
+            <Point id="geom_442">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_463">
+            <name>Kansas City</name>
+            <Point id="geom_443">
+                <coordinates>-94.5786,39.0997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_464">
+            <name>Washington</name>
+            <Point id="geom_444">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_465">
+            <name>Winona</name>
+            <Point id="geom_445">
+                <coordinates>-111.4082096,35.2050122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_466">
+            <name>Canyon Diablo</name>
+            <Point id="geom_446">
+                <coordinates>-111.117644,35.1627902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_467">
+            <name>Dodge City Kansas</name>
+            <Point id="geom_447">
+                <coordinates>-100.0171,37.7528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_468">
+            <name>Carefree</name>
+            <Point id="geom_448">
+                <coordinates>-111.918203,33.8222611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_469">
+            <name>Flagstaff</name>
+            <Point id="geom_449">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_470">
+            <name>Holbrook</name>
+            <Point id="geom_450">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

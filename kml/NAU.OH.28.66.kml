@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1372">
+        <Placemark id="feat_1373">
+            <name>Morenci Arizona</name>
+            <Point id="geom_1318">
+                <coordinates>-109.3654,33.0787,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1374">
+            <name>United States</name>
+            <Point id="geom_1319">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1375">
+            <name>Grand Canyon</name>
+            <Point id="geom_1320">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1376">
+            <name>Oak Creek</name>
+            <Point id="geom_1321">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1377">
+            <name>Hermosa Beach California</name>
+            <Point id="geom_1322">
+                <coordinates>-118.3995,33.8622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1378">
+            <name>Phoenix</name>
+            <Point id="geom_1323">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1379">
+            <name>Morenci</name>
+            <Point id="geom_1324">
+                <coordinates>-109.3653514,33.0786735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1380">
+            <name>Kansas City</name>
+            <Point id="geom_1325">
+                <coordinates>-94.5786,39.0997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1381">
+            <name>Leupp</name>
+            <Point id="geom_1326">
+                <coordinates>-111.0062528,35.2980659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1382">
+            <name>Sedona</name>
+            <Point id="geom_1327">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1383">
+            <name>Las Vegas</name>
+            <Point id="geom_1328">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1384">
+            <name>Coconino County</name>
+            <Point id="geom_1329">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1385">
+            <name>California</name>
+            <Point id="geom_1330">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1386">
+            <name>Arizona</name>
+            <Point id="geom_1331">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1387">
+            <name>Flagstaff</name>
+            <Point id="geom_1332">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_342">
+        <Placemark id="feat_343">
+            <name>France</name>
+            <Point id="geom_328">
+                <coordinates>2.213749,46.227638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_344">
+            <name>Coconino County</name>
+            <Point id="geom_329">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_345">
+            <name>San Francisco Peaks</name>
+            <Point id="geom_330">
+                <coordinates>-111.6943275,35.3530637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_346">
+            <name>Oak Creek</name>
+            <Point id="geom_331">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_347">
+            <name>Albuquerque</name>
+            <Point id="geom_332">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_348">
+            <name>Cincinnati Ohio</name>
+            <Point id="geom_333">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_349">
+            <name>Africa</name>
+            <Point id="geom_334">
+                <coordinates>21.0938,7.1881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_350">
+            <name>Kansas City</name>
+            <Point id="geom_335">
+                <coordinates>-94.5786,39.0997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_351">
+            <name>Winslow</name>
+            <Point id="geom_336">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_352">
+            <name>Little Springs</name>
+            <Point id="geom_337">
+                <coordinates>-110.7662379,34.4542031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_353">
+            <name>Cincinnati</name>
+            <Point id="geom_338">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_354">
+            <name>Nebraska</name>
+            <Point id="geom_339">
+                <coordinates>-98.268082,41.125370,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_355">
+            <name>Cameron</name>
+            <Point id="geom_340">
+                <coordinates>-111.4129207,35.8758285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_356">
+            <name>Saint Louis</name>
+            <Point id="geom_341">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_357">
+            <name>Bellemont</name>
+            <Point id="geom_342">
+                <coordinates>-111.8334974,35.2380657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_358">
+            <name>Canyon Diablo</name>
+            <Point id="geom_343">
+                <coordinates>-111.117644,35.1627902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_359">
+            <name>Grand Canyon</name>
+            <Point id="geom_344">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_360">
+            <name>El Paso</name>
+            <Point id="geom_345">
+                <coordinates>-106.4869,31.7587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_361">
+            <name>Kansas</name>
+            <Point id="geom_346">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_362">
+            <name>Arizona</name>
+            <Point id="geom_347">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_363">
+            <name>Flagstaff</name>
+            <Point id="geom_348">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

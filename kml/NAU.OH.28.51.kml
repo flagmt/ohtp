@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1012">
+        <Placemark id="feat_1013">
+            <name>Albuquerque</name>
+            <Point id="geom_972">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1014">
+            <name>Dayton Ohio</name>
+            <Point id="geom_973">
+                <coordinates>-84.1916,39.7589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1015">
+            <name>Ireland</name>
+            <Point id="geom_974">
+                <coordinates>-8.24389,53.41291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1016">
+            <name>Tucson</name>
+            <Point id="geom_975">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1017">
+            <name>Mexico</name>
+            <Point id="geom_976">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1018">
+            <name>United States</name>
+            <Point id="geom_977">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1019">
+            <name>Sedona</name>
+            <Point id="geom_978">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1020">
+            <name>Winslow</name>
+            <Point id="geom_979">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1021">
+            <name>Chicago</name>
+            <Point id="geom_980">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1022">
+            <name>Cottonwood</name>
+            <Point id="geom_981">
+                <coordinates>-111.8068773,40.6616142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1023">
+            <name>Arizona</name>
+            <Point id="geom_982">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1024">
+            <name>McNary</name>
+            <Point id="geom_983">
+                <coordinates>-109.8570472,34.0736564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1025">
+            <name>Oak Creek</name>
+            <Point id="geom_984">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1026">
+            <name>Phoenix</name>
+            <Point id="geom_985">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1027">
+            <name>Williams</name>
+            <Point id="geom_986">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1028">
+            <name>Louisiana</name>
+            <Point id="geom_987">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1029">
+            <name>Mexico City</name>
+            <Point id="geom_988">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1030">
+            <name>Maine</name>
+            <Point id="geom_989">
+                <coordinates>-69.381927,44.693947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1031">
+            <name>Leavenworth Kansas</name>
+            <Point id="geom_990">
+                <coordinates>-94.9225,39.3111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1032">
+            <name>McNary Arizona</name>
+            <Point id="geom_991">
+                <coordinates>-109.8571,34.0737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1033">
+            <name>Prescott</name>
+            <Point id="geom_992">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1034">
+            <name>Flagstaff</name>
+            <Point id="geom_993">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

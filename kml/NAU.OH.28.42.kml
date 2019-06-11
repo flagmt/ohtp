@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_685">
+        <Placemark id="feat_686">
+            <name>Albuquerque</name>
+            <Point id="geom_655">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_687">
+            <name>Greeley Colorado</name>
+            <Point id="geom_656">
+                <coordinates>-104.7091,40.4233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_688">
+            <name>Phoenix</name>
+            <Point id="geom_657">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_689">
+            <name>Salt Lake</name>
+            <Point id="geom_658">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_690">
+            <name>Snowflake</name>
+            <Point id="geom_659">
+                <coordinates>-110.0784491,34.5133698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_691">
+            <name>Greeley</name>
+            <Point id="geom_660">
+                <coordinates>-104.7091,40.4233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_692">
+            <name>Sedona</name>
+            <Point id="geom_661">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_693">
+            <name>Saint Johns</name>
+            <Point id="geom_662">
+                <coordinates>-111.4020811,34.1425366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_694">
+            <name>Winslow</name>
+            <Point id="geom_663">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_695">
+            <name>Verde River</name>
+            <Point id="geom_664">
+                <coordinates>-111.8709853,34.582802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_696">
+            <name>Oak Creek Canyon</name>
+            <Point id="geom_665">
+                <coordinates>-111.7268235,34.9125169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_697">
+            <name>Tempe</name>
+            <Point id="geom_666">
+                <coordinates>-111.9093,33.4148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_698">
+            <name>Little Springs</name>
+            <Point id="geom_667">
+                <coordinates>-110.7662379,34.4542031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_699">
+            <name>Walnut Canyon</name>
+            <Point id="geom_668">
+                <coordinates>-109.3506193,31.5295427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_700">
+            <name>Colorado</name>
+            <Point id="geom_669">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_701">
+            <name>Coconino County</name>
+            <Point id="geom_670">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_702">
+            <name>Jerome</name>
+            <Point id="geom_671">
+                <coordinates>-112.1137716,34.7489107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_703">
+            <name>Arizona</name>
+            <Point id="geom_672">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_704">
+            <name>Leupp</name>
+            <Point id="geom_673">
+                <coordinates>-111.0062528,35.2980659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_705">
+            <name>Wisconsin</name>
+            <Point id="geom_674">
+                <coordinates>-89.616508,44.268543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_706">
+            <name>Ohio</name>
+            <Point id="geom_675">
+                <coordinates>-82.764915,40.388783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_707">
+            <name>San Francisco Peaks</name>
+            <Point id="geom_676">
+                <coordinates>-111.6943275,35.3530637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_708">
+            <name>Hillsdale Wyoming</name>
+            <Point id="geom_677">
+                <coordinates>-104.4775,41.2128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_709">
+            <name>Illinois</name>
+            <Point id="geom_678">
+                <coordinates>-88.986137,40.349457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_710">
+            <name>La Junta Colorado</name>
+            <Point id="geom_679">
+                <coordinates>-103.5438,37.985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_711">
+            <name>Williams</name>
+            <Point id="geom_680">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_712">
+            <name>Kingman</name>
+            <Point id="geom_681">
+                <coordinates>-114.0326559,35.1963425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_713">
+            <name>Boulder</name>
+            <Point id="geom_682">
+                <coordinates>-105.2706,40.015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_714">
+            <name>Alta Utah</name>
+            <Point id="geom_683">
+                <coordinates>-111.638,40.5888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_715">
+            <name>Flagstaff</name>
+            <Point id="geom_684">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_716">
+            <name>Clarkdale</name>
+            <Point id="geom_685">
+                <coordinates>-112.0579367,34.7711319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_717">
+            <name>Prescott</name>
+            <Point id="geom_686">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_718">
+            <name>Holbrook</name>
+            <Point id="geom_687">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

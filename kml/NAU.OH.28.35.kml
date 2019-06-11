@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_569">
+        <Placemark id="feat_570">
+            <name>Tucson</name>
+            <Point id="geom_545">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_571">
+            <name>Mohave County</name>
+            <Point id="geom_546">
+                <coordinates>-113.749689 ,35.717705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_572">
+            <name>Mormon Lake</name>
+            <Point id="geom_547">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_573">
+            <name>Oak Creek</name>
+            <Point id="geom_548">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_574">
+            <name>Page</name>
+            <Point id="geom_549">
+                <coordinates>-111.8934886,34.7675199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_575">
+            <name>Phoenix</name>
+            <Point id="geom_550">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_576">
+            <name>Berlin Germany</name>
+            <Point id="geom_551">
+                <coordinates>13.4105,52.5244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_577">
+            <name>Tuba City</name>
+            <Point id="geom_552">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_578">
+            <name>California</name>
+            <Point id="geom_553">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_579">
+            <name>United States</name>
+            <Point id="geom_554">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_580">
+            <name>Cameron</name>
+            <Point id="geom_555">
+                <coordinates>-111.4129207,35.8758285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_581">
+            <name>Coconino County</name>
+            <Point id="geom_556">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_582">
+            <name>Utah</name>
+            <Point id="geom_557">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_583">
+            <name>Verde Valley</name>
+            <Point id="geom_558">
+                <coordinates>-112.0462699,34.7839093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_584">
+            <name>Fredonia</name>
+            <Point id="geom_559">
+                <coordinates>-112.5265889,36.945542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_585">
+            <name>Washington</name>
+            <Point id="geom_560">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_586">
+            <name>Alaska</name>
+            <Point id="geom_561">
+                <coordinates>-152.404419,61.370716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_587">
+            <name>Cottonwood</name>
+            <Point id="geom_562">
+                <coordinates>-111.8068773,40.6616142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_588">
+            <name>Flagstaff Arizona</name>
+            <Point id="geom_563">
+                <coordinates>-111.6513,35.1981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_589">
+            <name>Arizona</name>
+            <Point id="geom_564">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_590">
+            <name>Flagstaff</name>
+            <Point id="geom_565">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

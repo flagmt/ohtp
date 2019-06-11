@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1210">
+        <Placemark id="feat_1211">
+            <name>Munds Park</name>
+            <Point id="geom_1162">
+                <coordinates>-111.6401551,34.945574,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1212">
+            <name>Pine</name>
+            <Point id="geom_1163">
+                <coordinates>-111.660216,41.7688214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1213">
+            <name>Verde Valley</name>
+            <Point id="geom_1164">
+                <coordinates>-112.0462699,34.7839093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1214">
+            <name>Walker Creek</name>
+            <Point id="geom_1165">
+                <coordinates>-111.7326498,34.6497444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1215">
+            <name>Beaver Canyon</name>
+            <Point id="geom_1166">
+                <coordinates>-107.1658614,33.1664613,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1216">
+            <name>Mogollon Rim</name>
+            <Point id="geom_1167">
+                <coordinates>-111.5984772,34.2503104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1217">
+            <name>Cuba</name>
+            <Point id="geom_1168">
+                <coordinates>-77.781167,21.521757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1218">
+            <name>Camp Verde Arizona</name>
+            <Point id="geom_1169">
+                <coordinates>-111.8543,34.5636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1219">
+            <name>Cottonwood</name>
+            <Point id="geom_1170">
+                <coordinates>-111.8068773,40.6616142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1220">
+            <name>Flagstaff Arizona</name>
+            <Point id="geom_1171">
+                <coordinates>-111.6513,35.1981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1221">
+            <name>Arizona</name>
+            <Point id="geom_1172">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1222">
+            <name>Clear Creek</name>
+            <Point id="geom_1173">
+                <coordinates>-112.3518757,38.5763607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1223">
+            <name>Payson</name>
+            <Point id="geom_1174">
+                <coordinates>-111.3251355,34.2308684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1224">
+            <name>Grand Canyon</name>
+            <Point id="geom_1175">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1225">
+            <name>Flagstaff</name>
+            <Point id="geom_1176">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1226">
+            <name>Oak Creek</name>
+            <Point id="geom_1177">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1227">
+            <name>Camp Verde</name>
+            <Point id="geom_1178">
+                <coordinates>-111.8614523,34.5652435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1228">
+            <name>Phoenix</name>
+            <Point id="geom_1179">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1229">
+            <name>Texas</name>
+            <Point id="geom_1180">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1230">
+            <name>Kachina Village</name>
+            <Point id="geom_1181">
+                <coordinates>-111.6926602,35.0969581,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1231">
+            <name>Springs Creek</name>
+            <Point id="geom_1182">
+                <coordinates>-108.5767469,35.5830772,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1232">
+            <name>New York</name>
+            <Point id="geom_1183">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1233">
+            <name>Hance Springs</name>
+            <Point id="geom_1184">
+                <coordinates>-111.9203492,36.0459215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1234">
+            <name>Haiti</name>
+            <Point id="geom_1185">
+                <coordinates>-72.285215,18.971187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1235">
+            <name>Clarkdale</name>
+            <Point id="geom_1186">
+                <coordinates>-112.0579367,34.7711319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1236">
+            <name>Harris Park</name>
+            <Point id="geom_1187">
+                <coordinates>-105.0372,39.8366,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

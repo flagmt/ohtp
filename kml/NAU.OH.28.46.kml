@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_807">
+        <Placemark id="feat_808">
+            <name>Buckeye</name>
+            <Point id="geom_773">
+                <coordinates>-112.9572478,33.3565165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_809">
+            <name>Michigan</name>
+            <Point id="geom_774">
+                <coordinates>-84.536095,43.326618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_810">
+            <name>Sedona</name>
+            <Point id="geom_775">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_811">
+            <name>Saint Johns</name>
+            <Point id="geom_776">
+                <coordinates>-111.4020811,34.1425366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_812">
+            <name>Plano Illinois</name>
+            <Point id="geom_777">
+                <coordinates>-88.537,41.6628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_813">
+            <name>Tempe</name>
+            <Point id="geom_778">
+                <coordinates>-111.9093,33.4148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_814">
+            <name>Scottsdale</name>
+            <Point id="geom_779">
+                <coordinates>-111.899,33.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_815">
+            <name>Salt River Valley</name>
+            <Point id="geom_780">
+                <coordinates>-112.3129333,33.3811546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_816">
+            <name>Cottonwood</name>
+            <Point id="geom_781">
+                <coordinates>-111.8068773,40.6616142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_817">
+            <name>Concho</name>
+            <Point id="geom_782">
+                <coordinates>-109.6059405,34.4753132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_818">
+            <name>Arizona</name>
+            <Point id="geom_783">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_819">
+            <name>Grand Canyon</name>
+            <Point id="geom_784">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_820">
+            <name>New Mexico</name>
+            <Point id="geom_785">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_821">
+            <name>Phoenix</name>
+            <Point id="geom_786">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_822">
+            <name>Mormon Lake</name>
+            <Point id="geom_787">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_823">
+            <name>Williams</name>
+            <Point id="geom_788">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_824">
+            <name>Missouri</name>
+            <Point id="geom_789">
+                <coordinates>-92.288368,38.456085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_825">
+            <name>Saint Johns AZ</name>
+            <Point id="geom_790">
+                <coordinates>-109.3609,34.5059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_826">
+            <name>Palo Verde</name>
+            <Point id="geom_791">
+                <coordinates>-112.6773908,33.3480976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_827">
+            <name>Sun City</name>
+            <Point id="geom_792">
+                <coordinates>-122.4443,47.2529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_828">
+            <name>Kidder Missouri</name>
+            <Point id="geom_793">
+                <coordinates>-94.1024,39.7803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_829">
+            <name>California</name>
+            <Point id="geom_794">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_830">
+            <name>Yuma</name>
+            <Point id="geom_795">
+                <coordinates>-114.800236,32.5000548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_831">
+            <name>Flagstaff</name>
+            <Point id="geom_796">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

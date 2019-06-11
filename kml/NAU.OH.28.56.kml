@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1167">
+        <Placemark id="feat_1168">
+            <name>France</name>
+            <Point id="geom_1122">
+                <coordinates>2.213749,46.227638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1169">
+            <name>Bellemont</name>
+            <Point id="geom_1123">
+                <coordinates>-111.8334974,35.2380657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1170">
+            <name>Oak Creek</name>
+            <Point id="geom_1124">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1171">
+            <name>Camp Verde</name>
+            <Point id="geom_1125">
+                <coordinates>-111.8614523,34.5652435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1172">
+            <name>Phoenix</name>
+            <Point id="geom_1126">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1173">
+            <name>Vail Colorado</name>
+            <Point id="geom_1127">
+                <coordinates>-106.3742,39.6403,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1174">
+            <name>Lake Montezuma</name>
+            <Point id="geom_1128">
+                <coordinates>-111.7779282,34.6322449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1175">
+            <name>Louisiana</name>
+            <Point id="geom_1129">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1176">
+            <name>Oklahoma City</name>
+            <Point id="geom_1130">
+                <coordinates>-97.5164,35.4676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1177">
+            <name>Oak Creek Canyon</name>
+            <Point id="geom_1131">
+                <coordinates>-111.7268235,34.9125169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1178">
+            <name>Washington DC</name>
+            <Point id="geom_1132">
+                <coordinates>-77.0364,38.8951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1179">
+            <name>Colorado</name>
+            <Point id="geom_1133">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1180">
+            <name>Sun City</name>
+            <Point id="geom_1134">
+                <coordinates>-122.4443,47.2529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1181">
+            <name>Downey California</name>
+            <Point id="geom_1135">
+                <coordinates>-118.1326,33.94,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1182">
+            <name>Flagstaff</name>
+            <Point id="geom_1136">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

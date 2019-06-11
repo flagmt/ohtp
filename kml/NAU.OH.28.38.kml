@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_627">
+        <Placemark id="feat_628">
+            <name>Phoenix</name>
+            <Point id="geom_600">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_629">
+            <name>Tuba City</name>
+            <Point id="geom_601">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_630">
+            <name>Vietnam</name>
+            <Point id="geom_602">
+                <coordinates>108.277199,14.058324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_631">
+            <name>Ash Fork</name>
+            <Point id="geom_603">
+                <coordinates>-112.4840675,35.2250114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_632">
+            <name>Valentine</name>
+            <Point id="geom_604">
+                <coordinates>-113.6577185,35.3874951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_633">
+            <name>Chicago Illinois</name>
+            <Point id="geom_605">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_634">
+            <name>San Diego</name>
+            <Point id="geom_606">
+                <coordinates>-117.1573,32.7153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_635">
+            <name>Williams</name>
+            <Point id="geom_607">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_636">
+            <name>Oakland California</name>
+            <Point id="geom_608">
+                <coordinates>-122.2708,37.8044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_637">
+            <name>Arkansas</name>
+            <Point id="geom_609">
+                <coordinates>-92.373123,34.969704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_638">
+            <name>Chicago</name>
+            <Point id="geom_610">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_639">
+            <name>Pearl Harbor</name>
+            <Point id="geom_611">
+                <coordinates>-157.9774,21.3448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_640">
+            <name>Barstow</name>
+            <Point id="geom_612">
+                <coordinates>-117.0562,34.8697,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_641">
+            <name>United States</name>
+            <Point id="geom_613">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_642">
+            <name>Brigham Utah</name>
+            <Point id="geom_614">
+                <coordinates>-112.0155,41.5102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_643">
+            <name>Korea</name>
+            <Point id="geom_615">
+                <coordinates>127.766922,35.907757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_644">
+            <name>California</name>
+            <Point id="geom_616">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_645">
+            <name>Arizona</name>
+            <Point id="geom_617">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_646">
+            <name>Flagstaff</name>
+            <Point id="geom_618">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

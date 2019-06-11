@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1299">
+        <Placemark id="feat_1300">
+            <name>El Paso Texas</name>
+            <Point id="geom_1248">
+                <coordinates>-106.4869,31.7587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1301">
+            <name>Tuba City</name>
+            <Point id="geom_1249">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1302">
+            <name>Walnut Canyon</name>
+            <Point id="geom_1250">
+                <coordinates>-109.3506193,31.5295427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1303">
+            <name>Panguitch Utah</name>
+            <Point id="geom_1251">
+                <coordinates>-112.4358,37.8228,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1304">
+            <name>Utah</name>
+            <Point id="geom_1252">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1305">
+            <name>Washington DC</name>
+            <Point id="geom_1253">
+                <coordinates>-77.0364,38.8951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1306">
+            <name>Colorado</name>
+            <Point id="geom_1254">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1307">
+            <name>Cottonwood</name>
+            <Point id="geom_1255">
+                <coordinates>-111.8068773,40.6616142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1308">
+            <name>Arizona</name>
+            <Point id="geom_1256">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1309">
+            <name>Bolivia</name>
+            <Point id="geom_1257">
+                <coordinates>-63.588653,-16.290154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1310">
+            <name>Wisconsin</name>
+            <Point id="geom_1258">
+                <coordinates>-89.616508,44.268543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1311">
+            <name>Grand Canyon</name>
+            <Point id="geom_1259">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1312">
+            <name>Oak Creek</name>
+            <Point id="geom_1260">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1313">
+            <name>Rolla Missouri</name>
+            <Point id="geom_1261">
+                <coordinates>-91.7713,37.9514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1314">
+            <name>Phoenix</name>
+            <Point id="geom_1262">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1315">
+            <name>Mormon Lake</name>
+            <Point id="geom_1263">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1316">
+            <name>California</name>
+            <Point id="geom_1264">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1317">
+            <name>Saint Louis Missouri</name>
+            <Point id="geom_1265">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1318">
+            <name>Wupatki</name>
+            <Point id="geom_1266">
+                <coordinates>-111.334592,35.5652799,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1319">
+            <name>Missouri</name>
+            <Point id="geom_1267">
+                <coordinates>-92.288368,38.456085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1320">
+            <name>South Dakota</name>
+            <Point id="geom_1268">
+                <coordinates>-99.438828,44.299782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1321">
+            <name>Flagstaff</name>
+            <Point id="geom_1269">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

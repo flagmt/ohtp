@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_471">
+        <Placemark id="feat_472">
+            <name>Chihuahua</name>
+            <Point id="geom_451">
+                <coordinates>-106.0889,28.6353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_473">
+            <name>United States</name>
+            <Point id="geom_452">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_474">
+            <name>Tempe</name>
+            <Point id="geom_453">
+                <coordinates>-111.9093,33.4148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_475">
+            <name>Jiquilpan Jalisco</name>
+            <Point id="geom_454">
+                <coordinates>-103.7789,19.7789,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_476">
+            <name>Mexico</name>
+            <Point id="geom_455">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_477">
+            <name>Cosnino</name>
+            <Point id="geom_456">
+                <coordinates>-111.474879,35.2055686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_478">
+            <name>San Francisco</name>
+            <Point id="geom_457">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_479">
+            <name>California</name>
+            <Point id="geom_458">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_480">
+            <name>Flagstaff</name>
+            <Point id="geom_459">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

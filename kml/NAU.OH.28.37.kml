@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_608">
+        <Placemark id="feat_609">
+            <name>India</name>
+            <Point id="geom_582">
+                <coordinates>78.96288,20.593684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_610">
+            <name>Kansas</name>
+            <Point id="geom_583">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_611">
+            <name>Las Vegas</name>
+            <Point id="geom_584">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_612">
+            <name>Kansas City Kansas</name>
+            <Point id="geom_585">
+                <coordinates>-94.6275,39.1142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_613">
+            <name>Phoenix</name>
+            <Point id="geom_586">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_614">
+            <name>Europe</name>
+            <Point id="geom_587">
+                <coordinates>7.4268,50.2191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_615">
+            <name>Kansas City</name>
+            <Point id="geom_588">
+                <coordinates>-94.5786,39.0997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_616">
+            <name>South America</name>
+            <Point id="geom_589">
+                <coordinates>-57.6563,-14.6049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_617">
+            <name>Ganado</name>
+            <Point id="geom_590">
+                <coordinates>-109.5420492,35.7114022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_618">
+            <name>Washington</name>
+            <Point id="geom_591">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_619">
+            <name>Saint Louis</name>
+            <Point id="geom_592">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_620">
+            <name>Washington DC</name>
+            <Point id="geom_593">
+                <coordinates>-77.0364,38.8951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_621">
+            <name>Canada</name>
+            <Point id="geom_594">
+                <coordinates>-106.346771,56.130366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_622">
+            <name>California</name>
+            <Point id="geom_595">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_623">
+            <name>Las Vegas Nevada</name>
+            <Point id="geom_596">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_624">
+            <name>Missouri</name>
+            <Point id="geom_597">
+                <coordinates>-92.288368,38.456085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_625">
+            <name>Arizona</name>
+            <Point id="geom_598">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_626">
+            <name>Flagstaff</name>
+            <Point id="geom_599">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1344">
+        <Placemark id="feat_1345">
+            <name>Albuquerque</name>
+            <Point id="geom_1291">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1346">
+            <name>Mountain View California</name>
+            <Point id="geom_1292">
+                <coordinates>-122.0838,37.386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1347">
+            <name>Phoenix</name>
+            <Point id="geom_1293">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1348">
+            <name>Houston</name>
+            <Point id="geom_1294">
+                <coordinates>-95.3633,29.7633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1349">
+            <name>Saint Louis Missouri</name>
+            <Point id="geom_1295">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1350">
+            <name>Oakland California</name>
+            <Point id="geom_1296">
+                <coordinates>-122.2708,37.8044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1351">
+            <name>Oak Creek Canyon</name>
+            <Point id="geom_1297">
+                <coordinates>-111.7268235,34.9125169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1352">
+            <name>Korea</name>
+            <Point id="geom_1298">
+                <coordinates>127.766922,35.907757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1353">
+            <name>Cornville</name>
+            <Point id="geom_1299">
+                <coordinates>-111.9215438,34.7177989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1354">
+            <name>Boston</name>
+            <Point id="geom_1300">
+                <coordinates>-71.0598,42.3584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1355">
+            <name>Oakland</name>
+            <Point id="geom_1301">
+                <coordinates>-122.2708,37.8044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1356">
+            <name>Arizona</name>
+            <Point id="geom_1302">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1357">
+            <name>Jerome</name>
+            <Point id="geom_1303">
+                <coordinates>-112.1137716,34.7489107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1358">
+            <name>Oak Creek</name>
+            <Point id="geom_1304">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1359">
+            <name>Ash Fork</name>
+            <Point id="geom_1305">
+                <coordinates>-112.4840675,35.2250114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1360">
+            <name>Williams Arizona</name>
+            <Point id="geom_1306">
+                <coordinates>-112.191,35.2495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1361">
+            <name>Denver</name>
+            <Point id="geom_1307">
+                <coordinates>-104.9847,39.7392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1362">
+            <name>Williams</name>
+            <Point id="geom_1308">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1363">
+            <name>Los Angeles</name>
+            <Point id="geom_1309">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1364">
+            <name>Wickenburg</name>
+            <Point id="geom_1310">
+                <coordinates>-112.729622,33.9686412,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1365">
+            <name>Saint Louis</name>
+            <Point id="geom_1311">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1366">
+            <name>San Francisco</name>
+            <Point id="geom_1312">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1367">
+            <name>New Mexico</name>
+            <Point id="geom_1313">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1368">
+            <name>Sun City Arizona</name>
+            <Point id="geom_1314">
+                <coordinates>-112.2718,33.5975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1369">
+            <name>Missouri</name>
+            <Point id="geom_1315">
+                <coordinates>-92.288368,38.456085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1370">
+            <name>Prescott</name>
+            <Point id="geom_1316">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1371">
+            <name>Flagstaff</name>
+            <Point id="geom_1317">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

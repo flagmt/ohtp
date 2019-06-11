@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1388">
+        <Placemark id="feat_1389">
+            <name>Medford Oregon</name>
+            <Point id="geom_1333">
+                <coordinates>-122.8756,42.3265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1390">
+            <name>Florida</name>
+            <Point id="geom_1334">
+                <coordinates>-81.686783,27.766279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1391">
+            <name>Chama New Mexico</name>
+            <Point id="geom_1335">
+                <coordinates>-106.5795,36.9031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1392">
+            <name>Bellemont</name>
+            <Point id="geom_1336">
+                <coordinates>-111.8334974,35.2380657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1393">
+            <name>Saint George</name>
+            <Point id="geom_1337">
+                <coordinates>-13.2299,8.484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1394">
+            <name>Walnut Canyon</name>
+            <Point id="geom_1338">
+                <coordinates>-109.3506193,31.5295427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1395">
+            <name>Dulce New Mexico</name>
+            <Point id="geom_1339">
+                <coordinates>-106.9989,36.9336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1396">
+            <name>Kachina Village</name>
+            <Point id="geom_1340">
+                <coordinates>-111.6926602,35.0969581,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1397">
+            <name>Loyalton California</name>
+            <Point id="geom_1341">
+                <coordinates>-120.241,39.6763,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1398">
+            <name>Williams</name>
+            <Point id="geom_1342">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1399">
+            <name>Durango Colorado</name>
+            <Point id="geom_1343">
+                <coordinates>-107.8801,37.2753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1400">
+            <name>Colorado</name>
+            <Point id="geom_1344">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1401">
+            <name>US</name>
+            <Point id="geom_1345">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1402">
+            <name>Long Valley</name>
+            <Point id="geom_1346">
+                <coordinates>-111.3295833,34.5208594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1403">
+            <name>Happy Jack</name>
+            <Point id="geom_1347">
+                <coordinates>-111.4073685,34.7433546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1404">
+            <name>Arizona</name>
+            <Point id="geom_1348">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1405">
+            <name>Costa Mesa California</name>
+            <Point id="geom_1349">
+                <coordinates>-117.9187,33.6411,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1406">
+            <name>Winslow</name>
+            <Point id="geom_1350">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1407">
+            <name>Alaska</name>
+            <Point id="geom_1351">
+                <coordinates>-152.404419,61.370716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1408">
+            <name>Grand Canyon</name>
+            <Point id="geom_1352">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1409">
+            <name>Oak Creek</name>
+            <Point id="geom_1353">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1410">
+            <name>New Mexico</name>
+            <Point id="geom_1354">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1411">
+            <name>Phoenix</name>
+            <Point id="geom_1355">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1412">
+            <name>Mormon Lake</name>
+            <Point id="geom_1356">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1413">
+            <name>Chicago</name>
+            <Point id="geom_1357">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1414">
+            <name>Los Angeles</name>
+            <Point id="geom_1358">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1415">
+            <name>Louisiana</name>
+            <Point id="geom_1359">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1416">
+            <name>Pagosa Springs Colorado</name>
+            <Point id="geom_1360">
+                <coordinates>-107.0098,37.2694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1417">
+            <name>Mesa</name>
+            <Point id="geom_1361">
+                <coordinates>6.1727,49.1191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1418">
+            <name>Salt Lake City</name>
+            <Point id="geom_1362">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1419">
+            <name>Drake</name>
+            <Point id="geom_1363">
+                <coordinates>-112.376282,34.9814072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1420">
+            <name>Saint George Utah</name>
+            <Point id="geom_1364">
+                <coordinates>-113.5841,37.1041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1421">
+            <name>Mesa Arizona</name>
+            <Point id="geom_1365">
+                <coordinates>-111.8226,33.4223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1422">
+            <name>California</name>
+            <Point id="geom_1366">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1423">
+            <name>Flagstaff</name>
+            <Point id="geom_1367">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

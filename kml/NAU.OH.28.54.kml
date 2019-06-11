@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1112">
+        <Placemark id="feat_1113">
+            <name>Mayer</name>
+            <Point id="geom_1069">
+                <coordinates>-112.2362734,34.3978054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1114">
+            <name>France</name>
+            <Point id="geom_1070">
+                <coordinates>2.213749,46.227638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1115">
+            <name>Utah</name>
+            <Point id="geom_1071">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1116">
+            <name>Denver</name>
+            <Point id="geom_1072">
+                <coordinates>-104.9847,39.7392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1117">
+            <name>Tuba City</name>
+            <Point id="geom_1073">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1118">
+            <name>Holbrook</name>
+            <Point id="geom_1074">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1119">
+            <name>Munds Park</name>
+            <Point id="geom_1075">
+                <coordinates>-111.6401551,34.945574,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1120">
+            <name>Richfield Utah</name>
+            <Point id="geom_1076">
+                <coordinates>-112.0841,38.7725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1121">
+            <name>Black Canyon City</name>
+            <Point id="geom_1077">
+                <coordinates>-112.1507149,34.0708665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1122">
+            <name>House Rock Valley</name>
+            <Point id="geom_1078">
+                <coordinates>-111.7418298,36.6738757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1123">
+            <name>Cleveland Ohio</name>
+            <Point id="geom_1079">
+                <coordinates>-81.6954,41.4995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1124">
+            <name>McNary</name>
+            <Point id="geom_1080">
+                <coordinates>-109.8570472,34.0736564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1125">
+            <name>Little Springs</name>
+            <Point id="geom_1081">
+                <coordinates>-110.7662379,34.4542031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1126">
+            <name>Glendale Arizona</name>
+            <Point id="geom_1082">
+                <coordinates>-112.186,33.5386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1127">
+            <name>Jacob Lake</name>
+            <Point id="geom_1083">
+                <coordinates>-112.2162896,36.7133235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1128">
+            <name>Fredonia</name>
+            <Point id="geom_1084">
+                <coordinates>-112.5265889,36.945542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1129">
+            <name>Colorado</name>
+            <Point id="geom_1085">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1130">
+            <name>Los Angeles</name>
+            <Point id="geom_1086">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1131">
+            <name>Cottonwood Arizona</name>
+            <Point id="geom_1087">
+                <coordinates>-112.0099,34.7392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1132">
+            <name>Flagstaff Arizona</name>
+            <Point id="geom_1088">
+                <coordinates>-111.6513,35.1981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1133">
+            <name>Arizona</name>
+            <Point id="geom_1089">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1134">
+            <name>Missouri</name>
+            <Point id="geom_1090">
+                <coordinates>-92.288368,38.456085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1135">
+            <name>Lees Ferry</name>
+            <Point id="geom_1091">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1136">
+            <name>Dodge City</name>
+            <Point id="geom_1092">
+                <coordinates>-100.0171,37.7528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1137">
+            <name>New River</name>
+            <Point id="geom_1093">
+                <coordinates>-122.6762,45.5234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1138">
+            <name>West Virginia</name>
+            <Point id="geom_1094">
+                <coordinates>-80.954453,38.491226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1139">
+            <name>Williams Arizona</name>
+            <Point id="geom_1095">
+                <coordinates>-112.191,35.2495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1140">
+            <name>Phoenix</name>
+            <Point id="geom_1096">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1141">
+            <name>McNary Arizona</name>
+            <Point id="geom_1097">
+                <coordinates>-109.8571,34.0737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1142">
+            <name>Camp Verde</name>
+            <Point id="geom_1098">
+                <coordinates>-111.8614523,34.5652435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1143">
+            <name>Kansas</name>
+            <Point id="geom_1099">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1144">
+            <name>Louisiana</name>
+            <Point id="geom_1100">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1145">
+            <name>Charleston</name>
+            <Point id="geom_1101">
+                <coordinates>-79.9309,32.7766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1146">
+            <name>Mount Pleasant Utah</name>
+            <Point id="geom_1102">
+                <coordinates>-111.4555,39.5469,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1147">
+            <name>Massachusetts</name>
+            <Point id="geom_1103">
+                <coordinates>-71.530106,42.230171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1148">
+            <name>Bumble Bee</name>
+            <Point id="geom_1104">
+                <coordinates>-112.1529372,34.2008645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1149">
+            <name>Flagstaff</name>
+            <Point id="geom_1105">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1150">
+            <name>Sun City Arizona</name>
+            <Point id="geom_1106">
+                <coordinates>-112.2718,33.5975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1151">
+            <name>Prescott</name>
+            <Point id="geom_1107">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1152">
+            <name>Cameron</name>
+            <Point id="geom_1108">
+                <coordinates>-111.4129207,35.8758285,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

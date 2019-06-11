@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_770">
+        <Placemark id="feat_771">
+            <name>Albuquerque</name>
+            <Point id="geom_737">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_772">
+            <name>Watertown New York</name>
+            <Point id="geom_738">
+                <coordinates>-75.9108,43.9748,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_773">
+            <name>Keams Canyon</name>
+            <Point id="geom_739">
+                <coordinates>-110.1951253,35.812506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_774">
+            <name>London England</name>
+            <Point id="geom_740">
+                <coordinates>-72.0759,41.5243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_775">
+            <name>United States</name>
+            <Point id="geom_741">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_776">
+            <name>Needles</name>
+            <Point id="geom_742">
+                <coordinates>-107.613636,32.1262025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_777">
+            <name>New York</name>
+            <Point id="geom_743">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_778">
+            <name>Winslow</name>
+            <Point id="geom_744">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_779">
+            <name>Burbank California</name>
+            <Point id="geom_745">
+                <coordinates>-118.309,34.1808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_780">
+            <name>Austria</name>
+            <Point id="geom_746">
+                <coordinates>14.550072,47.516231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_781">
+            <name>Oak Creek Canyon</name>
+            <Point id="geom_747">
+                <coordinates>-111.7268235,34.9125169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_782">
+            <name>Tempe</name>
+            <Point id="geom_748">
+                <coordinates>-111.9093,33.4148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_783">
+            <name>Navajo County</name>
+            <Point id="geom_749">
+                <coordinates>-110.320908 ,35.390934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_784">
+            <name>Long Valley</name>
+            <Point id="geom_750">
+                <coordinates>-111.3295833,34.5208594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_785">
+            <name>Ganado Trading Post</name>
+            <Point id="geom_751">
+                <coordinates>-109.542327,35.7108466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_786">
+            <name>San Francisco Peaks</name>
+            <Point id="geom_752">
+                <coordinates>-111.6943275,35.3530637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_787">
+            <name>Coconino County</name>
+            <Point id="geom_753">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_788">
+            <name>Jerome</name>
+            <Point id="geom_754">
+                <coordinates>-112.1137716,34.7489107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_789">
+            <name>Polacca</name>
+            <Point id="geom_755">
+                <coordinates>-110.3815198,35.8366716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_790">
+            <name>Arizona</name>
+            <Point id="geom_756">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_791">
+            <name>Kansas City</name>
+            <Point id="geom_757">
+                <coordinates>-94.5786,39.0997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_792">
+            <name>Ohio</name>
+            <Point id="geom_758">
+                <coordinates>-82.764915,40.388783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_793">
+            <name>Grand Canyon</name>
+            <Point id="geom_759">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_794">
+            <name>Oak Creek</name>
+            <Point id="geom_760">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_795">
+            <name>Camp Verde</name>
+            <Point id="geom_761">
+                <coordinates>-111.8614523,34.5652435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_796">
+            <name>Phoenix</name>
+            <Point id="geom_762">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_797">
+            <name>Mormon Lake</name>
+            <Point id="geom_763">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_798">
+            <name>Williams</name>
+            <Point id="geom_764">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_799">
+            <name>Los Angeles</name>
+            <Point id="geom_765">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_800">
+            <name>Clarkdale</name>
+            <Point id="geom_766">
+                <coordinates>-112.0579367,34.7711319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_801">
+            <name>Holbrook</name>
+            <Point id="geom_767">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_802">
+            <name>Little Colorado River</name>
+            <Point id="geom_768">
+                <coordinates>-111.8037701,36.1910972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_803">
+            <name>Oregon</name>
+            <Point id="geom_769">
+                <coordinates>-122.070938,44.572021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_804">
+            <name>Flagstaff</name>
+            <Point id="geom_770">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_805">
+            <name>California</name>
+            <Point id="geom_771">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_806">
+            <name>Caldwell Idaho</name>
+            <Point id="geom_772">
+                <coordinates>-116.6874,43.6629,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

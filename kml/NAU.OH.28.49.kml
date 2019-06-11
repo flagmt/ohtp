@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_894">
+        <Placemark id="feat_895">
+            <name>France</name>
+            <Point id="geom_857">
+                <coordinates>2.213749,46.227638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_896">
+            <name>Willow Springs</name>
+            <Point id="geom_858">
+                <coordinates>-104.1427556,36.4497504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_897">
+            <name>Leupp</name>
+            <Point id="geom_859">
+                <coordinates>-111.0062528,35.2980659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_898">
+            <name>Tuba</name>
+            <Point id="geom_860">
+                <coordinates>-15.8833,14.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_899">
+            <name>Walnut Canyon</name>
+            <Point id="geom_861">
+                <coordinates>-109.3506193,31.5295427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_900">
+            <name>Red Lake</name>
+            <Point id="geom_862">
+                <coordinates>-113.1099158,35.1491762,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_901">
+            <name>Winslow</name>
+            <Point id="geom_863">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_902">
+            <name>Kansas</name>
+            <Point id="geom_864">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_903">
+            <name>Tuba  City</name>
+            <Point id="geom_865">
+                <coordinates>-111.2399,36.135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_904">
+            <name>Germany</name>
+            <Point id="geom_866">
+                <coordinates>10.451526,51.165691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_905">
+            <name>Oraibi</name>
+            <Point id="geom_867">
+                <coordinates>-110.6404148,35.8763922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_906">
+            <name>Cincinnati Ohio</name>
+            <Point id="geom_868">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_907">
+            <name>Phoenix</name>
+            <Point id="geom_869">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_908">
+            <name>Los Angeles California</name>
+            <Point id="geom_870">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_909">
+            <name>Williams</name>
+            <Point id="geom_871">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_910">
+            <name>Los Angeles</name>
+            <Point id="geom_872">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_911">
+            <name>Louisiana</name>
+            <Point id="geom_873">
+                <coordinates>-91.867805,31.169546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_912">
+            <name>Cincinnati</name>
+            <Point id="geom_874">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_913">
+            <name>Washington</name>
+            <Point id="geom_875">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_914">
+            <name>Massachusetts</name>
+            <Point id="geom_876">
+                <coordinates>-71.530106,42.230171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_915">
+            <name>California</name>
+            <Point id="geom_877">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_916">
+            <name>Flagstaff</name>
+            <Point id="geom_878">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_832">
+        <Placemark id="feat_833">
+            <name>France</name>
+            <Point id="geom_797">
+                <coordinates>2.213749,46.227638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_834">
+            <name>Redlands</name>
+            <Point id="geom_798">
+                <coordinates>-108.6356516,39.0788705,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_835">
+            <name>Palm Springs</name>
+            <Point id="geom_799">
+                <coordinates>-111.5384662,33.4047711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_836">
+            <name>United States</name>
+            <Point id="geom_800">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_837">
+            <name>Canada</name>
+            <Point id="geom_801">
+                <coordinates>-106.346771,56.130366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_838">
+            <name>Aubineau Springs</name>
+            <Point id="geom_802">
+                <coordinates>-111.6721033,35.4166739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_839">
+            <name>Grand Canyon</name>
+            <Point id="geom_803">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_840">
+            <name>Coconino County</name>
+            <Point id="geom_804">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_841">
+            <name>San Francisco</name>
+            <Point id="geom_805">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_842">
+            <name>Hollywood</name>
+            <Point id="geom_806">
+                <coordinates>-118.3267,34.0983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_843">
+            <name>Nevada</name>
+            <Point id="geom_807">
+                <coordinates>-117.055374,38.313515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_844">
+            <name>San Francisco Peaks</name>
+            <Point id="geom_808">
+                <coordinates>-111.6943275,35.3530637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_845">
+            <name>Oraibi</name>
+            <Point id="geom_809">
+                <coordinates>-110.6404148,35.8763922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_846">
+            <name>New Mexico</name>
+            <Point id="geom_810">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_847">
+            <name>Phoenix</name>
+            <Point id="geom_811">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_848">
+            <name>Williams</name>
+            <Point id="geom_812">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_849">
+            <name>Los Angeles</name>
+            <Point id="geom_813">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_850">
+            <name>Arizona</name>
+            <Point id="geom_814">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_851">
+            <name>New York</name>
+            <Point id="geom_815">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_852">
+            <name>Mesa Arizona</name>
+            <Point id="geom_816">
+                <coordinates>-111.8226,33.4223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_853">
+            <name>Pennsylvania</name>
+            <Point id="geom_817">
+                <coordinates>-77.209755,40.590752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_854">
+            <name>California</name>
+            <Point id="geom_818">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_855">
+            <name>Flagstaff</name>
+            <Point id="geom_819">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

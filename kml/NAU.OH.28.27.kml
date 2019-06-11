@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_364">
+        <Placemark id="feat_365">
+            <name>Snowflake</name>
+            <Point id="geom_349">
+                <coordinates>-110.0784491,34.5133698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_366">
+            <name>Cottonwood</name>
+            <Point id="geom_350">
+                <coordinates>-111.8068773,40.6616142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_367">
+            <name>Verde Valley</name>
+            <Point id="geom_351">
+                <coordinates>-112.0462699,34.7839093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_368">
+            <name>Spain</name>
+            <Point id="geom_352">
+                <coordinates>-3.74922,40.463667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_369">
+            <name>San Diego</name>
+            <Point id="geom_353">
+                <coordinates>-117.1573,32.7153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_370">
+            <name>Sedona</name>
+            <Point id="geom_354">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_371">
+            <name>Winslow</name>
+            <Point id="geom_355">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_372">
+            <name>Oak Creek Canyon</name>
+            <Point id="geom_356">
+                <coordinates>-111.7268235,34.9125169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_373">
+            <name>Williams</name>
+            <Point id="geom_357">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_374">
+            <name>Cornville</name>
+            <Point id="geom_358">
+                <coordinates>-111.9215438,34.7177989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_375">
+            <name>Coconino County</name>
+            <Point id="geom_359">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_376">
+            <name>Oakland</name>
+            <Point id="geom_360">
+                <coordinates>-122.2708,37.8044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_377">
+            <name>Arizona</name>
+            <Point id="geom_361">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_378">
+            <name>Alaska</name>
+            <Point id="geom_362">
+                <coordinates>-152.404419,61.370716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_379">
+            <name>Tennessee</name>
+            <Point id="geom_363">
+                <coordinates>-86.692345,35.747845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_380">
+            <name>Parks</name>
+            <Point id="geom_364">
+                <coordinates>-111.9881999,33.3500468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_381">
+            <name>Grand Canyon</name>
+            <Point id="geom_365">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_382">
+            <name>Flagstaff</name>
+            <Point id="geom_366">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_383">
+            <name>Oak Creek</name>
+            <Point id="geom_367">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_384">
+            <name>Jerome</name>
+            <Point id="geom_368">
+                <coordinates>-112.1137716,34.7489107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_385">
+            <name>Phoenix</name>
+            <Point id="geom_369">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_386">
+            <name>Munds Park</name>
+            <Point id="geom_370">
+                <coordinates>-111.6401551,34.945574,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_387">
+            <name>Chicago</name>
+            <Point id="geom_371">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_388">
+            <name>Winona</name>
+            <Point id="geom_372">
+                <coordinates>-111.4082096,35.2050122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_389">
+            <name>Canyon Diablo</name>
+            <Point id="geom_373">
+                <coordinates>-111.117644,35.1627902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_390">
+            <name>Two Guns</name>
+            <Point id="geom_374">
+                <coordinates>-111.0934765,35.1177914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_391">
+            <name>Willard Springs</name>
+            <Point id="geom_375">
+                <coordinates>-111.6859908,34.9814057,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_392">
+            <name>Holbrook</name>
+            <Point id="geom_376">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_481">
+        <Placemark id="feat_482">
+            <name>Albuquerque</name>
+            <Point id="geom_460">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_483">
+            <name>Roswell New Mexico</name>
+            <Point id="geom_461">
+                <coordinates>-104.5249,33.3944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_484">
+            <name>Paradise Valley</name>
+            <Point id="geom_462">
+                <coordinates>-111.9426452,33.5311541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_485">
+            <name>Ogden Utah</name>
+            <Point id="geom_463">
+                <coordinates>-111.9738,41.223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_486">
+            <name>Winslow</name>
+            <Point id="geom_464">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_487">
+            <name>Georgia</name>
+            <Point id="geom_465">
+                <coordinates>-83.643074,33.040619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_488">
+            <name>Italy</name>
+            <Point id="geom_466">
+                <coordinates>12.56738,41.87194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_489">
+            <name>Tempe</name>
+            <Point id="geom_467">
+                <coordinates>-111.9093,33.4148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_490">
+            <name>Scottsdale</name>
+            <Point id="geom_468">
+                <coordinates>-111.899,33.5092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_491">
+            <name>Lebanon</name>
+            <Point id="geom_469">
+                <coordinates>35.862285,33.854721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_492">
+            <name>Colorado</name>
+            <Point id="geom_470">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_493">
+            <name>California</name>
+            <Point id="geom_471">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_494">
+            <name>New York City</name>
+            <Point id="geom_472">
+                <coordinates>-74.006,40.7143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_495">
+            <name>Arizona</name>
+            <Point id="geom_473">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_496">
+            <name>Atlanta Georgia</name>
+            <Point id="geom_474">
+                <coordinates>-84.388,33.749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_497">
+            <name>Oak Creek</name>
+            <Point id="geom_475">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_498">
+            <name>New York</name>
+            <Point id="geom_476">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_499">
+            <name>Douglas Arizona</name>
+            <Point id="geom_477">
+                <coordinates>-109.5453,31.3446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_500">
+            <name>Phoenix</name>
+            <Point id="geom_478">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_501">
+            <name>Los Angeles</name>
+            <Point id="geom_479">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_502">
+            <name>Mesa</name>
+            <Point id="geom_480">
+                <coordinates>6.1727,49.1191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_503">
+            <name>Winona</name>
+            <Point id="geom_481">
+                <coordinates>-111.4082096,35.2050122,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_504">
+            <name>Canyon Diablo</name>
+            <Point id="geom_482">
+                <coordinates>-111.117644,35.1627902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_505">
+            <name>Albuquerque New Mexico</name>
+            <Point id="geom_483">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_506">
+            <name>Holbrook</name>
+            <Point id="geom_484">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_507">
+            <name>Egypt</name>
+            <Point id="geom_485">
+                <coordinates>30.802498,26.820553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_508">
+            <name>Flagstaff</name>
+            <Point id="geom_486">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

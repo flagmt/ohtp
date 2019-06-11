@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1199">
+        <Placemark id="feat_1200">
+            <name>Florence</name>
+            <Point id="geom_1152">
+                <coordinates>11.2463,43.7792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1201">
+            <name>Spain</name>
+            <Point id="geom_1153">
+                <coordinates>-3.74922,40.463667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1202">
+            <name>Minnesota</name>
+            <Point id="geom_1154">
+                <coordinates>-93.900192,45.694454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1203">
+            <name>Fort Davis Texas</name>
+            <Point id="geom_1155">
+                <coordinates>-103.8946,30.5882,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1204">
+            <name>Fort Davis</name>
+            <Point id="geom_1156">
+                <coordinates>-103.8946,30.5882,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1205">
+            <name>New Mexico</name>
+            <Point id="geom_1157">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1206">
+            <name>Mexico</name>
+            <Point id="geom_1158">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1207">
+            <name>Texas</name>
+            <Point id="geom_1159">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1208">
+            <name>Flagstaff Arizona</name>
+            <Point id="geom_1160">
+                <coordinates>-111.6513,35.1981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1209">
+            <name>Flagstaff</name>
+            <Point id="geom_1161">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

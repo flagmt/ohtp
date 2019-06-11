@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1322">
+        <Placemark id="feat_1323">
+            <name>Albuquerque</name>
+            <Point id="geom_1270">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1324">
+            <name>Prescott</name>
+            <Point id="geom_1271">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1325">
+            <name>Grand Canyon</name>
+            <Point id="geom_1272">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1326">
+            <name>Tuba City</name>
+            <Point id="geom_1273">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1327">
+            <name>Oak Creek</name>
+            <Point id="geom_1274">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1328">
+            <name>Ash Fork</name>
+            <Point id="geom_1275">
+                <coordinates>-112.4840675,35.2250114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1329">
+            <name>Glen Canyon</name>
+            <Point id="geom_1276">
+                <coordinates>-111.5879381,36.8644321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1330">
+            <name>Phoenix</name>
+            <Point id="geom_1277">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1331">
+            <name>Texas</name>
+            <Point id="geom_1278">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1332">
+            <name>Sedona</name>
+            <Point id="geom_1279">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1333">
+            <name>Schnebly Hill</name>
+            <Point id="geom_1280">
+                <coordinates>-111.7032111,34.88974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1334">
+            <name>Los Angeles</name>
+            <Point id="geom_1281">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1335">
+            <name>Winslow</name>
+            <Point id="geom_1282">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1336">
+            <name>Painted Desert</name>
+            <Point id="geom_1283">
+                <coordinates>-110.0840117,35.5002883,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1337">
+            <name>Oak Creek Canyon</name>
+            <Point id="geom_1284">
+                <coordinates>-111.7268235,34.9125169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1338">
+            <name>Williams</name>
+            <Point id="geom_1285">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1339">
+            <name>Walnut Canyon</name>
+            <Point id="geom_1286">
+                <coordinates>-109.3506193,31.5295427,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1340">
+            <name>San Francisco Peaks</name>
+            <Point id="geom_1287">
+                <coordinates>-111.6943275,35.3530637,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1341">
+            <name>California</name>
+            <Point id="geom_1288">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1342">
+            <name>Arizona</name>
+            <Point id="geom_1289">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_1343">
+            <name>Flagstaff</name>
+            <Point id="geom_1290">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
