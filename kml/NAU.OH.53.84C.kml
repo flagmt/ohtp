@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4289">
+        <Placemark id="feat_4290">
+            <name>Oakland</name>
+            <Point id="geom_4152">
+                <coordinates>-122.2708,37.8044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4291">
+            <name>Crystal</name>
+            <Point id="geom_4153">
+                <coordinates>-112.2464654,36.1366442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4292">
+            <name>Carmel Valley</name>
+            <Point id="geom_4154">
+                <coordinates>-121.7659,36.5061,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4293">
+            <name>Modesto</name>
+            <Point id="geom_4155">
+                <coordinates>-120.9969,37.6391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4294">
+            <name>United States</name>
+            <Point id="geom_4156">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4295">
+            <name>Wyoming</name>
+            <Point id="geom_4157">
+                <coordinates>-107.302490,42.755966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4296">
+            <name>Tennessee</name>
+            <Point id="geom_4158">
+                <coordinates>-86.692345,35.747845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4297">
+            <name>Oregon</name>
+            <Point id="geom_4159">
+                <coordinates>-122.070938,44.572021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4298">
+            <name>Washington DC</name>
+            <Point id="geom_4160">
+                <coordinates>-77.0364,38.8951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4299">
+            <name>Ethiopia</name>
+            <Point id="geom_4161">
+                <coordinates>40.489673,9.145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4300">
+            <name>Colorado</name>
+            <Point id="geom_4162">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4301">
+            <name>India</name>
+            <Point id="geom_4163">
+                <coordinates>78.96288,20.593684,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4302">
+            <name>San Francisco</name>
+            <Point id="geom_4164">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4303">
+            <name>Hollywood</name>
+            <Point id="geom_4165">
+                <coordinates>-118.3267,34.0983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4304">
+            <name>Grand Canyon</name>
+            <Point id="geom_4166">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4305">
+            <name>Tapeats</name>
+            <Point id="geom_4167">
+                <coordinates>-112.4699655,36.3703992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4306">
+            <name>New York</name>
+            <Point id="geom_4168">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4307">
+            <name>New York City</name>
+            <Point id="geom_4169">
+                <coordinates>-74.006,40.7143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4308">
+            <name>Berkeley</name>
+            <Point id="geom_4170">
+                <coordinates>-122.2728,37.8716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4309">
+            <name>Kentfield</name>
+            <Point id="geom_4171">
+                <coordinates>-122.5572,37.9522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4310">
+            <name>Beverly Hills</name>
+            <Point id="geom_4172">
+                <coordinates>-104.8774,39.4747,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4311">
+            <name>Sacramento</name>
+            <Point id="geom_4173">
+                <coordinates>-121.4944,38.5816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4312">
+            <name>China</name>
+            <Point id="geom_4174">
+                <coordinates>104.195397,35.86166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4313">
+            <name>Washington</name>
+            <Point id="geom_4175">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4314">
+            <name>LA</name>
+            <Point id="geom_4176">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4315">
+            <name>California</name>
+            <Point id="geom_4177">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4316">
+            <name>Flagstaff</name>
+            <Point id="geom_4178">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

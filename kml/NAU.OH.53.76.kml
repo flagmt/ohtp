@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4122">
+        <Placemark id="feat_4123">
+            <name>Crystal</name>
+            <Point id="geom_3990">
+                <coordinates>-112.2464654,36.1366442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4124">
+            <name>Russia</name>
+            <Point id="geom_3991">
+                <coordinates>105.318756,61.52401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4125">
+            <name>Granite</name>
+            <Point id="geom_3992">
+                <coordinates>-112.1835965,36.098559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4126">
+            <name>Tucson</name>
+            <Point id="geom_3993">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4127">
+            <name>House Rock</name>
+            <Point id="geom_3994">
+                <coordinates>-111.7400124,36.67345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4128">
+            <name>Chile</name>
+            <Point id="geom_3995">
+                <coordinates>-71.542969,-35.675147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4129">
+            <name>Lava Falls</name>
+            <Point id="geom_3996">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4130">
+            <name>Germany</name>
+            <Point id="geom_3997">
+                <coordinates>10.451526,51.165691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4131">
+            <name>Hermit</name>
+            <Point id="geom_3998">
+                <coordinates>-111.8818842,41.2507764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4132">
+            <name>Canada</name>
+            <Point id="geom_3999">
+                <coordinates>-106.346771,56.130366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4133">
+            <name>Badger</name>
+            <Point id="geom_4000">
+                <coordinates>-108.5345345,37.1886065,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4134">
+            <name>Alaska</name>
+            <Point id="geom_4001">
+                <coordinates>-152.404419,61.370716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4135">
+            <name>Arizona</name>
+            <Point id="geom_4002">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4136">
+            <name>Sapphire</name>
+            <Point id="geom_4003">
+                <coordinates>-112.2926972,36.1473585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4137">
+            <name>Lava</name>
+            <Point id="geom_4004">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4138">
+            <name>Lees Ferry</name>
+            <Point id="geom_4005">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4139">
+            <name>Marble Canyon</name>
+            <Point id="geom_4006">
+                <coordinates>-111.6376612,36.8155432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4140">
+            <name>Glen Canyon Dam</name>
+            <Point id="geom_4007">
+                <coordinates>-111.484325,36.9374881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4141">
+            <name>Grand Canyon</name>
+            <Point id="geom_4008">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4142">
+            <name>Glen Canyon</name>
+            <Point id="geom_4009">
+                <coordinates>-111.5879381,36.8644321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4143">
+            <name>Nankoweap</name>
+            <Point id="geom_4010">
+                <coordinates>-111.8555457,36.3048886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4144">
+            <name>Pearce Ferry</name>
+            <Point id="geom_4011">
+                <coordinates>-113.988929,36.131859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4145">
+            <name>Nepal</name>
+            <Point id="geom_4012">
+                <coordinates>84.124008,28.394857,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4146">
+            <name>Idaho</name>
+            <Point id="geom_4013">
+                <coordinates>-114.478828,44.240459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4147">
+            <name>Chicago</name>
+            <Point id="geom_4014">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4148">
+            <name>Sockdolager</name>
+            <Point id="geom_4015">
+                <coordinates>-111.9542978,36.0464494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4149">
+            <name>Sacramento</name>
+            <Point id="geom_4016">
+                <coordinates>-121.4944,38.5816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4150">
+            <name>Hance</name>
+            <Point id="geom_4017">
+                <coordinates>-111.9203492,36.0459215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4151">
+            <name>California</name>
+            <Point id="geom_4018">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4152">
+            <name>Phantom Ranch</name>
+            <Point id="geom_4019">
+                <coordinates>-112.0951686,36.1049828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4153">
+            <name>Flagstaff</name>
+            <Point id="geom_4020">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

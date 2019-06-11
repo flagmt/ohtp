@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4810">
+        <Placemark id="feat_4811">
+            <name>Tuba City</name>
+            <Point id="geom_4655">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4812">
+            <name>Gallup</name>
+            <Point id="geom_4656">
+                <coordinates>-108.7425843,35.5280783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4813">
+            <name>Oraibi</name>
+            <Point id="geom_4657">
+                <coordinates>-110.6404148,35.8763922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4814">
+            <name>Mormon Lake</name>
+            <Point id="geom_4658">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4815">
+            <name>Canyon Diablo</name>
+            <Point id="geom_4659">
+                <coordinates>-111.117644,35.1627902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4816">
+            <name>Texas</name>
+            <Point id="geom_4660">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4817">
+            <name>Ganado</name>
+            <Point id="geom_4661">
+                <coordinates>-109.5420492,35.7114022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4818">
+            <name>Winslow</name>
+            <Point id="geom_4662">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4819">
+            <name>Red Lake</name>
+            <Point id="geom_4663">
+                <coordinates>-113.1099158,35.1491762,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4820">
+            <name>Tuba</name>
+            <Point id="geom_4664">
+                <coordinates>-15.8833,14.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4821">
+            <name>Utah</name>
+            <Point id="geom_4665">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4822">
+            <name>San Juan River</name>
+            <Point id="geom_4666">
+                <coordinates>-110.900703,37.1797156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4823">
+            <name>Dodge City Kansas</name>
+            <Point id="geom_4667">
+                <coordinates>-100.0171,37.7528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4824">
+            <name>Colorado</name>
+            <Point id="geom_4668">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4825">
+            <name>Kaibito</name>
+            <Point id="geom_4669">
+                <coordinates>-111.0743114,36.5972186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4826">
+            <name>Kansas</name>
+            <Point id="geom_4670">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4827">
+            <name>Arizona</name>
+            <Point id="geom_4671">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4828">
+            <name>Sunrise Springs</name>
+            <Point id="geom_4672">
+                <coordinates>-109.7453893,35.603624,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

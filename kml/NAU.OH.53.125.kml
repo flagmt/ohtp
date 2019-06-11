@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_2483">
+        <Placemark id="feat_2484">
+            <name>Crystal</name>
+            <Point id="geom_2393">
+                <coordinates>-112.2464654,36.1366442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2485">
+            <name>Salt Lake</name>
+            <Point id="geom_2394">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2486">
+            <name>Tucson</name>
+            <Point id="geom_2395">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2487">
+            <name>Cochise County</name>
+            <Point id="geom_2396">
+                <coordinates>-109.754120 , 31.881793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2488">
+            <name>Bisbee</name>
+            <Point id="geom_2397">
+                <coordinates>-109.9284084,31.4481547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2489">
+            <name>Carbon Creek</name>
+            <Point id="geom_2398">
+                <coordinates>-111.8157144,36.151375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2490">
+            <name>Philippines</name>
+            <Point id="geom_2399">
+                <coordinates>121.774017,12.879721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2491">
+            <name>Rucker Canyon</name>
+            <Point id="geom_2400">
+                <coordinates>-109.4297869,31.752872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2492">
+            <name>Galveston Texas</name>
+            <Point id="geom_2401">
+                <coordinates>-94.7977,29.3013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2493">
+            <name>Utah</name>
+            <Point id="geom_2402">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2494">
+            <name>Grand Canyon</name>
+            <Point id="geom_2403">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2495">
+            <name>Alaska</name>
+            <Point id="geom_2404">
+                <coordinates>-152.404419,61.370716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2496">
+            <name>San Antonio</name>
+            <Point id="geom_2405">
+                <coordinates>-98.4936,29.4241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2497">
+            <name>Arizona</name>
+            <Point id="geom_2406">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2498">
+            <name>Badger Rapids</name>
+            <Point id="geom_2407">
+                <coordinates>-111.6560432,36.7729364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2499">
+            <name>Marble Canyon</name>
+            <Point id="geom_2408">
+                <coordinates>-111.6376612,36.8155432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2500">
+            <name>Pack Creek</name>
+            <Point id="geom_2409">
+                <coordinates>-109.5540061,38.5716489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2501">
+            <name>Glen Canyon</name>
+            <Point id="geom_2410">
+                <coordinates>-111.5879381,36.8644321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2502">
+            <name>New Mexico</name>
+            <Point id="geom_2411">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2503">
+            <name>Texas</name>
+            <Point id="geom_2412">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2504">
+            <name>Tucson Arizona</name>
+            <Point id="geom_2413">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2505">
+            <name>Galveston</name>
+            <Point id="geom_2414">
+                <coordinates>-94.7977,29.3013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2506">
+            <name>Vernal</name>
+            <Point id="geom_2415">
+                <coordinates>-107.8292277,38.3897096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2507">
+            <name>Stone Creek</name>
+            <Point id="geom_2416">
+                <coordinates>-111.9449373,40.6941133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2508">
+            <name>China</name>
+            <Point id="geom_2417">
+                <coordinates>104.195397,35.86166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2509">
+            <name>Escalante River</name>
+            <Point id="geom_2418">
+                <coordinates>-110.8720931,37.2894367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2510">
+            <name>Prescott</name>
+            <Point id="geom_2419">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2511">
+            <name>Salt Creek</name>
+            <Point id="geom_2420">
+                <coordinates>-112.1704216,36.0996105,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

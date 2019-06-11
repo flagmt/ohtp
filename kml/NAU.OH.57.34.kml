@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4753">
+        <Placemark id="feat_4754">
+            <name>Gila County</name>
+            <Point id="geom_4601">
+                <coordinates>-110.811870 ,33.789618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4755">
+            <name>Santa Cruz</name>
+            <Point id="geom_4602">
+                <coordinates>-16.2546,28.4682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4756">
+            <name>Safford</name>
+            <Point id="geom_4603">
+                <coordinates>-109.70758,32.8339546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4757">
+            <name>Tucson</name>
+            <Point id="geom_4604">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4758">
+            <name>Globe</name>
+            <Point id="geom_4605">
+                <coordinates>-110.7854739,33.3958623,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4759">
+            <name>Idaho</name>
+            <Point id="geom_4606">
+                <coordinates>-114.478828,44.240459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4760">
+            <name>Mexico</name>
+            <Point id="geom_4607">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4761">
+            <name>Cochise County</name>
+            <Point id="geom_4608">
+                <coordinates>-109.754120 , 31.881793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4762">
+            <name>Pinal County</name>
+            <Point id="geom_4609">
+                <coordinates>-111.367257 ,32.918910,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4763">
+            <name>Nogales</name>
+            <Point id="geom_4610">
+                <coordinates>-110.9422,31.3086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4764">
+            <name>Utah</name>
+            <Point id="geom_4611">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4765">
+            <name>Phoenix</name>
+            <Point id="geom_4612">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4766">
+            <name>Arizona</name>
+            <Point id="geom_4613">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4767">
+            <name>Solomonville</name>
+            <Point id="geom_4614">
+                <coordinates>-109.634,32.8126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4768">
+            <name>Florence</name>
+            <Point id="geom_4615">
+                <coordinates>11.2463,43.7792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4769">
+            <name>Lees Ferry</name>
+            <Point id="geom_4616">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4770">
+            <name>Salt River</name>
+            <Point id="geom_4617">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4771">
+            <name>Gila Valley</name>
+            <Point id="geom_4618">
+                <coordinates>-110.2173125,33.1833905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4772">
+            <name>New Mexico</name>
+            <Point id="geom_4619">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4773">
+            <name>Snowflake</name>
+            <Point id="geom_4620">
+                <coordinates>-110.0784491,34.5133698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4774">
+            <name>Mormon Lake</name>
+            <Point id="geom_4621">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4775">
+            <name>Calabasas</name>
+            <Point id="geom_4622">
+                <coordinates>-110.9753657,31.4673163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4776">
+            <name>Boulder</name>
+            <Point id="geom_4623">
+                <coordinates>-105.2706,40.015,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4777">
+            <name>Santa Cruz County</name>
+            <Point id="geom_4624">
+                <coordinates>-110.845190 ,31.525904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4778">
+            <name>Graham County</name>
+            <Point id="geom_4625">
+                <coordinates>-109.878310 ,32.931828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4779">
+            <name>Flagstaff</name>
+            <Point id="geom_4626">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4780">
+            <name>Holbrook</name>
+            <Point id="geom_4627">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

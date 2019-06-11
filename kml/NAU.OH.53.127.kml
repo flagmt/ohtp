@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_2512">
+        <Placemark id="feat_2513">
+            <name>Dinosaur</name>
+            <Point id="geom_2421">
+                <coordinates>-109.0145613,40.243578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2514">
+            <name>Thunder River</name>
+            <Point id="geom_2422">
+                <coordinates>-112.4512936,36.3919268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2515">
+            <name>Superstition Mountains</name>
+            <Point id="geom_2423">
+                <coordinates>-111.5915231,33.4167149,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2516">
+            <name>Blue Spring</name>
+            <Point id="geom_2424">
+                <coordinates>-108.2253582,37.5908277,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2517">
+            <name>Crystal</name>
+            <Point id="geom_2425">
+                <coordinates>-112.2464654,36.1366442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2518">
+            <name>Unkar</name>
+            <Point id="geom_2426">
+                <coordinates>-111.8712712,36.0783188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2519">
+            <name>Phantom</name>
+            <Point id="geom_2427">
+                <coordinates>-112.0876685,36.1160939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2520">
+            <name>Hermit</name>
+            <Point id="geom_2428">
+                <coordinates>-111.8818842,41.2507764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2521">
+            <name>Granite Park</name>
+            <Point id="geom_2429">
+                <coordinates>-113.3143759,35.9683189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2522">
+            <name>Utah</name>
+            <Point id="geom_2430">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2523">
+            <name>Rainbow Bridge</name>
+            <Point id="geom_2431">
+                <coordinates>-110.9762592,37.0927718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2524">
+            <name>Colorado</name>
+            <Point id="geom_2432">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2525">
+            <name>Congress Junction</name>
+            <Point id="geom_2433">
+                <coordinates>-112.8449039,34.1628038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2526">
+            <name>Surprise Valley</name>
+            <Point id="geom_2434">
+                <coordinates>-111.3873845,37.3208213,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2527">
+            <name>Arizona</name>
+            <Point id="geom_2435">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2528">
+            <name>Kirkland</name>
+            <Point id="geom_2436">
+                <coordinates>-112.7071157,34.4179961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2529">
+            <name>Nevada</name>
+            <Point id="geom_2437">
+                <coordinates>-117.055374,38.313515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2530">
+            <name>Marble Canyon</name>
+            <Point id="geom_2438">
+                <coordinates>-111.6376612,36.8155432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2531">
+            <name>Grand Canyon</name>
+            <Point id="geom_2439">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2532">
+            <name>Lava Falls</name>
+            <Point id="geom_2440">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2533">
+            <name>Fossil Canyon</name>
+            <Point id="geom_2441">
+                <coordinates>-112.5268513,36.2735922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2534">
+            <name>Saddle Canyon</name>
+            <Point id="geom_2442">
+                <coordinates>-110.4959284,32.8222889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2535">
+            <name>La Paz</name>
+            <Point id="geom_2443">
+                <coordinates>-68.15,-16.5,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2536">
+            <name>Tanner Trail</name>
+            <Point id="geom_2444">
+                <coordinates>-111.8318249,36.0716529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2537">
+            <name>Phantom Ranch</name>
+            <Point id="geom_2445">
+                <coordinates>-112.0951686,36.1049828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2538">
+            <name>Prescott</name>
+            <Point id="geom_2446">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2539">
+            <name>Flagstaff</name>
+            <Point id="geom_2447">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2540">
+            <name>Kanab</name>
+            <Point id="geom_2448">
+                <coordinates>-112.6340788,36.3905385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2541">
+            <name>Skull Valley</name>
+            <Point id="geom_2449">
+                <coordinates>-112.6835602,34.5030309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2542">
+            <name>Yampa</name>
+            <Point id="geom_2450">
+                <coordinates>-106.9086582,40.1524837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2543">
+            <name>Yarnell</name>
+            <Point id="geom_2451">
+                <coordinates>-112.7474007,34.2216927,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2544">
+            <name>Date Creek</name>
+            <Point id="geom_2452">
+                <coordinates>-113.4713152,34.2997424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2545">
+            <name>Mexican Hat</name>
+            <Point id="geom_2453">
+                <coordinates>-109.8670664,37.151946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2546">
+            <name>Washington DC</name>
+            <Point id="geom_2454">
+                <coordinates>-77.0364,38.8951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2547">
+            <name>San Juan River</name>
+            <Point id="geom_2455">
+                <coordinates>-110.900703,37.1797156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2548">
+            <name>Hance Rapid</name>
+            <Point id="geom_2456">
+                <coordinates>-111.9203492,36.0459215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2549">
+            <name>Lees Ferry</name>
+            <Point id="geom_2457">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2550">
+            <name>Clear Creek</name>
+            <Point id="geom_2458">
+                <coordinates>-112.3518757,38.5763607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2551">
+            <name>Tapeats</name>
+            <Point id="geom_2459">
+                <coordinates>-112.4699655,36.3703992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2552">
+            <name>Red Canyon</name>
+            <Point id="geom_2460">
+                <coordinates>-105.8477934,34.8761686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2553">
+            <name>Tuckup</name>
+            <Point id="geom_2461">
+                <coordinates>-112.8757531,36.2797041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2554">
+            <name>Wickenburg</name>
+            <Point id="geom_2462">
+                <coordinates>-112.729622,33.9686412,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2555">
+            <name>Deer Creek</name>
+            <Point id="geom_2463">
+                <coordinates>-108.691156,31.4345501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2556">
+            <name>Bluff</name>
+            <Point id="geom_2464">
+                <coordinates>-90.1848,32.2988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2557">
+            <name>Lava Canyon Rapid</name>
+            <Point id="geom_2465">
+                <coordinates>-111.8166987,36.1383945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2558">
+            <name>California</name>
+            <Point id="geom_2466">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

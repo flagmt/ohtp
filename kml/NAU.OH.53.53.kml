@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4021">
+        <Placemark id="feat_4022">
+            <name>Virginia</name>
+            <Point id="geom_3892">
+                <coordinates>-78.169968,37.769337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4023">
+            <name>Lava</name>
+            <Point id="geom_3893">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4024">
+            <name>Hawaii</name>
+            <Point id="geom_3894">
+                <coordinates>-157.498337,21.094318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4025">
+            <name>Salt Lake</name>
+            <Point id="geom_3895">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4026">
+            <name>Bonampak</name>
+            <Point id="geom_3896">
+                <coordinates>-93.4044,16.7278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4027">
+            <name>Yampa</name>
+            <Point id="geom_3897">
+                <coordinates>-106.9086582,40.1524837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4028">
+            <name>Mexico</name>
+            <Point id="geom_3898">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4029">
+            <name>United States</name>
+            <Point id="geom_3899">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4030">
+            <name>Mapleton Utah</name>
+            <Point id="geom_3900">
+                <coordinates>-111.5785,40.1302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4031">
+            <name>House Rock</name>
+            <Point id="geom_3901">
+                <coordinates>-111.7400124,36.67345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4032">
+            <name>Tennessee</name>
+            <Point id="geom_3902">
+                <coordinates>-86.692345,35.747845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4033">
+            <name>Yampa River</name>
+            <Point id="geom_3903">
+                <coordinates>-108.9842847,40.5288528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4034">
+            <name>Lodore Canyon</name>
+            <Point id="geom_3904">
+                <coordinates>-108.8881715,40.7274626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4035">
+            <name>New London Connecticut</name>
+            <Point id="geom_3905">
+                <coordinates>-72.0759,41.5243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4036">
+            <name>Kentucky</name>
+            <Point id="geom_3906">
+                <coordinates>-84.670067,37.668140,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4037">
+            <name>Desolation Canyon</name>
+            <Point id="geom_3907">
+                <coordinates>-110.0109796,39.4166324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4038">
+            <name>Utah</name>
+            <Point id="geom_3908">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4039">
+            <name>Chihuahua</name>
+            <Point id="geom_3909">
+                <coordinates>-106.0889,28.6353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4040">
+            <name>Eureka California</name>
+            <Point id="geom_3910">
+                <coordinates>-124.1637,40.8021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4041">
+            <name>Canada</name>
+            <Point id="geom_3911">
+                <coordinates>-106.346771,56.130366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4042">
+            <name>Tampico</name>
+            <Point id="geom_3912">
+                <coordinates>-97.8677,22.2782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4043">
+            <name>Vegas</name>
+            <Point id="geom_3913">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4044">
+            <name>Turlock California</name>
+            <Point id="geom_3914">
+                <coordinates>-120.8466,37.4947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4045">
+            <name>Moab</name>
+            <Point id="geom_3915">
+                <coordinates>-109.5498395,38.5733155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4046">
+            <name>Lees Ferry</name>
+            <Point id="geom_3916">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4047">
+            <name>Grand Canyon</name>
+            <Point id="geom_3917">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4048">
+            <name>Glen Canyon</name>
+            <Point id="geom_3918">
+                <coordinates>-111.5879381,36.8644321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4049">
+            <name>Chiapas</name>
+            <Point id="geom_3919">
+                <coordinates>-93.0118,16.7077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4050">
+            <name>Phoenix</name>
+            <Point id="geom_3920">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4051">
+            <name>Idaho</name>
+            <Point id="geom_3921">
+                <coordinates>-114.478828,44.240459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4052">
+            <name>Syracuse</name>
+            <Point id="geom_3922">
+                <coordinates>-76.1474,43.0481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4053">
+            <name>Yaxchilan</name>
+            <Point id="geom_3923">
+                <coordinates>-91.8803,16.95,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4054">
+            <name>Washington DC</name>
+            <Point id="geom_3924">
+                <coordinates>-77.0364,38.8951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4055">
+            <name>Minnesota</name>
+            <Point id="geom_3925">
+                <coordinates>-93.900192,45.694454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4056">
+            <name>Paria Beach</name>
+            <Point id="geom_3926">
+                <coordinates>-111.6025147,36.8561591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4057">
+            <name>Salt Lake City</name>
+            <Point id="geom_3927">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4058">
+            <name>Lodore</name>
+            <Point id="geom_3928">
+                <coordinates>-108.8881715,40.7274626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4059">
+            <name>Vernal Utah</name>
+            <Point id="geom_3929">
+                <coordinates>-109.5288,40.4555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4060">
+            <name>Connecticut</name>
+            <Point id="geom_3930">
+                <coordinates>-72.755371,41.597782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4061">
+            <name>California</name>
+            <Point id="geom_3931">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4062">
+            <name>Mexico City</name>
+            <Point id="geom_3932">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4063">
+            <name>Flagstaff</name>
+            <Point id="geom_3933">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

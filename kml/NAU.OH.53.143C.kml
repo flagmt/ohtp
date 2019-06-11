@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_3040">
+        <Placemark id="feat_3041">
+            <name>Boulder City</name>
+            <Point id="geom_2932">
+                <coordinates>-114.8325,35.9786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3042">
+            <name>Florida</name>
+            <Point id="geom_2933">
+                <coordinates>-81.686783,27.766279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3043">
+            <name>Antarctica</name>
+            <Point id="geom_2934">
+                <coordinates>16.4063,-78.1586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3044">
+            <name>Salt Lake</name>
+            <Point id="geom_2935">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3045">
+            <name>Cataract Canyon</name>
+            <Point id="geom_2936">
+                <coordinates>-111.0415119,33.9147674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3046">
+            <name>Nevada</name>
+            <Point id="geom_2937">
+                <coordinates>-117.055374,38.313515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3047">
+            <name>Peach Springs</name>
+            <Point id="geom_2938">
+                <coordinates>-113.425491,35.5291589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3048">
+            <name>Desolation Canyon</name>
+            <Point id="geom_2939">
+                <coordinates>-110.0109796,39.4166324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3049">
+            <name>Hong Kong</name>
+            <Point id="geom_2940">
+                <coordinates>114.109497,22.396428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3050">
+            <name>U.S.</name>
+            <Point id="geom_2941">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3051">
+            <name>San Juan</name>
+            <Point id="geom_2942">
+                <coordinates>121.0333,14.6,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3052">
+            <name>Iceberg Canyon</name>
+            <Point id="geom_2943">
+                <coordinates>-114.0844063,36.1508187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3053">
+            <name>Dolores</name>
+            <Point id="geom_2944">
+                <coordinates>-108.5045356,37.4738818,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3054">
+            <name>Riverside</name>
+            <Point id="geom_2945">
+                <coordinates>-117.3962,33.9534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3055">
+            <name>Lake Powell</name>
+            <Point id="geom_2946">
+                <coordinates>-105.6603285,40.2549845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3056">
+            <name>Arizona</name>
+            <Point id="geom_2947">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3057">
+            <name>Moab</name>
+            <Point id="geom_2948">
+                <coordinates>-109.5498395,38.5733155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3058">
+            <name>Lees Ferry</name>
+            <Point id="geom_2949">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3059">
+            <name>Grand Canyon</name>
+            <Point id="geom_2950">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3060">
+            <name>Glen Canyon</name>
+            <Point id="geom_2951">
+                <coordinates>-111.5879381,36.8644321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3061">
+            <name>Whitmore</name>
+            <Point id="geom_2952">
+                <coordinates>-111.809099,40.5755041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3062">
+            <name>Denver</name>
+            <Point id="geom_2953">
+                <coordinates>-104.9847,39.7392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3063">
+            <name>San Diego</name>
+            <Point id="geom_2954">
+                <coordinates>-117.1573,32.7153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3064">
+            <name>Berkeley</name>
+            <Point id="geom_2955">
+                <coordinates>-122.2728,37.8716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3065">
+            <name>Dinosaur</name>
+            <Point id="geom_2956">
+                <coordinates>-109.0145613,40.243578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3066">
+            <name>Desolation</name>
+            <Point id="geom_2957">
+                <coordinates>-110.0109796,39.4166324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3067">
+            <name>Black Canyon</name>
+            <Point id="geom_2958">
+                <coordinates>-112.1507149,34.0708665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3068">
+            <name>China</name>
+            <Point id="geom_2959">
+                <coordinates>104.195397,35.86166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3069">
+            <name>Canyonlands</name>
+            <Point id="geom_2960">
+                <coordinates>-109.75484,38.75496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3070">
+            <name>Hawaii</name>
+            <Point id="geom_2961">
+                <coordinates>-157.498337,21.094318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3071">
+            <name>California</name>
+            <Point id="geom_2962">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3072">
+            <name>McMurdo Station</name>
+            <Point id="geom_2963">
+                <coordinates>166.676,-77.846,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

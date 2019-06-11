@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_2452">
+        <Placemark id="feat_2453">
+            <name>Boulder City</name>
+            <Point id="geom_2364">
+                <coordinates>-114.8325,35.9786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2454">
+            <name>Phoenix</name>
+            <Point id="geom_2365">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2455">
+            <name>Whitmore</name>
+            <Point id="geom_2366">
+                <coordinates>-111.809099,40.5755041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2456">
+            <name>Antarctica</name>
+            <Point id="geom_2367">
+                <coordinates>16.4063,-78.1586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2457">
+            <name>San Diego</name>
+            <Point id="geom_2368">
+                <coordinates>-117.1573,32.7153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2458">
+            <name>Supai</name>
+            <Point id="geom_2369">
+                <coordinates>-112.6890791,36.2369266,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2459">
+            <name>Russia</name>
+            <Point id="geom_2370">
+                <coordinates>105.318756,61.52401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2460">
+            <name>Japan</name>
+            <Point id="geom_2371">
+                <coordinates>138.252924,36.204824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2461">
+            <name>New Zealand</name>
+            <Point id="geom_2372">
+                <coordinates>174.885971,-40.900557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2462">
+            <name>Washington DC</name>
+            <Point id="geom_2373">
+                <coordinates>-77.0364,38.8951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2463">
+            <name>Iowa</name>
+            <Point id="geom_2374">
+                <coordinates>-93.210526,42.011539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2464">
+            <name>Golden</name>
+            <Point id="geom_2375">
+                <coordinates>-105.2266667,39.5777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2465">
+            <name>Grinnell Iowa</name>
+            <Point id="geom_2376">
+                <coordinates>-92.7224,41.743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2466">
+            <name>Lake Powell</name>
+            <Point id="geom_2377">
+                <coordinates>-105.6603285,40.2549845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2467">
+            <name>Yosemite</name>
+            <Point id="geom_2378">
+                <coordinates>-112.1035514,40.511058,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

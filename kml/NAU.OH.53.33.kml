@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_3603">
+        <Placemark id="feat_3604">
+            <name>Dinosaur</name>
+            <Point id="geom_3483">
+                <coordinates>-109.0145613,40.243578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3605">
+            <name>Havasu</name>
+            <Point id="geom_3484">
+                <coordinates>-112.7643937,36.3072988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3606">
+            <name>Salt Lake</name>
+            <Point id="geom_3485">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3607">
+            <name>Crystal</name>
+            <Point id="geom_3486">
+                <coordinates>-112.2464654,36.1366442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3608">
+            <name>Prescott Arizona</name>
+            <Point id="geom_3487">
+                <coordinates>-112.3157,34.61,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3609">
+            <name>Tuna Creek</name>
+            <Point id="geom_3488">
+                <coordinates>-112.2576734,36.1427592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3610">
+            <name>Clay Basin</name>
+            <Point id="geom_3489">
+                <coordinates>-109.2320741,40.9744038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3611">
+            <name>Phantom</name>
+            <Point id="geom_3490">
+                <coordinates>-112.0876685,36.1160939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3612">
+            <name>Marble</name>
+            <Point id="geom_3491">
+                <coordinates>-107.1889377,39.0722106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3613">
+            <name>Stanley Idaho</name>
+            <Point id="geom_3492">
+                <coordinates>-114.9386,44.2174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3614">
+            <name>Utah</name>
+            <Point id="geom_3493">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3615">
+            <name>Fredonia</name>
+            <Point id="geom_3494">
+                <coordinates>-112.5265889,36.945542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3616">
+            <name>Alaska</name>
+            <Point id="geom_3495">
+                <coordinates>-152.404419,61.370716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3617">
+            <name>Granite</name>
+            <Point id="geom_3496">
+                <coordinates>-112.1835965,36.098559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3618">
+            <name>Green River Wyoming</name>
+            <Point id="geom_3497">
+                <coordinates>-109.4663,41.5286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3619">
+            <name>Glen Canyon Dam</name>
+            <Point id="geom_3498">
+                <coordinates>-111.484325,36.9374881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3620">
+            <name>Grand Canyon</name>
+            <Point id="geom_3499">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3621">
+            <name>Green River Utah</name>
+            <Point id="geom_3500">
+                <coordinates>-110.1618,38.9952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3622">
+            <name>Iceland</name>
+            <Point id="geom_3501">
+                <coordinates>-19.020835,64.963051,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3623">
+            <name>Idaho</name>
+            <Point id="geom_3502">
+                <coordinates>-114.478828,44.240459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3624">
+            <name>Vernal</name>
+            <Point id="geom_3503">
+                <coordinates>-107.8292277,38.3897096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3625">
+            <name>Canadian Texas</name>
+            <Point id="geom_3504">
+                <coordinates>-100.3821,35.9128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3626">
+            <name>Prescott</name>
+            <Point id="geom_3505">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3627">
+            <name>Bridge Canyon</name>
+            <Point id="geom_3506">
+                <coordinates>-113.5245939,35.7753297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3628">
+            <name>Kanab</name>
+            <Point id="geom_3507">
+                <coordinates>-112.6340788,36.3905385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3629">
+            <name>Lava Falls</name>
+            <Point id="geom_3508">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3630">
+            <name>Yampa</name>
+            <Point id="geom_3509">
+                <coordinates>-106.9086582,40.1524837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3631">
+            <name>Kanab Utah</name>
+            <Point id="geom_3510">
+                <coordinates>-112.5263,37.0475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3632">
+            <name>Tuscaloosa Alabama</name>
+            <Point id="geom_3511">
+                <coordinates>-87.5692,33.2098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3633">
+            <name>Deubendorff</name>
+            <Point id="geom_3512">
+                <coordinates>-112.4549089,36.3446113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3634">
+            <name>New Zealand</name>
+            <Point id="geom_3513">
+                <coordinates>174.885971,-40.900557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3635">
+            <name>Upset</name>
+            <Point id="geom_3514">
+                <coordinates>-112.6950973,36.3552725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3636">
+            <name>Diamond Creek</name>
+            <Point id="geom_3515">
+                <coordinates>-113.3758449,35.7649573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3637">
+            <name>Korea</name>
+            <Point id="geom_3516">
+                <coordinates>127.766922,35.907757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3638">
+            <name>Lava</name>
+            <Point id="geom_3517">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3639">
+            <name>Germany</name>
+            <Point id="geom_3518">
+                <coordinates>10.451526,51.165691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3640">
+            <name>Temple Bar</name>
+            <Point id="geom_3519">
+                <coordinates>-114.334294,36.0228132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3641">
+            <name>Texas</name>
+            <Point id="geom_3520">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3642">
+            <name>Flaming Gorge</name>
+            <Point id="geom_3521">
+                <coordinates>-109.6093107,40.9555148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3643">
+            <name>Los Angeles</name>
+            <Point id="geom_3522">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3644">
+            <name>Deer Creek</name>
+            <Point id="geom_3523">
+                <coordinates>-108.691156,31.4345501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3645">
+            <name>Phantom Ranch</name>
+            <Point id="geom_3524">
+                <coordinates>-112.0951686,36.1049828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3646">
+            <name>Page</name>
+            <Point id="geom_3525">
+                <coordinates>-111.8934886,34.7675199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3647">
+            <name>Hance</name>
+            <Point id="geom_3526">
+                <coordinates>-111.9203492,36.0459215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3648">
+            <name>California</name>
+            <Point id="geom_3527">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3649">
+            <name>Cedar City</name>
+            <Point id="geom_3528">
+                <coordinates>-91.6441,42.0083,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

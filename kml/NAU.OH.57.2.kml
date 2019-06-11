@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4605">
+        <Placemark id="feat_4606">
+            <name>Mayer</name>
+            <Point id="geom_4459">
+                <coordinates>-112.2362734,34.3978054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4607">
+            <name>Nevada</name>
+            <Point id="geom_4460">
+                <coordinates>-117.055374,38.313515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4608">
+            <name>Verde Valley</name>
+            <Point id="geom_4461">
+                <coordinates>-112.0462699,34.7839093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4609">
+            <name>United States</name>
+            <Point id="geom_4462">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4610">
+            <name>Flagstaff Arizona</name>
+            <Point id="geom_4463">
+                <coordinates>-111.6513,35.1981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4611">
+            <name>Winslow</name>
+            <Point id="geom_4464">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4612">
+            <name>Oak Creek Canyon</name>
+            <Point id="geom_4465">
+                <coordinates>-111.7268235,34.9125169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4613">
+            <name>Mogollon Rim</name>
+            <Point id="geom_4466">
+                <coordinates>-111.5984772,34.2503104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4614">
+            <name>Utah</name>
+            <Point id="geom_4467">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4615">
+            <name>Los Angeles</name>
+            <Point id="geom_4468">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4616">
+            <name>Kansas</name>
+            <Point id="geom_4469">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4617">
+            <name>Arizona</name>
+            <Point id="geom_4470">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4618">
+            <name>Humboldt</name>
+            <Point id="geom_4471">
+                <coordinates>-112.2373846,34.5008589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4619">
+            <name>Globe</name>
+            <Point id="geom_4472">
+                <coordinates>-110.7854739,33.3958623,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4620">
+            <name>Grand Canyon</name>
+            <Point id="geom_4473">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4621">
+            <name>New York</name>
+            <Point id="geom_4474">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4622">
+            <name>Cincinnati Ohio</name>
+            <Point id="geom_4475">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4623">
+            <name>New Mexico</name>
+            <Point id="geom_4476">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4624">
+            <name>Phoenix</name>
+            <Point id="geom_4477">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4625">
+            <name>Mormon Lake</name>
+            <Point id="geom_4478">
+                <coordinates>-111.4632051,34.9083543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4626">
+            <name>Williams</name>
+            <Point id="geom_4479">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4627">
+            <name>Kansas City</name>
+            <Point id="geom_4480">
+                <coordinates>-94.5786,39.0997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4628">
+            <name>Cincinnati</name>
+            <Point id="geom_4481">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4629">
+            <name>Yarnell Hill</name>
+            <Point id="geom_4482">
+                <coordinates>-112.7474007,34.2216927,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4630">
+            <name>Flagstaff</name>
+            <Point id="geom_4483">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4631">
+            <name>Navajo Reservation</name>
+            <Point id="geom_4484">
+                <coordinates>-109.7616834,36.1826153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4632">
+            <name>Tonto Basin</name>
+            <Point id="geom_4485">
+                <coordinates>-111.294575,33.8317111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4633">
+            <name>Prescott</name>
+            <Point id="geom_4486">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4634">
+            <name>Holbrook</name>
+            <Point id="geom_4487">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

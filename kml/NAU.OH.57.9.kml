@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4829">
+        <Placemark id="feat_4830">
+            <name>Nogales Arizona</name>
+            <Point id="geom_4673">
+                <coordinates>-110.9343,31.3404,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4831">
+            <name>Las Vegas</name>
+            <Point id="geom_4674">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4832">
+            <name>Durango</name>
+            <Point id="geom_4675">
+                <coordinates>-104.6576,24.0203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4833">
+            <name>Tucson</name>
+            <Point id="geom_4676">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4834">
+            <name>Spain</name>
+            <Point id="geom_4677">
+                <coordinates>-3.74922,40.463667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4835">
+            <name>Las Vegas New Mexico</name>
+            <Point id="geom_4678">
+                <coordinates>-105.2239,35.5939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4836">
+            <name>Benson</name>
+            <Point id="geom_4679">
+                <coordinates>-110.2945174,31.9678611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4837">
+            <name>Palominas</name>
+            <Point id="geom_4680">
+                <coordinates>-110.1184106,31.3798232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4838">
+            <name>Nogales</name>
+            <Point id="geom_4681">
+                <coordinates>-110.9422,31.3086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4839">
+            <name>Kansas</name>
+            <Point id="geom_4682">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4840">
+            <name>San Pedro River</name>
+            <Point id="geom_4683">
+                <coordinates>-110.7837169,32.9845103,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4841">
+            <name>Mexico</name>
+            <Point id="geom_4684">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4842">
+            <name>Boston</name>
+            <Point id="geom_4685">
+                <coordinates>-71.0598,42.3584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4843">
+            <name>Colorado</name>
+            <Point id="geom_4686">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4844">
+            <name>California</name>
+            <Point id="geom_4687">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4845">
+            <name>Fort Huachuca</name>
+            <Point id="geom_4688">
+                <coordinates>-110.319424,31.5537615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4846">
+            <name>Whetstone Mountains</name>
+            <Point id="geom_4689">
+                <coordinates>-110.350209,31.708711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4847">
+            <name>Pleasant Valley</name>
+            <Point id="geom_4690">
+                <coordinates>-111.9527189,41.1568884,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4848">
+            <name>Arizona</name>
+            <Point id="geom_4691">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4849">
+            <name>Santa Fe</name>
+            <Point id="geom_4692">
+                <coordinates>-74.0817,4.6097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4850">
+            <name>Kansas City</name>
+            <Point id="geom_4693">
+                <coordinates>-94.5786,39.0997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4851">
+            <name>Yavapai County</name>
+            <Point id="geom_4694">
+                <coordinates>-112.573745 ,34.630044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4852">
+            <name>Tubac</name>
+            <Point id="geom_4695">
+                <coordinates>-111.0459238,31.61259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4853">
+            <name>Santa Cruz</name>
+            <Point id="geom_4696">
+                <coordinates>-16.2546,28.4682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4854">
+            <name>New York</name>
+            <Point id="geom_4697">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4855">
+            <name>Harshaw</name>
+            <Point id="geom_4698">
+                <coordinates>-110.707029,31.4673182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4856">
+            <name>New York City</name>
+            <Point id="geom_4699">
+                <coordinates>-74.006,40.7143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4857">
+            <name>Naco</name>
+            <Point id="geom_4700">
+                <coordinates>-109.9481297,31.3353801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4858">
+            <name>Geronimo</name>
+            <Point id="geom_4701">
+                <coordinates>-110.0350848,33.0770031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4859">
+            <name>Calabasas</name>
+            <Point id="geom_4702">
+                <coordinates>-110.9753657,31.4673163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4860">
+            <name>Sonoita Creek</name>
+            <Point id="geom_4703">
+                <coordinates>-110.9792546,31.4614832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4861">
+            <name>Washington</name>
+            <Point id="geom_4704">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4862">
+            <name>Las Cruces New Mexico</name>
+            <Point id="geom_4705">
+                <coordinates>-106.7783,32.3123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4863">
+            <name>San Francisco</name>
+            <Point id="geom_4706">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4864">
+            <name>New Mexico</name>
+            <Point id="geom_4707">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4865">
+            <name>Guaymas</name>
+            <Point id="geom_4708">
+                <coordinates>-110.8975,27.9193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4866">
+            <name>Gold Hill</name>
+            <Point id="geom_4709">
+                <coordinates>-106.0483521,39.5452645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4867">
+            <name>Tumacacori</name>
+            <Point id="geom_4710">
+                <coordinates>-111.0523126,31.568702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4868">
+            <name>Helvetia</name>
+            <Point id="geom_4711">
+                <coordinates>-121.4944,38.5816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4869">
+            <name>Pima County</name>
+            <Point id="geom_4712">
+                <coordinates>-111.783018 ,32.128237,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4870">
+            <name>Sacaton</name>
+            <Point id="geom_4713">
+                <coordinates>-111.7392993,33.0767226,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

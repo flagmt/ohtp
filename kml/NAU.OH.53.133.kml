@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_2614">
+        <Placemark id="feat_2615">
+            <name>Havasu</name>
+            <Point id="geom_2520">
+                <coordinates>-112.7643937,36.3072988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2616">
+            <name>Crystal</name>
+            <Point id="geom_2521">
+                <coordinates>-112.2464654,36.1366442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2617">
+            <name>Florida</name>
+            <Point id="geom_2522">
+                <coordinates>-81.686783,27.766279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2618">
+            <name>Kanab Utah</name>
+            <Point id="geom_2523">
+                <coordinates>-112.5263,37.0475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2619">
+            <name>Belize</name>
+            <Point id="geom_2524">
+                <coordinates>-88.49765,17.189877,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2620">
+            <name>Oregon</name>
+            <Point id="geom_2525">
+                <coordinates>-122.070938,44.572021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2621">
+            <name>Upset</name>
+            <Point id="geom_2526">
+                <coordinates>-112.6950973,36.3552725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2622">
+            <name>Fredonia</name>
+            <Point id="geom_2527">
+                <coordinates>-112.5265889,36.945542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2623">
+            <name>Colorado</name>
+            <Point id="geom_2528">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2624">
+            <name>Fern Glen</name>
+            <Point id="geom_2529">
+                <coordinates>-112.9189169,36.258203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2625">
+            <name>Tuna</name>
+            <Point id="geom_2530">
+                <coordinates>-112.2576734,36.1427592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2626">
+            <name>Sapphire</name>
+            <Point id="geom_2531">
+                <coordinates>-112.2926972,36.1473585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2627">
+            <name>Lava</name>
+            <Point id="geom_2532">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2628">
+            <name>Lees Ferry</name>
+            <Point id="geom_2533">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2629">
+            <name>Grand Canyon</name>
+            <Point id="geom_2534">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2630">
+            <name>Hermit</name>
+            <Point id="geom_2535">
+                <coordinates>-111.8818842,41.2507764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2631">
+            <name>Diamond</name>
+            <Point id="geom_2536">
+                <coordinates>-112.0974446,39.881617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2632">
+            <name>Belize City</name>
+            <Point id="geom_2537">
+                <coordinates>-88.1976,17.4995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2633">
+            <name>Yampa</name>
+            <Point id="geom_2538">
+                <coordinates>-106.9086582,40.1524837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2634">
+            <name>Fossil</name>
+            <Point id="geom_2539">
+                <coordinates>-112.5268513,36.2735922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2635">
+            <name>Nankoweap</name>
+            <Point id="geom_2540">
+                <coordinates>-111.8555457,36.3048886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2636">
+            <name>Vernal</name>
+            <Point id="geom_2541">
+                <coordinates>-107.8292277,38.3897096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2637">
+            <name>Washington</name>
+            <Point id="geom_2542">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2638">
+            <name>Aspen</name>
+            <Point id="geom_2543">
+                <coordinates>-106.7167218,39.2014195,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2639">
+            <name>Hance</name>
+            <Point id="geom_2544">
+                <coordinates>-111.9203492,36.0459215,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

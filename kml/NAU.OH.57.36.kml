@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4793">
+        <Placemark id="feat_4794">
+            <name>Grand Canyon</name>
+            <Point id="geom_4639">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4795">
+            <name>Pueblo</name>
+            <Point id="geom_4640">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4796">
+            <name>Australia</name>
+            <Point id="geom_4641">
+                <coordinates>133.775136,-25.274398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4797">
+            <name>Wilmington California</name>
+            <Point id="geom_4642">
+                <coordinates>-118.2626,33.78,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4798">
+            <name>Nashville</name>
+            <Point id="geom_4643">
+                <coordinates>-86.7844,36.1659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4799">
+            <name>Pueblo Colorado</name>
+            <Point id="geom_4644">
+                <coordinates>-104.6091,38.2544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4800">
+            <name>Oakland California</name>
+            <Point id="geom_4645">
+                <coordinates>-122.2708,37.8044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4801">
+            <name>Pasadena</name>
+            <Point id="geom_4646">
+                <coordinates>-95.2091,29.6911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4802">
+            <name>Saint Louis</name>
+            <Point id="geom_4647">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4803">
+            <name>Arizona</name>
+            <Point id="geom_4648">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4804">
+            <name>Canyon Diablo</name>
+            <Point id="geom_4649">
+                <coordinates>-111.117644,35.1627902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4805">
+            <name>Boston</name>
+            <Point id="geom_4650">
+                <coordinates>-71.0598,42.3584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4806">
+            <name>Mount Pleasant Tennessee</name>
+            <Point id="geom_4651">
+                <coordinates>-87.207,35.5342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4807">
+            <name>California</name>
+            <Point id="geom_4652">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4808">
+            <name>Prescott</name>
+            <Point id="geom_4653">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4809">
+            <name>Flagstaff</name>
+            <Point id="geom_4654">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

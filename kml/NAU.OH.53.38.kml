@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_3766">
+        <Placemark id="feat_3767">
+            <name>Thunder River</name>
+            <Point id="geom_3643">
+                <coordinates>-112.4512936,36.3919268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3768">
+            <name>Las Vegas</name>
+            <Point id="geom_3644">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3769">
+            <name>Florida</name>
+            <Point id="geom_3645">
+                <coordinates>-81.686783,27.766279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3770">
+            <name>Mexico</name>
+            <Point id="geom_3646">
+                <coordinates>-102.552784,23.634501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3771">
+            <name>United States</name>
+            <Point id="geom_3647">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3772">
+            <name>Montana</name>
+            <Point id="geom_3648">
+                <coordinates>-110.454353,46.921925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3773">
+            <name>Echo Park</name>
+            <Point id="geom_3649">
+                <coordinates>-118.2607,34.0781,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3774">
+            <name>Canyonlands</name>
+            <Point id="geom_3650">
+                <coordinates>-109.75484,38.75496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3775">
+            <name>Utah</name>
+            <Point id="geom_3651">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3776">
+            <name>Rainbow Bridge</name>
+            <Point id="geom_3652">
+                <coordinates>-110.9762592,37.0927718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3777">
+            <name>Colorado</name>
+            <Point id="geom_3653">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3778">
+            <name>Lake Powell</name>
+            <Point id="geom_3654">
+                <coordinates>-105.6603285,40.2549845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3779">
+            <name>Arizona</name>
+            <Point id="geom_3655">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3780">
+            <name>Asia</name>
+            <Point id="geom_3656">
+                <coordinates>89.2969,29.8406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3781">
+            <name>Moab</name>
+            <Point id="geom_3657">
+                <coordinates>-109.5498395,38.5733155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3782">
+            <name>Nevada</name>
+            <Point id="geom_3658">
+                <coordinates>-117.055374,38.313515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3783">
+            <name>Marble Canyon</name>
+            <Point id="geom_3659">
+                <coordinates>-111.6376612,36.8155432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3784">
+            <name>Grand Canyon</name>
+            <Point id="geom_3660">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3785">
+            <name>Glen Canyon</name>
+            <Point id="geom_3661">
+                <coordinates>-111.5879381,36.8644321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3787">
+            <name>Turkey</name>
+            <Point id="geom_3663">
+                <coordinates>35.243322,38.963745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3788">
+            <name>Page</name>
+            <Point id="geom_3664">
+                <coordinates>-111.8934886,34.7675199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3789">
+            <name>Denver</name>
+            <Point id="geom_3665">
+                <coordinates>-104.9847,39.7392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3790">
+            <name>Kyoto Japan</name>
+            <Point id="geom_3666">
+                <coordinates>135.7538,35.0211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3791">
+            <name>Mississippi</name>
+            <Point id="geom_3667">
+                <coordinates>-89.678696,32.741646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3792">
+            <name>China</name>
+            <Point id="geom_3668">
+                <coordinates>104.195397,35.86166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3793">
+            <name>Wyoming</name>
+            <Point id="geom_3669">
+                <coordinates>-107.302490,42.755966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3794">
+            <name>Maine</name>
+            <Point id="geom_3670">
+                <coordinates>-69.381927,44.693947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3795">
+            <name>Prescott</name>
+            <Point id="geom_3671">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3796">
+            <name>Bridge Canyon</name>
+            <Point id="geom_3672">
+                <coordinates>-113.5245939,35.7753297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3797">
+            <name>France</name>
+            <Point id="geom_3673">
+                <coordinates>2.213749,46.227638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3798">
+            <name>Saint George</name>
+            <Point id="geom_3674">
+                <coordinates>-13.2299,8.484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3799">
+            <name>Tucson</name>
+            <Point id="geom_3675">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3800">
+            <name>Aspen Colorado</name>
+            <Point id="geom_3676">
+                <coordinates>-106.8175,39.1911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3801">
+            <name>U.S.</name>
+            <Point id="geom_3677">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3802">
+            <name>Japan</name>
+            <Point id="geom_3678">
+                <coordinates>138.252924,36.204824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3803">
+            <name>Brazil</name>
+            <Point id="geom_3679">
+                <coordinates>-51.92528,-14.235004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3804">
+            <name>Glen Canyon Dam</name>
+            <Point id="geom_3680">
+                <coordinates>-111.484325,36.9374881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3805">
+            <name>Flagstaff Arizona</name>
+            <Point id="geom_3681">
+                <coordinates>-111.6513,35.1981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3806">
+            <name>Flaming Gorge Dam</name>
+            <Point id="geom_3682">
+                <coordinates>-109.4215791,40.914685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3807">
+            <name>Saint George Utah</name>
+            <Point id="geom_3683">
+                <coordinates>-113.5841,37.1041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3808">
+            <name>New York</name>
+            <Point id="geom_3684">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3809">
+            <name>Europe</name>
+            <Point id="geom_3685">
+                <coordinates>7.4268,50.2191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3810">
+            <name>Flaming Gorge</name>
+            <Point id="geom_3686">
+                <coordinates>-109.6093107,40.9555148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3811">
+            <name>California</name>
+            <Point id="geom_3687">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3812">
+            <name>Washington</name>
+            <Point id="geom_3688">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3813">
+            <name>Salt Lake City</name>
+            <Point id="geom_3689">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3814">
+            <name>Flagstaff</name>
+            <Point id="geom_3690">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3815">
+            <name>Missouri</name>
+            <Point id="geom_3691">
+                <coordinates>-92.288368,38.456085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3816">
+            <name>Mexico City</name>
+            <Point id="geom_3692">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

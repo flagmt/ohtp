@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4739">
+        <Placemark id="feat_4740">
+            <name>Dodge City</name>
+            <Point id="geom_4588">
+                <coordinates>-100.0171,37.7528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4741">
+            <name>Little Colorado River</name>
+            <Point id="geom_4589">
+                <coordinates>-111.8037701,36.1910972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4742">
+            <name>Phoenix</name>
+            <Point id="geom_4590">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4743">
+            <name>Flagstaff</name>
+            <Point id="geom_4591">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4744">
+            <name>Tuba City</name>
+            <Point id="geom_4592">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4745">
+            <name>Tombstone</name>
+            <Point id="geom_4593">
+                <coordinates>-110.0675764,31.7128683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4746">
+            <name>Phoenix Arizona</name>
+            <Point id="geom_4594">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4747">
+            <name>Moenkopi</name>
+            <Point id="geom_4595">
+                <coordinates>-111.2223624,36.1111043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4748">
+            <name>Canyon Diablo</name>
+            <Point id="geom_4596">
+                <coordinates>-111.117644,35.1627902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4749">
+            <name>Coconino County</name>
+            <Point id="geom_4597">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4750">
+            <name>Flagstaff Arizona</name>
+            <Point id="geom_4598">
+                <coordinates>-111.6513,35.1981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4751">
+            <name>Arizona</name>
+            <Point id="geom_4599">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4752">
+            <name>Cuba</name>
+            <Point id="geom_4600">
+                <coordinates>-77.781167,21.521757,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

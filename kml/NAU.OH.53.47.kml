@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_3953">
+        <Placemark id="feat_3954">
+            <name>Boston</name>
+            <Point id="geom_3826">
+                <coordinates>-71.0598,42.3584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3955">
+            <name>Havasu</name>
+            <Point id="geom_3827">
+                <coordinates>-112.7643937,36.3072988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3956">
+            <name>United States</name>
+            <Point id="geom_3828">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3957">
+            <name>Rider Canyon</name>
+            <Point id="geom_3829">
+                <coordinates>-111.741552,36.6738757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3958">
+            <name>Crystal</name>
+            <Point id="geom_3830">
+                <coordinates>-112.2464654,36.1366442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3959">
+            <name>Vietnam</name>
+            <Point id="geom_3831">
+                <coordinates>108.277199,14.058324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3960">
+            <name>Africa</name>
+            <Point id="geom_3832">
+                <coordinates>21.0938,7.1881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3961">
+            <name>Saigon</name>
+            <Point id="geom_3833">
+                <coordinates>106.6296,10.823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3962">
+            <name>House Rock</name>
+            <Point id="geom_3834">
+                <coordinates>-111.7400124,36.67345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3963">
+            <name>San Juan</name>
+            <Point id="geom_3835">
+                <coordinates>121.0333,14.6,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3964">
+            <name>Colorado</name>
+            <Point id="geom_3836">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3965">
+            <name>Iowa</name>
+            <Point id="geom_3837">
+                <coordinates>-93.210526,42.011539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3966">
+            <name>Nevada</name>
+            <Point id="geom_3838">
+                <coordinates>-117.055374,38.313515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3967">
+            <name>Havasu Falls</name>
+            <Point id="geom_3839">
+                <coordinates>-112.6979523,36.2551476,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3968">
+            <name>Arizona</name>
+            <Point id="geom_3840">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3969">
+            <name>Crystal Rapid</name>
+            <Point id="geom_3841">
+                <coordinates>-112.2464654,36.1366442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3970">
+            <name>Lees Ferry</name>
+            <Point id="geom_3842">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3971">
+            <name>Marble Canyon</name>
+            <Point id="geom_3843">
+                <coordinates>-111.6376612,36.8155432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3972">
+            <name>Grand Canyon</name>
+            <Point id="geom_3844">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3973">
+            <name>Tucson</name>
+            <Point id="geom_3845">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3974">
+            <name>Nankoweap</name>
+            <Point id="geom_3846">
+                <coordinates>-111.8555457,36.3048886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3975">
+            <name>Williams Arizona</name>
+            <Point id="geom_3847">
+                <coordinates>-112.191,35.2495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3976">
+            <name>Thailand</name>
+            <Point id="geom_3848">
+                <coordinates>100.992541,15.870032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3977">
+            <name>Phoenix</name>
+            <Point id="geom_3849">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3978">
+            <name>Williams</name>
+            <Point id="geom_3850">
+                <coordinates>-107.2933624,33.1161825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3979">
+            <name>Kingman</name>
+            <Point id="geom_3851">
+                <coordinates>-114.0326559,35.1963425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3980">
+            <name>South America</name>
+            <Point id="geom_3852">
+                <coordinates>-57.6563,-14.6049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3981">
+            <name>Deer Creek</name>
+            <Point id="geom_3853">
+                <coordinates>-108.691156,31.4345501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3982">
+            <name>Cortez</name>
+            <Point id="geom_3854">
+                <coordinates>-108.5859265,37.3488827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3983">
+            <name>Tanzania</name>
+            <Point id="geom_3855">
+                <coordinates>34.888822,-6.369028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3984">
+            <name>California</name>
+            <Point id="geom_3856">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3985">
+            <name>Phantom Ranch</name>
+            <Point id="geom_3857">
+                <coordinates>-112.0951686,36.1049828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3986">
+            <name>Flagstaff</name>
+            <Point id="geom_3858">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

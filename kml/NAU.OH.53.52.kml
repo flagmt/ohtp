@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_3987">
+        <Placemark id="feat_3988">
+            <name>Richmond California</name>
+            <Point id="geom_3859">
+                <coordinates>-122.3478,37.9358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3989">
+            <name>Thunder River</name>
+            <Point id="geom_3860">
+                <coordinates>-112.4512936,36.3919268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3990">
+            <name>Ithaca New York</name>
+            <Point id="geom_3861">
+                <coordinates>-76.4966,42.4406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3991">
+            <name>Granite</name>
+            <Point id="geom_3862">
+                <coordinates>-112.1835965,36.098559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3992">
+            <name>Lava Falls</name>
+            <Point id="geom_3863">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3993">
+            <name>Lees Ferry</name>
+            <Point id="geom_3864">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3994">
+            <name>Nevills</name>
+            <Point id="geom_3865">
+                <coordinates>-111.9027152,36.0522331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3995">
+            <name>Tapeats Creek</name>
+            <Point id="geom_3866">
+                <coordinates>-112.4693497,36.3705377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3996">
+            <name>Unkar</name>
+            <Point id="geom_3867">
+                <coordinates>-111.8712712,36.0783188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3997">
+            <name>House Rock</name>
+            <Point id="geom_3868">
+                <coordinates>-111.7400124,36.67345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3998">
+            <name>South Cove</name>
+            <Point id="geom_3869">
+                <coordinates>-114.0980174,36.0905415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3999">
+            <name>Deubendorff</name>
+            <Point id="geom_3870">
+                <coordinates>-112.4549089,36.3446113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4000">
+            <name>San Juan</name>
+            <Point id="geom_3871">
+                <coordinates>121.0333,14.6,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4001">
+            <name>Utah</name>
+            <Point id="geom_3872">
+                <coordinates>-111.862434,40.150032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4002">
+            <name>Rainbow Bridge</name>
+            <Point id="geom_3873">
+                <coordinates>-110.9762592,37.0927718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4003">
+            <name>Diamond Creek</name>
+            <Point id="geom_3874">
+                <coordinates>-113.3758449,35.7649573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4004">
+            <name>Ithaca</name>
+            <Point id="geom_3875">
+                <coordinates>-76.4966,42.4406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4005">
+            <name>Arizona</name>
+            <Point id="geom_3876">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4006">
+            <name>Lava</name>
+            <Point id="geom_3877">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4007">
+            <name>Phantom</name>
+            <Point id="geom_3878">
+                <coordinates>-112.0876685,36.1160939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4008">
+            <name>Grand Canyon</name>
+            <Point id="geom_3879">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4009">
+            <name>Crystal</name>
+            <Point id="geom_3880">
+                <coordinates>-112.2464654,36.1366442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4010">
+            <name>New York</name>
+            <Point id="geom_3881">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4011">
+            <name>Nankoweap</name>
+            <Point id="geom_3882">
+                <coordinates>-111.8555457,36.3048886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4012">
+            <name>Berkeley</name>
+            <Point id="geom_3883">
+                <coordinates>-122.2728,37.8716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4013">
+            <name>Deer Creek</name>
+            <Point id="geom_3884">
+                <coordinates>-108.691156,31.4345501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4014">
+            <name>Elves</name>
+            <Point id="geom_3885">
+                <coordinates>-112.4507366,36.1963701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4015">
+            <name>Chino Valley</name>
+            <Point id="geom_3886">
+                <coordinates>-112.4537809,34.7575227,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4016">
+            <name>Mineral Bottom</name>
+            <Point id="geom_3887">
+                <coordinates>-78.6722,39.5382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4017">
+            <name>Granite Falls</name>
+            <Point id="geom_3888">
+                <coordinates>-81.4306,35.7965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4018">
+            <name>Flagstaff</name>
+            <Point id="geom_3889">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4019">
+            <name>Prescott</name>
+            <Point id="geom_3890">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4020">
+            <name>Binghamton</name>
+            <Point id="geom_3891">
+                <coordinates>-75.918,42.0987,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

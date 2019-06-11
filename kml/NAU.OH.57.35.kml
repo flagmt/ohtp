@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4781">
+        <Placemark id="feat_4782">
+            <name>Yavapai County</name>
+            <Point id="geom_4628">
+                <coordinates>-112.573745 ,34.630044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4783">
+            <name>Jerome</name>
+            <Point id="geom_4629">
+                <coordinates>-112.1137716,34.7489107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4784">
+            <name>Munds Canyon</name>
+            <Point id="geom_4630">
+                <coordinates>-111.7259901,34.9116836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4785">
+            <name>Oak Creek</name>
+            <Point id="geom_4631">
+                <coordinates>-106.9600067,40.2758503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4786">
+            <name>Indian Gardens</name>
+            <Point id="geom_4632">
+                <coordinates>-111.7271013,34.9139058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4787">
+            <name>Verde Valley</name>
+            <Point id="geom_4633">
+                <coordinates>-112.0462699,34.7839093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4788">
+            <name>Buffalo New York</name>
+            <Point id="geom_4634">
+                <coordinates>-78.8784,42.8865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4789">
+            <name>Munds Park</name>
+            <Point id="geom_4635">
+                <coordinates>-111.6401551,34.945574,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4790">
+            <name>Sedona</name>
+            <Point id="geom_4636">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4791">
+            <name>Arizona</name>
+            <Point id="geom_4637">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4792">
+            <name>Flagstaff</name>
+            <Point id="geom_4638">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

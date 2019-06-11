@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_2832">
+        <Placemark id="feat_2833">
+            <name>Coos Bay Oregon</name>
+            <Point id="geom_2733">
+                <coordinates>-124.2179,43.3665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2834">
+            <name>Las Vegas</name>
+            <Point id="geom_2734">
+                <coordinates>-115.1372,36.175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2835">
+            <name>Granite</name>
+            <Point id="geom_2735">
+                <coordinates>-112.1835965,36.098559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2836">
+            <name>Hermit</name>
+            <Point id="geom_2736">
+                <coordinates>-111.8818842,41.2507764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2837">
+            <name>Myrtle Point</name>
+            <Point id="geom_2737">
+                <coordinates>-124.139,43.0648,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2838">
+            <name>Palm Springs</name>
+            <Point id="geom_2738">
+                <coordinates>-111.5384662,33.4047711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2839">
+            <name>Australia</name>
+            <Point id="geom_2739">
+                <coordinates>133.775136,-25.274398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2840">
+            <name>Myrtle Point Oregon</name>
+            <Point id="geom_2740">
+                <coordinates>-124.139,43.0648,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2841">
+            <name>South Cove</name>
+            <Point id="geom_2741">
+                <coordinates>-114.0980174,36.0905415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2842">
+            <name>Roseburg</name>
+            <Point id="geom_2742">
+                <coordinates>-123.3417,43.2165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2843">
+            <name>Indian Gardens</name>
+            <Point id="geom_2743">
+                <coordinates>-111.7271013,34.9139058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2844">
+            <name>US</name>
+            <Point id="geom_2744">
+                <coordinates>-95.7129,37.0902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2845">
+            <name>Oakland</name>
+            <Point id="geom_2745">
+                <coordinates>-122.2708,37.8044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2846">
+            <name>Kansas</name>
+            <Point id="geom_2746">
+                <coordinates>-96.726486,38.526600,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2847">
+            <name>Arizona</name>
+            <Point id="geom_2747">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2848">
+            <name>Vietnam</name>
+            <Point id="geom_2748">
+                <coordinates>108.277199,14.058324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2849">
+            <name>Lees Ferry</name>
+            <Point id="geom_2749">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2850">
+            <name>Marble Canyon</name>
+            <Point id="geom_2750">
+                <coordinates>-111.6376612,36.8155432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2851">
+            <name>Meadview</name>
+            <Point id="geom_2751">
+                <coordinates>-114.0682936,36.0022091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2852">
+            <name>Grand Canyon</name>
+            <Point id="geom_2752">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2853">
+            <name>Gold Beach Oregon</name>
+            <Point id="geom_2753">
+                <coordinates>-124.4218,42.4073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2854">
+            <name>Roseburg Oregon</name>
+            <Point id="geom_2754">
+                <coordinates>-123.3417,43.2165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2855">
+            <name>New York</name>
+            <Point id="geom_2755">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2856">
+            <name>Nankoweap</name>
+            <Point id="geom_2756">
+                <coordinates>-111.8555457,36.3048886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2857">
+            <name>New York City</name>
+            <Point id="geom_2757">
+                <coordinates>-74.006,40.7143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2858">
+            <name>Phoenix</name>
+            <Point id="geom_2758">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2859">
+            <name>San Diego</name>
+            <Point id="geom_2759">
+                <coordinates>-117.1573,32.7153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2860">
+            <name>Bright Angel Trail</name>
+            <Point id="geom_2760">
+                <coordinates>-112.1329471,36.0691495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2861">
+            <name>Charleston</name>
+            <Point id="geom_2761">
+                <coordinates>-79.9309,32.7766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2862">
+            <name>Idaho</name>
+            <Point id="geom_2762">
+                <coordinates>-114.478828,44.240459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2863">
+            <name>Washington</name>
+            <Point id="geom_2763">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2864">
+            <name>Colby Kansas</name>
+            <Point id="geom_2764">
+                <coordinates>-101.0524,39.3958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2865">
+            <name>San Francisco</name>
+            <Point id="geom_2765">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2866">
+            <name>Horn Creek</name>
+            <Point id="geom_2766">
+                <coordinates>-112.1347811,36.0995167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2867">
+            <name>Gold Beach</name>
+            <Point id="geom_2767">
+                <coordinates>153.4658,-28.1169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2868">
+            <name>Paria</name>
+            <Point id="geom_2768">
+                <coordinates>-111.6025147,36.8561591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2869">
+            <name>Phantom Ranch</name>
+            <Point id="geom_2769">
+                <coordinates>-112.0951686,36.1049828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2870">
+            <name>Flagstaff</name>
+            <Point id="geom_2770">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

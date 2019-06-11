@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4643">
+        <Placemark id="feat_4644">
+            <name>Albuquerque</name>
+            <Point id="geom_4495">
+                <coordinates>-106.6511,35.0845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4645">
+            <name>Marysville California</name>
+            <Point id="geom_4496">
+                <coordinates>-121.5914,39.1457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4646">
+            <name>California</name>
+            <Point id="geom_4497">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4647">
+            <name>Grand Canyon</name>
+            <Point id="geom_4498">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4648">
+            <name>Canyon Diablo</name>
+            <Point id="geom_4499">
+                <coordinates>-111.117644,35.1627902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4649">
+            <name>Winslow</name>
+            <Point id="geom_4500">
+                <coordinates>-111.8841021,40.6943912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4650">
+            <name>Bakersfield</name>
+            <Point id="geom_4501">
+                <coordinates>-119.0187,35.3733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4651">
+            <name>Boston</name>
+            <Point id="geom_4502">
+                <coordinates>-71.0598,42.3584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4652">
+            <name>Coconino County</name>
+            <Point id="geom_4503">
+                <coordinates>-111.773728 ,35.829692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4653">
+            <name>San Francisco</name>
+            <Point id="geom_4504">
+                <coordinates>-121.895,37.3394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4654">
+            <name>Rochester</name>
+            <Point id="geom_4505">
+                <coordinates>0.5055,51.3876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4655">
+            <name>Boston Massachusetts</name>
+            <Point id="geom_4506">
+                <coordinates>-71.0598,42.3584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4656">
+            <name>Clear Creek</name>
+            <Point id="geom_4507">
+                <coordinates>-112.3518757,38.5763607,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4657">
+            <name>Marysville</name>
+            <Point id="geom_4508">
+                <coordinates>-111.8340304,33.4797668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4658">
+            <name>New River</name>
+            <Point id="geom_4509">
+                <coordinates>-122.6762,45.5234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4659">
+            <name>New York</name>
+            <Point id="geom_4510">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4660">
+            <name>Colorado</name>
+            <Point id="geom_4511">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4661">
+            <name>New York City</name>
+            <Point id="geom_4512">
+                <coordinates>-74.006,40.7143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4662">
+            <name>New Hampshire</name>
+            <Point id="geom_4513">
+                <coordinates>-71.563896,43.452492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4663">
+            <name>Phoenix</name>
+            <Point id="geom_4514">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4664">
+            <name>Camp Verde</name>
+            <Point id="geom_4515">
+                <coordinates>-111.8614523,34.5652435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4665">
+            <name>Kansas City</name>
+            <Point id="geom_4516">
+                <coordinates>-94.5786,39.0997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4666">
+            <name>Apache County</name>
+            <Point id="geom_4517">
+                <coordinates>-109.493747 ,35.385845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4667">
+            <name>Washington</name>
+            <Point id="geom_4518">
+                <coordinates>-121.490494,47.400902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4668">
+            <name>Phoenix Arizona</name>
+            <Point id="geom_4519">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4669">
+            <name>Arizona</name>
+            <Point id="geom_4520">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4670">
+            <name>New Mexico</name>
+            <Point id="geom_4521">
+                <coordinates>-106.248482,34.840515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4671">
+            <name>Arkansas</name>
+            <Point id="geom_4522">
+                <coordinates>-92.373123,34.969704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4672">
+            <name>Holbrook</name>
+            <Point id="geom_4523">
+                <coordinates>-110.1581768,34.9022483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4673">
+            <name>Concord New Hampshire</name>
+            <Point id="geom_4524">
+                <coordinates>-71.5376,43.2081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4674">
+            <name>Prescott</name>
+            <Point id="geom_4525">
+                <coordinates>-112.4685025,34.5400242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4675">
+            <name>Flagstaff</name>
+            <Point id="geom_4526">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

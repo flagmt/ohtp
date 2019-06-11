@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4338">
+        <Placemark id="feat_4339">
+            <name>Sydney</name>
+            <Point id="geom_4199">
+                <coordinates>-112.5838,33.3703,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4340">
+            <name>Port Moresby</name>
+            <Point id="geom_4200">
+                <coordinates>147.1797,-9.4431,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4341">
+            <name>Jayapura</name>
+            <Point id="geom_4201">
+                <coordinates>75.7878,26.9196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4342">
+            <name>Salt Lake</name>
+            <Point id="geom_4202">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4343">
+            <name>New Jersey</name>
+            <Point id="geom_4203">
+                <coordinates>-74.521011,40.298904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4344">
+            <name>Indonesia</name>
+            <Point id="geom_4204">
+                <coordinates>113.921327,-0.789275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4345">
+            <name>Horn Creek</name>
+            <Point id="geom_4205">
+                <coordinates>-112.1347811,36.0995167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4346">
+            <name>Australia</name>
+            <Point id="geom_4206">
+                <coordinates>133.775136,-25.274398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4347">
+            <name>Germany</name>
+            <Point id="geom_4207">
+                <coordinates>10.451526,51.165691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4348">
+            <name>Fredonia</name>
+            <Point id="geom_4208">
+                <coordinates>-112.5265889,36.945542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4349">
+            <name>Townsville</name>
+            <Point id="geom_4209">
+                <coordinates>146.8057,-19.2664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4350">
+            <name>Marble</name>
+            <Point id="geom_4210">
+                <coordinates>-107.1889377,39.0722106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4351">
+            <name>Echo Cliffs</name>
+            <Point id="geom_4211">
+                <coordinates>-111.525428,36.4124889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4352">
+            <name>Madison Wisconsin</name>
+            <Point id="geom_4212">
+                <coordinates>-89.4012,43.0731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4353">
+            <name>La Paz</name>
+            <Point id="geom_4213">
+                <coordinates>-68.15,-16.5,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4354">
+            <name>Groton Connecticut</name>
+            <Point id="geom_4214">
+                <coordinates>-72.0784,41.3501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4355">
+            <name>Lake Powell</name>
+            <Point id="geom_4215">
+                <coordinates>-105.6603285,40.2549845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4356">
+            <name>Arizona</name>
+            <Point id="geom_4216">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4357">
+            <name>Asia</name>
+            <Point id="geom_4217">
+                <coordinates>89.2969,29.8406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4358">
+            <name>Wisconsin</name>
+            <Point id="geom_4218">
+                <coordinates>-89.616508,44.268543,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4359">
+            <name>Grand Canyon</name>
+            <Point id="geom_4219">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4360">
+            <name>Crystal</name>
+            <Point id="geom_4220">
+                <coordinates>-112.2464654,36.1366442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4361">
+            <name>Page</name>
+            <Point id="geom_4221">
+                <coordinates>-111.8934886,34.7675199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4362">
+            <name>Essex Connecticut</name>
+            <Point id="geom_4222">
+                <coordinates>-72.391,41.3554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4363">
+            <name>Saddle Canyon</name>
+            <Point id="geom_4223">
+                <coordinates>-110.4959284,32.8222889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4364">
+            <name>Milwaukee</name>
+            <Point id="geom_4224">
+                <coordinates>-87.9065,43.0389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4365">
+            <name>Detroit</name>
+            <Point id="geom_4225">
+                <coordinates>-83.0457,42.3314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4366">
+            <name>Phantom Ranch</name>
+            <Point id="geom_4226">
+                <coordinates>-112.0951686,36.1049828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4367">
+            <name>Cannes</name>
+            <Point id="geom_4227">
+                <coordinates>7.0127,43.5513,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4368">
+            <name>Kanab</name>
+            <Point id="geom_4228">
+                <coordinates>-112.6340788,36.3905385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4369">
+            <name>Hamilton</name>
+            <Point id="geom_4229">
+                <coordinates>-79.8496,43.2501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4370">
+            <name>Tuba City</name>
+            <Point id="geom_4230">
+                <coordinates>-111.2398625,36.1349928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4371">
+            <name>Hermit</name>
+            <Point id="geom_4231">
+                <coordinates>-111.8818842,41.2507764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4372">
+            <name>Africa</name>
+            <Point id="geom_4232">
+                <coordinates>21.0938,7.1881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4373">
+            <name>House Rock Valley</name>
+            <Point id="geom_4233">
+                <coordinates>-111.7418298,36.6738757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4374">
+            <name>Marble Canyon</name>
+            <Point id="geom_4234">
+                <coordinates>-111.6376612,36.8155432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4375">
+            <name>Tuba</name>
+            <Point id="geom_4235">
+                <coordinates>-15.8833,14.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4376">
+            <name>South Cove</name>
+            <Point id="geom_4236">
+                <coordinates>-114.0980174,36.0905415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4377">
+            <name>Philippines</name>
+            <Point id="geom_4237">
+                <coordinates>121.774017,12.879721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4378">
+            <name>Mogollon Rim</name>
+            <Point id="geom_4238">
+                <coordinates>-111.5984772,34.2503104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4379">
+            <name>Jacob Lake</name>
+            <Point id="geom_4239">
+                <coordinates>-112.2162896,36.7133235,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4380">
+            <name>Canada</name>
+            <Point id="geom_4240">
+                <coordinates>-106.346771,56.130366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4381">
+            <name>Phoenix Arizona</name>
+            <Point id="geom_4241">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4382">
+            <name>Lees Ferry</name>
+            <Point id="geom_4242">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4383">
+            <name>Long Island</name>
+            <Point id="geom_4243">
+                <coordinates>-73.9488,40.7448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4384">
+            <name>New Guinea</name>
+            <Point id="geom_4244">
+                <coordinates>145.3873,-6.0834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4385">
+            <name>New York City</name>
+            <Point id="geom_4245">
+                <coordinates>-74.006,40.7143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4386">
+            <name>New Hampshire</name>
+            <Point id="geom_4246">
+                <coordinates>-71.563896,43.452492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4387">
+            <name>Phoenix</name>
+            <Point id="geom_4247">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4388">
+            <name>Tucson Arizona</name>
+            <Point id="geom_4248">
+                <coordinates>-110.9265,32.2217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4389">
+            <name>Los Angeles</name>
+            <Point id="geom_4249">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4390">
+            <name>Nebraska</name>
+            <Point id="geom_4250">
+                <coordinates>-98.268082,41.125370,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4391">
+            <name>Buffalo</name>
+            <Point id="geom_4251">
+                <coordinates>-78.8784,42.8865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4392">
+            <name>Hamilton Ontario</name>
+            <Point id="geom_4252">
+                <coordinates>-79.8496,43.2501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4393">
+            <name>Flagstaff</name>
+            <Point id="geom_4253">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4394">
+            <name>Connecticut</name>
+            <Point id="geom_4254">
+                <coordinates>-72.755371,41.597782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4395">
+            <name>California</name>
+            <Point id="geom_4255">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4396">
+            <name>Matkat</name>
+            <Point id="geom_4256">
+                <coordinates>-112.6732124,36.3440738,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

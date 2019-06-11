@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4557">
+        <Placemark id="feat_4558">
+            <name>France</name>
+            <Point id="geom_4413">
+                <coordinates>2.213749,46.227638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4559">
+            <name>Nebraska</name>
+            <Point id="geom_4414">
+                <coordinates>-98.268082,41.125370,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4560">
+            <name>Oklahoma</name>
+            <Point id="geom_4415">
+                <coordinates>-96.928917,35.565342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4561">
+            <name>Canyon Diablo</name>
+            <Point id="geom_4416">
+                <coordinates>-111.117644,35.1627902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4562">
+            <name>Kinnikinick Lake</name>
+            <Point id="geom_4417">
+                <coordinates>-111.3106509,34.8958909,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4563">
+            <name>Sunshine</name>
+            <Point id="geom_4418">
+                <coordinates>-113.3382816,36.6374824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4564">
+            <name>Montana</name>
+            <Point id="geom_4419">
+                <coordinates>-110.454353,46.921925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4565">
+            <name>Arizona</name>
+            <Point id="geom_4420">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4566">
+            <name>Flagstaff</name>
+            <Point id="geom_4421">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

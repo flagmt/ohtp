@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_3015">
+        <Placemark id="feat_3016">
+            <name>Boulder City</name>
+            <Point id="geom_2909">
+                <coordinates>-114.8325,35.9786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3017">
+            <name>Grand Canyon</name>
+            <Point id="geom_2910">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3018">
+            <name>Washington DC</name>
+            <Point id="geom_2911">
+                <coordinates>-77.0364,38.8951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3019">
+            <name>Whitmore</name>
+            <Point id="geom_2912">
+                <coordinates>-111.809099,40.5755041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3020">
+            <name>Tapeats Creek</name>
+            <Point id="geom_2913">
+                <coordinates>-112.4693497,36.3705377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3021">
+            <name>Saint Louis</name>
+            <Point id="geom_2914">
+                <coordinates>-90.1979,38.6273,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

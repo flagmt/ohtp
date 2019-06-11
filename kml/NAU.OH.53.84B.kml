@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4242">
+        <Placemark id="feat_4243">
+            <name>Dinosaur</name>
+            <Point id="geom_4106">
+                <coordinates>-109.0145613,40.243578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4244">
+            <name>Venice</name>
+            <Point id="geom_4107">
+                <coordinates>-84.1916,39.7589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4245">
+            <name>Crystal</name>
+            <Point id="geom_4108">
+                <coordinates>-112.2464654,36.1366442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4246">
+            <name>Havasu</name>
+            <Point id="geom_4109">
+                <coordinates>-112.7643937,36.3072988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4247">
+            <name>Europe</name>
+            <Point id="geom_4110">
+                <coordinates>7.4268,50.2191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4248">
+            <name>Ruby</name>
+            <Point id="geom_4111">
+                <coordinates>-111.2375949,31.4612044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4249">
+            <name>House Rock</name>
+            <Point id="geom_4112">
+                <coordinates>-111.7400124,36.67345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4250">
+            <name>Montgomery Alabama</name>
+            <Point id="geom_4113">
+                <coordinates>-86.3,32.3668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4251">
+            <name>Bedrock</name>
+            <Point id="geom_4114">
+                <coordinates>-112.4621177,36.3296091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4252">
+            <name>Iceberg Canyon</name>
+            <Point id="geom_4115">
+                <coordinates>-114.0844063,36.1508187,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4253">
+            <name>Colorado</name>
+            <Point id="geom_4116">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4254">
+            <name>Woodland Hills California</name>
+            <Point id="geom_4117">
+                <coordinates>-118.6059,34.1683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4255">
+            <name>Arizona</name>
+            <Point id="geom_4118">
+                <coordinates>-111.431221,33.729759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4256">
+            <name>Serpentine</name>
+            <Point id="geom_4119">
+                <coordinates>-112.3298989,36.2088696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4257">
+            <name>Meadview</name>
+            <Point id="geom_4120">
+                <coordinates>-114.0682936,36.0022091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4258">
+            <name>Grand Canyon</name>
+            <Point id="geom_4121">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4259">
+            <name>Roseville</name>
+            <Point id="geom_4122">
+                <coordinates>-121.288,38.7521,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4260">
+            <name>Grapevine</name>
+            <Point id="geom_4123">
+                <coordinates>-112.0024418,36.0590392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4261">
+            <name>New York</name>
+            <Point id="geom_4124">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4262">
+            <name>Vietnam</name>
+            <Point id="geom_4125">
+                <coordinates>108.277199,14.058324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4263">
+            <name>Berkeley</name>
+            <Point id="geom_4126">
+                <coordinates>-122.2728,37.8716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4264">
+            <name>Horn Creek</name>
+            <Point id="geom_4127">
+                <coordinates>-112.1347811,36.0995167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4265">
+            <name>Split Mountain</name>
+            <Point id="geom_4128">
+                <coordinates>-109.2642948,40.4516292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4266">
+            <name>LA</name>
+            <Point id="geom_4129">
+                <coordinates>-118.2437,34.0522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4267">
+            <name>Flagstaff</name>
+            <Point id="geom_4130">
+                <coordinates>-111.6512725,35.1980671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4268">
+            <name>Asia</name>
+            <Point id="geom_4131">
+                <coordinates>89.2969,29.8406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4269">
+            <name>Lava Falls</name>
+            <Point id="geom_4132">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4270">
+            <name>Africa</name>
+            <Point id="geom_4133">
+                <coordinates>21.0938,7.1881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4271">
+            <name>Mill Valley California</name>
+            <Point id="geom_4134">
+                <coordinates>-121.9747,37.2266,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4272">
+            <name>Sedona</name>
+            <Point id="geom_4135">
+                <coordinates>-111.7609896,34.8697395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4273">
+            <name>South Cove</name>
+            <Point id="geom_4136">
+                <coordinates>-114.0980174,36.0905415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4274">
+            <name>Upset</name>
+            <Point id="geom_4137">
+                <coordinates>-112.6950973,36.3552725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4275">
+            <name>Oakland</name>
+            <Point id="geom_4138">
+                <coordinates>-122.2708,37.8044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4276">
+            <name>Havasu Falls</name>
+            <Point id="geom_4139">
+                <coordinates>-112.6979523,36.2551476,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4277">
+            <name>Lava</name>
+            <Point id="geom_4140">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4278">
+            <name>Fairfield Iowa</name>
+            <Point id="geom_4141">
+                <coordinates>-91.9627,41.0086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4279">
+            <name>Woodland</name>
+            <Point id="geom_4142">
+                <coordinates>-111.648682,40.015322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4280">
+            <name>Berlin</name>
+            <Point id="geom_4143">
+                <coordinates>13.4105,52.5244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4281">
+            <name>South Africa</name>
+            <Point id="geom_4144">
+                <coordinates>22.937506,-30.559482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4282">
+            <name>Texas</name>
+            <Point id="geom_4145">
+                <coordinates>-97.563461,31.054487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4283">
+            <name>Deer Creek</name>
+            <Point id="geom_4146">
+                <coordinates>-108.691156,31.4345501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4284">
+            <name>Mohawk</name>
+            <Point id="geom_4147">
+                <coordinates>-113.7552022,32.7267144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4285">
+            <name>Sacramento</name>
+            <Point id="geom_4148">
+                <coordinates>-121.4944,38.5816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4286">
+            <name>Oregon</name>
+            <Point id="geom_4149">
+                <coordinates>-122.070938,44.572021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4287">
+            <name>Hance</name>
+            <Point id="geom_4150">
+                <coordinates>-111.9203492,36.0459215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4288">
+            <name>California</name>
+            <Point id="geom_4151">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

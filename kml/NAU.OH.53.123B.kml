@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_2431">
+        <Placemark id="feat_2432">
+            <name>Dinosaur</name>
+            <Point id="geom_2344">
+                <coordinates>-109.0145613,40.243578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2433">
+            <name>Lees Ferry</name>
+            <Point id="geom_2345">
+                <coordinates>-111.5951607,36.8674876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2434">
+            <name>Grand Canyon</name>
+            <Point id="geom_2346">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2435">
+            <name>Cataract Canyon</name>
+            <Point id="geom_2347">
+                <coordinates>-111.0415119,33.9147674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2436">
+            <name>Desolation</name>
+            <Point id="geom_2348">
+                <coordinates>-110.0109796,39.4166324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2437">
+            <name>Moab</name>
+            <Point id="geom_2349">
+                <coordinates>-109.5498395,38.5733155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2438">
+            <name>Riverside California</name>
+            <Point id="geom_2350">
+                <coordinates>-117.3962,33.9534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2439">
+            <name>Horn Creek</name>
+            <Point id="geom_2351">
+                <coordinates>-112.1347811,36.0995167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2440">
+            <name>Flaming Gorge</name>
+            <Point id="geom_2352">
+                <coordinates>-109.6093107,40.9555148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2441">
+            <name>Desolation Canyon</name>
+            <Point id="geom_2353">
+                <coordinates>-110.0109796,39.4166324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2442">
+            <name>Lava Falls</name>
+            <Point id="geom_2354">
+                <coordinates>-113.0838154,36.1974814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2443">
+            <name>Phantom</name>
+            <Point id="geom_2355">
+                <coordinates>-112.0876685,36.1160939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2444">
+            <name>Wyoming</name>
+            <Point id="geom_2356">
+                <coordinates>-107.302490,42.755966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2445">
+            <name>Vernal</name>
+            <Point id="geom_2357">
+                <coordinates>-107.8292277,38.3897096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2446">
+            <name>San Juan</name>
+            <Point id="geom_2358">
+                <coordinates>121.0333,14.6,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2447">
+            <name>China</name>
+            <Point id="geom_2359">
+                <coordinates>104.195397,35.86166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2448">
+            <name>Colorado</name>
+            <Point id="geom_2360">
+                <coordinates>-105.311104,39.059811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2449">
+            <name>Boulder City</name>
+            <Point id="geom_2361">
+                <coordinates>-114.8325,35.9786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2450">
+            <name>Pearce Ferry Rapid</name>
+            <Point id="geom_2362">
+                <coordinates>-113.988929,36.131859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2451">
+            <name>Lake Powell</name>
+            <Point id="geom_2363">
+                <coordinates>-105.6603285,40.2549845,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

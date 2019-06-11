@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_4171">
+        <Placemark id="feat_4172">
+            <name>Nevada</name>
+            <Point id="geom_4037">
+                <coordinates>-117.055374,38.313515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4173">
+            <name>Cincinnati</name>
+            <Point id="geom_4038">
+                <coordinates>-84.5144,39.1271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4174">
+            <name>Glen Canyon</name>
+            <Point id="geom_4039">
+                <coordinates>-111.5879381,36.8644321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4175">
+            <name>Glen Canyon Dam</name>
+            <Point id="geom_4040">
+                <coordinates>-111.484325,36.9374881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4176">
+            <name>Lake Powell</name>
+            <Point id="geom_4041">
+                <coordinates>-105.6603285,40.2549845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4177">
+            <name>Chicago</name>
+            <Point id="geom_4042">
+                <coordinates>-87.65,41.85,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_2468">
+        <Placemark id="feat_2469">
+            <name>Boulder City</name>
+            <Point id="geom_2379">
+                <coordinates>-114.8325,35.9786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2470">
+            <name>Moab</name>
+            <Point id="geom_2380">
+                <coordinates>-109.5498395,38.5733155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2471">
+            <name>Hawaii</name>
+            <Point id="geom_2381">
+                <coordinates>-157.498337,21.094318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2472">
+            <name>Grand Canyon</name>
+            <Point id="geom_2382">
+                <coordinates>-112.1374187,35.959223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2473">
+            <name>Salt Lake</name>
+            <Point id="geom_2383">
+                <coordinates>-111.8911,40.7608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2474">
+            <name>Desolation</name>
+            <Point id="geom_2384">
+                <coordinates>-110.0109796,39.4166324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2475">
+            <name>New York</name>
+            <Point id="geom_2385">
+                <coordinates>-74.948051,42.165726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2476">
+            <name>Phoenix</name>
+            <Point id="geom_2386">
+                <coordinates>-112.074,33.4484,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2477">
+            <name>Berkeley</name>
+            <Point id="geom_2387">
+                <coordinates>-122.2728,37.8716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2478">
+            <name>Ouray</name>
+            <Point id="geom_2388">
+                <coordinates>-107.6714487,38.0227716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2479">
+            <name>Cameron</name>
+            <Point id="geom_2389">
+                <coordinates>-111.4129207,35.8758285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2480">
+            <name>Tusayan</name>
+            <Point id="geom_2390">
+                <coordinates>-112.1265569,35.9735954,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2481">
+            <name>California</name>
+            <Point id="geom_2391">
+                <coordinates>-119.681564,36.116203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_2482">
+            <name>Grandview</name>
+            <Point id="geom_2392">
+                <coordinates>-107.8270093,37.227503,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
